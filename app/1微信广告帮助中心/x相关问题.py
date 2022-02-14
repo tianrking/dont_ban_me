@@ -15,11 +15,19 @@ options.headless = True
 options.add_argument("--disable-notifications")
 driver = webdriver.Chrome("/usr/bin/chromedriver", options=options)
 
-read_file = pd.read_csv('/home/tianrking/pachong/app/相关问题.csv')
-read_file = read_file[['KEY', 'URL']]
+# read_file = pd.read_csv('相关问题.csv')
+read_file = pd.read_csv('/home/tianrking/pachong/app/1微信广告帮助中心/ad_weixin_qq_com_guide_titile_clean.csv')
+print(read_file.head())
 # print(read_file.head())
 
+df = read_file.copy()
 
+
+# df.loc[df.shape[0]] = dict(zip(df.columns, value)
+# df.iloc[]
+
+
+###########
 for index, row in read_file.iterrows():
     url = row['URL'] 
     print(url)
@@ -27,10 +35,46 @@ for index, row in read_file.iterrows():
     driver.get(url)
     time.sleep(5)
     soup = BeautifulSoup(driver.page_source, 'lxml')
-    aa=soup.find(attrs={'class': 'md-panel_expanded md-panel'}).find(attrs={'class':'md-panel__header-text'})
+    # aa=soup.find(attrs={'class': 'md-panel_expanded md-panel'}).find(attrs={'class':'md-panel__header-text'})
+    # df.loc[df.shape[0]]={'a':1,'b':2}
+    # print(read_file.head())
+    save_html="all_in_one_html_dir/"+url.split("https://ad.weixin.qq.com/guide/")[1]+".html"
+    name = str(soup.find(attrs={'class': 'guide__title'}).get_text())
+    
+    save_html="all_in_one_html_dir/"+name+url.split("https://ad.weixin.qq.com/guide/")[1]+".html"
+    print(name)
+    f = open(save_html,'wb')
+    f.write(driver.page_source.encode("utf-8", "ignore"))
+    print("wtite %s " % save_html)
+    f.close() 
 # aa=aa.find(attrs={'class': 'md-panel__header-text'})
 
-    print(aa.get_text())
+
+# url = "https://ad.weixin.qq.com/guide/" + str(165)
+# driver.get(url)
+# soup = BeautifulSoup(driver.page_source, 'lxml')
+# time.sleep(10)
+# print(soup)
+# f = open("a.html",'wb')
+# f.write(driver.page_source.encode("utf-8", "ignore"))
+# f.close()
+
+
+# url = "https://ad.weixin.qq.com/guide/" + str(165)
+
+# url = "https://www.baidu.com"
+
+# url = "https://ad.weixin.qq.com/guide/288"
+# driver.get(url)
+# time.sleep(6)
+# soup = BeautifulSoup(driver.page_source, 'lxml')
+# with open("a.html",'wb') as f:
+#     f.write(driver.page_source.encode("utf-8", "ignore")) # 忽略非法字符
+# print('写入成功')    
+# print(soup)
+
+
+#     print(aa.get_text())
 
 ## get_text() 
 # get_text()) # 我们使用get_text()方法获得标签内容
