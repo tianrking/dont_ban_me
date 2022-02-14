@@ -1,3 +1,4 @@
+from attr import attrs
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
@@ -17,19 +18,40 @@ driver = webdriver.Chrome("/usr/bin/chromedriver", options=options)
 read_file = pd.read_csv('/home/tianrking/pachong/app/相关问题.csv')
 read_file = read_file[['KEY', 'URL']]
 # print(read_file.head())
+
+
 for index, row in read_file.iterrows():
     url = row['URL'] 
+    print(url)
+    # url = 'https://ad.weixin.qq.com/guide/175'
     driver.get(url)
-    time.sleep(8)
+    time.sleep(5)
     soup = BeautifulSoup(driver.page_source, 'lxml')
-    aa=soup.find_all(attrs={'class': 'md-panel_expanded md-panel'})
-    html = etree.HTML(driver.page_source)
-    # title = html.xpath("//div[@class='qa-list'][1]//h3[@class='qa-list__title']/a/text()")
+    aa=soup.find(attrs={'class': 'md-panel_expanded md-panel'}).find(attrs={'class':'md-panel__header-text'})
+# aa=aa.find(attrs={'class': 'md-panel__header-text'})
+
+    print(aa.get_text())
+
+## get_text() 
+# get_text()) # 我们使用get_text()方法获得标签内容
+# get['href'] # get['attrs']方法获得标签属性
+
+# for index, row in read_file.iterrows():
+#     url = row['URL'] 
+#     print(url)
+#     driver.get(url)
+#     time.sleep(5)
+#     soup = BeautifulSoup(driver.page_source, 'lxml')
+#     aa=soup.find_all(attrs={'class': 'md-panel_expanded md-panel'})
+#    # # html = etree.HTML(driver.page_source)
+    
+#     html = etree.parse(driver.page_source, etree.HTMLParser())
+  #  result = html.xpath('//*')
     # result = etree.tostring(html)
     
-    result = etree.tostring(html,encoding="unicode")
-    
-    print(result)
+    #html = etree.tostring(html,encoding="unicode")
+    #html.xpath('//*')
+   # print(html)
     # print(result.decode('utf-8'))
     
     # driver.get(url)
