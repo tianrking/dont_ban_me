@@ -42,7 +42,7 @@ def request_api(T_name,begin,end):
 
 
 try:
-    begin = 2000  # 1000- 2000 # 2000-3000 # 3000-4000
+    begin = 2000  # 1000- 2000 1k # 2000-3000 # 3000-4000
     end = 3000
     sum = end - begin
     step = 4
