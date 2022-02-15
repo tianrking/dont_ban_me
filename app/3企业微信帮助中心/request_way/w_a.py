@@ -14,7 +14,7 @@ df = pd.read_csv('./requests_url_thread.txt',header=None,names=['KEY','URL'])
 ## df.drop df[~df]
 awesome = df[df['KEY']!='帮助中心-企业微信']
 
-awesome['KEY']=awesome.KEY.to_string().split("-帮助中心-企业微信")[0]
+awesome['KEY']=awesome.KEY.map(lambda x: x.split("-帮助中心-企业微信")[0])
 print(awesome)
 
 awesome.to_csv('awesome_link.csv')
