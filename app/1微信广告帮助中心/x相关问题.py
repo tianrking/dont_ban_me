@@ -47,6 +47,7 @@ for index, row in read_file.iterrows():
     f.write(driver.page_source.encode("utf-8", "ignore"))
     print("wtite %s " % save_html)
     f.close() 
+    
 # aa=aa.find(attrs={'class': 'md-panel__header-text'})
 
 
