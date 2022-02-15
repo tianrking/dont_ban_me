@@ -1,0 +1,108 @@
+闪屏新玩法,# Follow U延续型闪屏
+
+
+<video x-webkit-airplay="true"
+        webkit-playsinline=""
+        playsinline="true"
+        controls=""
+        autoplay loop src="https://bbx-video.gtimg.com/shg_17545_50010_95b864c5fd1957c758c7892dd14d0c71.f0.mp4">
+        <source src=https://bbx-video.gtimg.com/shg_17545_50010_95b864c5fd1957c758c7892dd14d0c71.f0.mp4 type="video/mp4">
+        </video>
+				
+				
+				
+### 简介：
+* 闪屏+首页小浮层广告，轻量高效闪屏结束后缩至首页小浮层，悬浮30s
+
+
+### 优势：
+
+
+* 曝光延长：30S首页曝光延长，持续促进用户转化
+
+
+* 轻量高效：点击率均值较常规闪屏提升20%，支持跳转H5页面/电商APP/小程序等
+
+
+*注：以上数据均为产品平均表现区间，非示例demo中客户投放数据* 
+
+
+|  | 合约 |  |
+| -------- | -------- | -------- |
+| 支持终端：     | 移动     |     |
+| 计费模式：     | CPD/CPM     |     |
+| 特殊形式：     | 性别第一刷支持    |     |
+| 支持素支持材规格：    | 静态图片/视频/沉浸式  |     |
+注：暂不支持竞价
+
+
+
+# 轻互动闪屏
+
+
+<video x-webkit-airplay="true"
+        webkit-playsinline=""
+        playsinline="true"
+        controls=""
+        autoplay loop src="https://bbx-video.gtimg.com/shg_38920_50010_de5d5232c432b86adc2507777535b373.f0.mp4">
+        <source src=https://bbx-video.gtimg.com/shg_38920_50010_de5d5232c432b86adc2507777535b373.f0.mp4 type="video/mp4">
+        </video>
+				
+				
+### 简介：
+* 互动闪屏+竖版视频广告，全链路升级、触达转化一气呵成6s视频闪屏、互动后触发10s视频彩蛋，播放结束后自动拉起落地页
+
+
+### 优势：
+* 超强互动：6S沉浸式视频趣味指引互动，广告点击率（CTR）提升近100%
+
+
+* 超强好感：趣味互动形式显著提升品牌及产品好感度
+
+
+* 超强引流：支持落地页自动拉起，互动直接打开落地页/唤起APP，助力提升到达量
+
+
+*注：以上数据均为产品平均表现区间，非示例demo中客户投放数据*
+
+
+|  | 合约 |  |
+| -------- | -------- | -------- |
+| 支持终端：     | 移动     |     |
+| 计费模式：     | CPD/CPM    |     |
+| 特殊形式：    | 性别第一刷  |     |
+| 支持素材规格：    | 6s视频+10s视频 |     |
+注：暂不支持竞价
+
+
+# 闪屏性别第一刷
+
+
+<video x-webkit-airplay="true"
+        webkit-playsinline=""
+        playsinline="true"
+        controls=""
+        autoplay loop src="https://bbx-video.gtimg.com/shg_22591_50010_fdbf9219dd2318ffbe3894a204871f1b.f0.mp4">
+        <source src=https://bbx-video.gtimg.com/shg_22591_50010_fdbf9219dd2318ffbe3894a204871f1b.f0.mp4 type="video/mp4">
+        </video>
+				
+				
+### 简介：
+* 投放当天男性/女性用户打开APP的首个闪屏广告，精准触达TA
+
+
+### 优势：
+
+
+* 目标UV全覆盖：抢占用户第一视觉，目标UV触达量提升4倍
+
+
+* 直击目标诉求：在特殊节点满足女性关爱、男性送礼、明星代言等营销诉求
+
+
+* 形式多样：支持常规/闪屏新样式
+
+|  | 合约 |  |
+| -------- | -------- | -------- |
+| 计费模式：     | CPD  |     |
+注：暂不支持竞价
