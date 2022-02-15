@@ -13,11 +13,13 @@ import pandas as pd
 def request_api(T_name,begin,end):
     df = pd.DataFrame()
     for i in tqdm(range(begin,end)):
+        i = 1712
         url = 'https://e.qq.com/portal/helper/contents?post_id=%s' % str(i) #1712
         res = requests.get(url,cookies = {'nothing':'1'}) # 
         Soup = BeautifulSoup(res.text,'html.parser')
         JS = json.loads(res.text)
-
+        # print(Soup.text.title)
+        print(JS)
         if JS['code']!=0:
             continue
         if JS['code']==0:
@@ -34,16 +36,16 @@ def request_api(T_name,begin,end):
                 columns = ['Q','A'],
                 )
             # df = 
-            df.to_csv('data_all_in_one/QA_2k.csv', mode='a', header=False)
-            # print(name,answer)
+            df.to_csv('data_all_in_one/QA_3k.csv', mode='a', header=False)
+            print(question)
             
         # print(T_name)
         # print(i)
 
 
 try:
-    begin = 2000  # 1000- 2000 1k # 2000-3000 # 3000-4000
-    end = 3000
+    begin = 1000  # 1000- 2000 1k # 2000-3000 2k 0 ? # 3000-4000 3k
+    end = 2000
     sum = end - begin
     step = 4
     time = int(sum / step)
