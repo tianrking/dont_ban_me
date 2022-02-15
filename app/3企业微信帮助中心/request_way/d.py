@@ -22,13 +22,14 @@ def download(threadName, start , end ):
         name = df.loc[i,'KEY']
         number = url.split('https://open.work.weixin.qq.com/help2/pc/')[1]
         number = number.split('?person_id=1')[0]
-        # print(url,name,number)
+        print(name,number)
         res = requests.get(url,cookies = {'dont ban me':'1'}) # 
         Soup = BeautifulSoup(res.text,'html.parser')
         dir = "all_in_one_html/"
         if len(name) > 4:
             _name=name[4]    
-        dirname = dir + number+'__'+_name+'.html'  ## 此处两个_ 留着split用
+        # dirname = dir + number+'__'+_name+'.html'  ## 此处两个_ 留着split用
+        dirname = dir + number+'.html'
         # print(res.text)
         # print(dirname)
         print(threadName)
