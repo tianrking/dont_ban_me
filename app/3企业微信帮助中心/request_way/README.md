@@ -16,10 +16,10 @@ python m.py // 多线程抓取 存放到 ./requests_url_thread.txt
 
 清洗数据 
 ```bash
-python d_a.py // 清洗单线程数据
-python d_m.py // 清洗多线程数据
+python w_a.py // 清洗单线程数据
+python w_m.py // 清洗多线程数据
 ```
 抓取网页
 ```bash
-
+python d.py
 ```
