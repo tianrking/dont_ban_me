@@ -36,7 +36,7 @@ def request_api(T_name,begin,end):
                 columns = ['Q','A'],
                 )
             # df = 
-            df.to_csv('data_all_in_one/QA_5k.csv', mode='a', header=False)
+            df.to_csv('data_all_in_one/QA_7k.csv', mode='a', header=False)
             print(question)
             
         # print(T_name)
@@ -44,8 +44,10 @@ def request_api(T_name,begin,end):
 
 
 try:
-    begin = 5000  # 1000- 2000 1k # 2000-3000 2k 0 ? # 3000-4000 3k # 4000-5000 4k # 5000-6000 5k
-    end = 6000
+    begin = 7000  
+    # 1000-2000 1k # 2000-3000 2k 0 ? # 3000-4000 3k # 4000-5000 4k # 5000-6000 5k 
+    # 6000-7000 6k # 7000-8000 7k
+    end = 8000
     sum = end - begin
     step = 4
     time = int(sum / step)
