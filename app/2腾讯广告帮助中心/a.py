@@ -13,7 +13,7 @@ import pandas as pd
 def request_api(T_name,begin,end):
     df = pd.DataFrame()
     for i in tqdm(range(begin,end)):
-        i = 1712
+        # i = 1712
         url = 'https://e.qq.com/portal/helper/contents?post_id=%s' % str(i) #1712
         res = requests.get(url,cookies = {'nothing':'1'}) # 
         Soup = BeautifulSoup(res.text,'html.parser')
@@ -36,7 +36,7 @@ def request_api(T_name,begin,end):
                 columns = ['Q','A'],
                 )
             # df = 
-            df.to_csv('data_all_in_one/QA_3k.csv', mode='a', header=False)
+            df.to_csv('data_all_in_one/QA_5k.csv', mode='a', header=False)
             print(question)
             
         # print(T_name)
@@ -44,15 +44,15 @@ def request_api(T_name,begin,end):
 
 
 try:
-    begin = 1000  # 1000- 2000 1k # 2000-3000 2k 0 ? # 3000-4000 3k
-    end = 2000
+    begin = 5000  # 1000- 2000 1k # 2000-3000 2k 0 ? # 3000-4000 3k # 4000-5000 4k # 5000-6000 5k
+    end = 6000
     sum = end - begin
     step = 4
     time = int(sum / step)
-    _thread.start_new_thread(request_api, ("Thread-1", 0 , time) )
-    _thread.start_new_thread(request_api, ("Thread-2", time , time*2) )
-    _thread.start_new_thread(request_api, ("Thread-3", time*2 , time*3) )
-    _thread.start_new_thread(request_api, ("Thread-4", time*3,  time*4) )
+    _thread.start_new_thread(request_api, ("Thread-1", 0+begin , begin+time) )
+    _thread.start_new_thread(request_api, ("Thread-2", begin + time , begin + time*2) )
+    _thread.start_new_thread(request_api, ("Thread-3", begin + time*2 , begin + time*3) ) 
+    _thread.start_new_thread(request_api, ("Thread-4", begin + time*3,  begin + time*4) )
     # _thread.start_new_thread(download, ("Thread-5", start , k , 3) )
 except:
    print ("Error: 无法启动线程")
