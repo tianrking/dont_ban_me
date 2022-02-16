@@ -19,7 +19,7 @@ def request_api(T_name,begin,end):
         Soup = BeautifulSoup(res.text,'html.parser')
         JS = json.loads(res.text)
         # print(Soup.text.title)
-        print(JS)
+        # print(JS)
         if JS['code']!=0:
             continue
         if JS['code']==0:
@@ -36,18 +36,18 @@ def request_api(T_name,begin,end):
                 columns = ['Q','A'],
                 )
             # df = 
-            df.to_csv('data_all_in_one/QA_7k.csv', mode='a', header=False)
-            print(question)
+            df.to_csv('data_all_in_one/QA_1k.csv', mode='a', header=False)
+            # print(question)
             
         # print(T_name)
         # print(i)
 
 
 try:
-    begin = 7000  
+    begin = 1000  
     # 1000-2000 1k # 2000-3000 2k 0 ? # 3000-4000 3k # 4000-5000 4k # 5000-6000 5k 
     # 6000-7000 6k # 7000-8000 7k
-    end = 8000
+    end = 2000
     sum = end - begin
     step = 4
     time = int(sum / step)
