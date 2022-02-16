@@ -8,13 +8,6 @@ f = open('data_all.txt','w')
 f.write(rec.text)
 f.close()
 
-
-
-
-
-
-
-
 # curl 'https://ad.weixin.qq.com/openapi/acms_files/get?filename=data' \
 #   -H 'authority: ad.weixin.qq.com' \
 #   -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Microsoft Edge";v="98"' \
