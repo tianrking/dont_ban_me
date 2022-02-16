@@ -86,7 +86,7 @@ params = (
     ('lang', 'zh_CN'),
     ('ajax', '1'),
     ('f', 'json'),
-    ('random', '23335'),
+    ('random', '22340'),
 )
 
 ## doc id 编号为主文档对应序号
@@ -129,7 +129,7 @@ def request_api(T_name,begin,end):
                     [Q,A_md]],
                     columns = ['Q','A'],
                     )
-            df.to_csv('data_all_in_one/QA_5k.csv', mode='a', header=False)
+            df.to_csv('data_all_in_one/QA_7k.csv', mode='a', header=False)
             
         except:
             continue
@@ -137,10 +137,10 @@ def request_api(T_name,begin,end):
         # print(A_md[:20])
         
 try:
-    begin = 19000
+    begin = 13000
 # 15000-16000 1k  # 16000-17000 2k # 17000-18000 3k # 18000-19000 4k
-# 19000-20000 5k # 14000-15000 6k
-    end = 20000
+# 19000-20000 5k # 14000-15000 6k $ 13000-14000 7k
+    end = 14000
     sum = end - begin
     step = 4
     time = int(sum / step)
