@@ -1,7 +1,3 @@
 ## 使用方式
 
-### 寻找url
-
-```bash
-python a.py // 单线程抓取
-```
+查看对应目录README.md
