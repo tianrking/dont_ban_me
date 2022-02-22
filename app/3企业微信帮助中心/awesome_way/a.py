@@ -71,22 +71,22 @@ headers = {
     'accept': 'application/json, text/plain, */*',
     'content-type': 'application/json',
     'sec-ch-ua-mobile': '?0',
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36 Edg/98.0.1108.51',
+    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56',
     'sec-ch-ua-platform': '"macOS"',
     'origin': 'https://open.work.weixin.qq.com',
     'sec-fetch-site': 'same-origin',
     'sec-fetch-mode': 'cors',
     'sec-fetch-dest': 'empty',
-    'referer': 'https://open.work.weixin.qq.com/help2/pc/15405?person_id=1',
+    'referer': 'https://open.work.weixin.qq.com/help2/pc/16526',
     'accept-language': 'zh-TW,zh-CN;q=0.9,zh;q=0.8,en;q=0.7,en-GB;q=0.6,en-US;q=0.5,zh-HK;q=0.4',
-    'cookie': 'pgv_pvid=3686684000; pac_uid=0_3cbd911c9ce83; pgv_info=ssid=s2798911544; pgv_pvi=4654092288; pgv_si=s6420471808; wwrtx.ref=direct; wwrtx.c_gdpr=0; wwrtx.refid=413075501944711; __utma=114362329.896737070.1644833346.1644833346.1644833346.1; __utmc=114362329; __utmz=114362329.1644833346.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); Hm_lvt_f2ba645ba13636ba52b0234381f51cbc=1644833347; Hm_lpvt_f2ba645ba13636ba52b0234381f51cbc=1644833970; uin=o0508195902; skey=@sEUq3VJWl; RK=hA9xBYtEcN; ptcz=f4917937db9babf5c19203049471a3e4d45ea1fe7b770ef9ea93e47e33c0c0f5; wwrtx.i18n_lan=cht',
+    'cookie': 'pgv_pvid=3686684000; pac_uid=0_3cbd911c9ce83; pgv_pvi=4654092288; wwrtx.c_gdpr=0; __utma=114362329.896737070.1644833346.1644833346.1644833346.1; __utmz=114362329.1644833346.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); Hm_lvt_f2ba645ba13636ba52b0234381f51cbc=1644833347; RK=hA9xBYtEcN; ptcz=f4917937db9babf5c19203049471a3e4d45ea1fe7b770ef9ea93e47e33c0c0f5; wwrtx.i18n_lan=cht; pgv_info=ssid=s2791877920; pgv_si=s383571968; wwrtx.ref=direct; wwrtx.refid=6308703232183814',
 }
 
 params = (
     ('lang', 'zh_CN'),
     ('ajax', '1'),
     ('f', 'json'),
-    ('random', '22340'),
+    ('random', '630161'),
 )
 
 ## doc id 编号为主文档对应序号
@@ -109,25 +109,32 @@ i=569866 # https://open.work.weixin.qq.com/help2/pc/14674?person_id=1
 
 def request_api(T_name,begin,end):
     df = pd.DataFrame()
+
     for i in tqdm(range(begin,end)):
-        data = '{"person_id":1,"doc_id":%s}'% str(i)                    
+        
+        data = '{"person_id":1,"doc_id":%s}'% str(i)                   
         res = requests.post('https://open.work.weixin.qq.com/help2/getQusList', headers=headers, params=params, data=data)
+
         res = json.loads(res.text)
         # print(res['data'])
-        
+        # print(res)
         # f = open('aaaaa.json','w')
         # f.write(str(res))
         # f.close()
         # exit()
-        # print(i)
+        
         try:
             Q = res['data']['helpdocument']['qusList'][0]['title']
+            print(i)
             A_md = res['data']['helpdocument']['qusList'][0]['content_md']
+            A_URL = "https://open.work.weixin.qq.com/help2/pc/16652/"+str(res['data']['helpdocument']['id'])
+            
+            print("ABC")
             # A_html = res['data']['helpdocument']['qusList'][0]['content_html']
             # A_txt = res['data']['helpdocument']['qusList'][0]['content_txt']
             df = pd.DataFrame(data=[
-                    [Q,A_md]],
-                    columns = ['Q','A'],
+                    [Q,A_md,A_URL]],
+                    columns = ['Q','A','URL'],
                     )
             df.to_csv('data_all_in_one/QA_7k.csv', mode='a', header=False)
             
@@ -155,20 +162,4 @@ except:
 
 while 1:
     pass        
-
-#### 不在doclist[x]下 0,1 0-14 doclist 是左侧的目录 文字内容在右侧 所以不在doclist下
-# data_docList = res['data']['docList'][0]
-# # print(data_docList.keys())
-# # 'id', 'title', 'time', 'author', 'type', 'parent_id', 
-# # 'is_deleted', 'status', 'doc_id', 'order_id', 'qus_list',
-# # 'hot_tag', 'icon', 'person_id', 'show_hotlist', 'hot_doc', 
-# # 'hot_id', 'tag_order_id', 'qus_doc', 'pc_icon', 
-# # 'sort_type', 'open_choose', 'open_doc', 'children']
-# aa = res['data']['docList'][0]['sort_type']
-
-
-# for i in data_docList.keys():
-#     aa = res['data']['docList'][0][i]
-#     print(aa)
-############
 
