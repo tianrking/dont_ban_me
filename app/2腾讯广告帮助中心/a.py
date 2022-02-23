@@ -25,6 +25,12 @@ def request_api(T_name,begin,end):
         if JS['code']==0:
             question = JS['data']['title'] # 问题
             answer = JS['data']['content'] # 文字答案
+            cid = JS['data']['catalogs'][0]['catalog_id'] # cid URL 参数
+            pid = JS['data']['post_id'] # pid URL 参数
+            update = JS['data']['updated_at'] # 更新时间
+            # https://e.qq.com/ads/helpcenter/detail?cid=576&pid=1712
+            url = "https://e.qq.com/ads/helpcenter/detail?cid=%s&pid=%s" % (str(cid),str(pid))
+            
             dir = 'data_all_in_one/'
             dirname = dir + "QA"+'.txt'
             write_data = question+',' + answer + "\n"
@@ -32,22 +38,20 @@ def request_api(T_name,begin,end):
             # f.write(write_data)
             # f.close()
             df = pd.DataFrame(data=[
-                [question,answer]],
-                columns = ['Q','A'],
+                [question,answer,url,update]],
+                columns = ['Q','A','URL','update'],
                 )
             # df = 
-            df.to_csv('data_all_in_one/QA_1k.csv', mode='a', header=False)
-            # print(question)
+            df.to_csv('data_all_in_one_with_url/QA_7k.csv', mode='a', header=False)
+            print(url)
             
         # print(T_name)
         # print(i)
-
-
 try:
-    begin = 1000  
+    begin = 7000  
     # 1000-2000 1k # 2000-3000 2k 0 ? # 3000-4000 3k # 4000-5000 4k # 5000-6000 5k 
     # 6000-7000 6k # 7000-8000 7k
-    end = 2000
+    end = 8000
     sum = end - begin
     step = 4
     time = int(sum / step)
