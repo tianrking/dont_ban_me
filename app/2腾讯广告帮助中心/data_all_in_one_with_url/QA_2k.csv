@@ -156,7 +156,11 @@ A：不会。
 ## Q：如果选择了优量汇的场景定向，会突破我选择的投放场景吗？
 
 
+<<<<<<< HEAD
 A：不会，优量汇相关场景定向均不会突破",https://e.qq.com/ads/helpcenter/detail?cid=517&pid=2002
+=======
+A：不会，优量汇相关场景定向均不会突破",https://e.qq.com/ads/helpcenter/detail?cid=517&pid=2002,2021-11-05 11:54:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,系统优选,"# 功能介绍
 
 
@@ -225,7 +229,11 @@ A：有效，行为与兴趣定向的系统优选功能不会影响其他定向�
 ## Q2: 如何查看系统优选的效果？
 
 
+<<<<<<< HEAD
 A: 目前没有单独的系统优选报表，建议使用“效果衡量工具”-“拆分对比实验”对比效果差异。",https://e.qq.com/ads/helpcenter/detail?cid=517&pid=2003
+=======
+A: 目前没有单独的系统优选报表，建议使用“效果衡量工具”-“拆分对比实验”对比效果差异。",https://e.qq.com/ads/helpcenter/detail?cid=517&pid=2003,2021-11-05 11:55:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,赔付政策,"# 功能介绍
 为帮助广告在投放的前期得到充分的探索，促进长期稳定的投放，腾讯广告推出成本保障政策，平台将承担投放前期的探索风险，当成本偏差较大时进行赔付，广告主可以放心新建广告持续投放。相关成本保障政策如下：
 
@@ -465,7 +473,11 @@ A: 目前没有单独的系统优选报表，建议使用“效果衡量工具�
 
 ## 12.我如何知道哪些广告命中了拒赔逻辑？
 
+<<<<<<< HEAD
 命中拒赔逻辑的广告，即使符合赔付规则，平台也不会对广告执行赔付。同时，若涉及多赔付款项追回，平台将通过站内信等方式通知具体的追回金额和方式，请对站内信保持关注。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2004
+=======
+命中拒赔逻辑的广告，即使符合赔付规则，平台也不会对广告执行赔付。同时，若涉及多赔付款项追回，平台将通过站内信等方式通知具体的追回金额和方式，请对站内信保持关注。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2004,2022-02-10 15:28:02
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,一键起量,"# 功能介绍
 
 ## （一）功能说明
@@ -596,7 +608,11 @@ A: 目前没有单独的系统优选报表，建议使用“效果衡量工具�
 **4. 广告结束起量期后，是否量级会大幅下降？**
 
 
+<<<<<<< HEAD
 广告结束起量期时，系统会将出价平滑恢复至正常水平，同时，广告获取的转化量逐渐下降，成本也逐渐回落，直至完全恢复正常投放；正常投放时的量级还是需要依赖广告自身竞争力，因此是有可能出现较大的下降的。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2005
+=======
+广告结束起量期时，系统会将出价平滑恢复至正常水平，同时，广告获取的转化量逐渐下降，成本也逐渐回落，直至完全恢复正常投放；正常投放时的量级还是需要依赖广告自身竞争力，因此是有可能出现较大的下降的。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2005,2021-11-04 11:41:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,深度优化转化行为,"# 功能介绍
 「深度优化转化行为」是为对深度转化成本有要求的广告主提供的投放产品。
 ## 微信流量
@@ -661,7 +677,11 @@ A: 目前没有单独的系统优选报表，建议使用“效果衡量工具�
 
 
 * 所选深度优化目标，需要搭配浅层成本稳定，方可进行优化（次日留存/次留率）：系统优化浅层和深度成本，同时进行深层低质人群过滤，以使广告整体成本稳定且次留率接近目标次留率
+<<<<<<< HEAD
 * 所选深度优化目标，无需搭配浅层优化，即可成本稳定：（次日留存/次留率外的其他目标）：系统对浅层成本进行风控，根据不同行业诉求区分风控力度，如：金融和教育行业风控力度较小，游戏行业为防止roi不达标从而风控力度较大",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2006
+=======
+* 所选深度优化目标，无需搭配浅层优化，即可成本稳定：（次日留存/次留率外的其他目标）：系统对浅层成本进行风控，根据不同行业诉求区分风控力度，如：金融和教育行业风控力度较小，游戏行业为防止roi不达标从而风控力度较大",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2006,2021-11-04 11:41:11
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,出价策略,"# 功能介绍
 ## 出价策略说明
 
@@ -678,7 +698,11 @@ A: 目前没有单独的系统优选报表，建议使用“效果衡量工具�
 
 可以在投放界面中广告”排期与出价“的设置环节看到如下的”出价策略“选项，点击选择相应的出价模式：
 
+<<<<<<< HEAD
 ![出价策略.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/182_20210301201445_506405.png)",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2007
+=======
+![出价策略.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/182_20210301201445_506405.png)",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2007,2021-11-04 11:41:11
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,oCPX出价,"# 功能介绍
 ## 1. 基本介绍
 
@@ -893,7 +917,11 @@ A：
 3）如果使用人群包投放，可以使用lookalike扩展人群包；
 
 
+<<<<<<< HEAD
 4）逐步提高出价。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2008
+=======
+4）逐步提高出价。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=2008,2021-11-04 11:41:11
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,什么是拆分对比实验？,"# 功能介绍
 
 
@@ -1043,7 +1071,11 @@ c)必须对某些投放内容进行优化，如修改投放时间、活动细则
 对于初期使用拆分对比实验的广告主来说，建议选定明确的测试目标（如测试A/B两个标签的效果，或测试两个素材的效果），并将测试目标设置成唯一变量，价格保持相同。在测试过程中，如需调整价格，保证实验中的广告同时调整并调整为相同价格。通过严格的控制变量法得到有效的实验结果。建议通过实验验证7天以上时间，全量后选取效果较好的实验广告继续投放。 
 
 
+<<<<<<< HEAD
 对于有经验的广告主来说，价格可以成为您调整实验的关键。在实验开始后，您可以通过对价格的调整将多条实验广告的转化成本或转化量调平，来在相同成本的情况下对比转化量的大小或在相同转化量的情况下对比成本的高低。",https://e.qq.com/ads/helpcenter/detail?cid=515&pid=2009
+=======
+对于有经验的广告主来说，价格可以成为您调整实验的关键。在实验开始后，您可以通过对价格的调整将多条实验广告的转化成本或转化量调平，来在相同成本的情况下对比转化量的大小或在相同转化量的情况下对比成本的高低。",https://e.qq.com/ads/helpcenter/detail?cid=515&pid=2009,2021-11-04 11:41:11
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,Uplift广告增效衡量介绍,"# 功能介绍
 ## 1. 为什么要用Uplift衡量？Uplift衡量适用于什么场景？
 
@@ -1130,7 +1162,11 @@ Uplift衡量主要针对转化行为衡量两个指标：
 报告示例：
 
 
+<<<<<<< HEAD
 ![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525155753_960853.png)",https://e.qq.com/ads/helpcenter/detail?cid=514&pid=2010
+=======
+![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525155753_960853.png)",https://e.qq.com/ads/helpcenter/detail?cid=514&pid=2010,2021-11-05 11:56:59
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,点击转发工具使用指引,"# 功能介绍
 
 
@@ -1450,7 +1486,11 @@ Feedback URL 要求：
 ### 如何基于获取到的点击下发数据，更高效地进行APP冷启动？
 
 
+<<<<<<< HEAD
 若您希望基于点击数据提高APP冷启动效率，除了配置推荐的字段外，您可以勾选“广告名称”字段，系统将向您下发广告对应的中文名称。您可以基于名称中带有的素材信息针对性地向用户进行推荐。",https://e.qq.com/ads/helpcenter/detail?cid=1504&pid=2011
+=======
+若您希望基于点击数据提高APP冷启动效率，除了配置推荐的字段外，您可以勾选“广告名称”字段，系统将向您下发广告对应的中文名称。您可以基于名称中带有的素材信息针对性地向用户进行推荐。",https://e.qq.com/ads/helpcenter/detail?cid=1504&pid=2011,2021-11-04 11:41:11
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,转化配置,"# 功能介绍
 ## 为什么要设置转化配置工具？ 
 
@@ -1501,7 +1541,11 @@ Feedback URL 要求：
 ## 5、去重后OCPA是否会直接使用此数据来帮助广告主优化？
 
 
+<<<<<<< HEAD
 该功能已支持，OCPA将直接使用您自定义的去重逻辑进行效果优化。",https://e.qq.com/ads/helpcenter/detail?cid=1504&pid=2013
+=======
+该功能已支持，OCPA将直接使用您自定义的去重逻辑进行效果优化。",https://e.qq.com/ads/helpcenter/detail?cid=1504&pid=2013,2021-11-04 11:41:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,转化归因使用指南,"# 功能介绍
 转化归因专区为腾讯广告提供给客户的全新的转化工具，旨在提供一体化的转化数据链路相关工具的维护和使用，同时打通数据与投放，帮助客户实现更高效、更准确的数据上报，从而提升广告投放效率及效果。
 
@@ -1536,7 +1580,11 @@ Feedback URL 要求：
 # 使用指引
 ## 转化归因授权功能使用说明
 
+<<<<<<< HEAD
 [《转化归因授权功能使用说明》](https://docs.qq.com/doc/DSkVSdmdRTk9vRklv)",https://e.qq.com/ads/helpcenter/detail?cid=1504&pid=2014
+=======
+[《转化归因授权功能使用说明》](https://docs.qq.com/doc/DSkVSdmdRTk9vRklv)",https://e.qq.com/ads/helpcenter/detail?cid=1504&pid=2014,2021-11-04 11:41:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,报表口径介绍,"# 功能介绍
 ### 报表口径介绍
 报表口径旨在向您展示不同统计视角下的报表结果，帮助您通过不同的评估视角，了解广告的表现效果。目前平台支持：广告播放、数据上报、激活时间三种报表口径。同一天的报表数据会因不同的报表口径产生差异。
@@ -1583,7 +1631,11 @@ A : 因为从广告从曝光到点击、转化是有时间间隔的，按照转�
 
 A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_line参数实现该功能。具体接口介绍请参考：https://developers.e.qq.com/docs/apilist/insights/ad_insights?version=1.1#a1
 请求参数示例：
+<<<<<<< HEAD
 ![激活3.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200713164856_651088.png)",https://e.qq.com/ads/helpcenter/detail?cid=512&pid=2016
+=======
+![激活3.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200713164856_651088.png)",https://e.qq.com/ads/helpcenter/detail?cid=512&pid=2016,2021-11-04 11:41:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,报表中心介绍,"# 功能介绍
 报表中心以广告主营销目标为导向，提供精准、全面的数据报表以及灵活便捷的数据分析操作，广告主可自由组合各种维度的查询，通过趋势图、柱状图、饼图等多种图形化或报表形式，及时、直观地掌握投放效果情况，辅助广告主优化决策，达到营销目标
 
@@ -1631,7 +1683,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 <img src='https://bbx-pic.gtimg.com/bbx/pictures/2020/79_20200526142621_463469.png' style='margin: 0'></img>
 <img src='https://bbx-pic.gtimg.com/bbx/pictures/2020/79_20200526142626_646884.png' style='margin: 0'></img>
 <img src='https://bbx-pic.gtimg.com/bbx/pictures/2020/79_20200526142630_344170.png' style='margin: 0'></img>
+<<<<<<< HEAD
 ](http://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525172832_720369.jpg)",https://e.qq.com/ads/helpcenter/detail?cid=512&pid=2017
+=======
+](http://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525172832_720369.jpg)",https://e.qq.com/ads/helpcenter/detail?cid=512&pid=2017,2021-11-04 11:41:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,商品管理介绍,"# 功能介绍
 ## 什么是商品广告上的「商品」？
 广告上的「商品」是**商品广告**的基础。**商品广告**会基于腾讯大数据（包括人群画像、行为数据），结合客户上传的商品信息，进行商品匹配用户的机器学习。从而使带有商品信息的**商品广告**能够主动找到合适的用户曝光，快速拿量，得到更高的转化。因此，若想投放商品广告，首先需要上传商品信息，商品信息越丰富，对广告越有益。
@@ -1930,7 +1986,19 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 
 *1.	**删除商品库，或解除商品库对其他账号的授权，不会影响**已经用该商品库中商品信息的在投单商品广告、多商品广告*
 
+<<<<<<< HEAD
 *2.	暂不支持将商品库授权给跨BM下的其他账号，如仍需要，请联系您的运营经理*",https://e.qq.com/ads/helpcenter/detail?cid=1511&pid=2019
+=======
+*2.	暂不支持将商品库授权给跨BM下的其他账号，如仍需要，请联系您的运营经理*",https://e.qq.com/ads/helpcenter/detail?cid=1511&pid=2019,2021-11-04 11:41:16
+0,行业解决方案,"### 相关案例：
+
+
+
+[![雅培.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/144_20200820103115_081489.jpg)](https://tencentads.com/l/txspypmy0813)
+
+
+[雅培母婴垂直案例](https://tencentads.com/l/txspypmy0813)",https://e.qq.com/ads/helpcenter/detail?cid=1107&pid=2759,2020-08-28 14:57:59
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,批量管理,"# 功能介绍
 ## 批量操作
 
@@ -2010,7 +2078,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 
 
 **tips**：使用批量修改广告前可能需要筛选筛选具有同一属性的广告，此次可借助广告筛选能力进行过滤后再进行批量修改。点击查看推广计划/广告/创意各层级支持[筛选条件](https://e.qq.com/ads/helpcenter/detail?cid=509&pid=2022)。
+<<<<<<< HEAD
 ![筛选.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529210316_286732.png)",https://e.qq.com/ads/helpcenter/detail?cid=509&pid=2021
+=======
+![筛选.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529210316_286732.png)",https://e.qq.com/ads/helpcenter/detail?cid=509&pid=2021,2021-11-04 11:41:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,基础操作,"# 功能介绍
 腾讯广告投放管理平台针对广告查询、修改、复制等广告管理场景提供了丰富的能力，帮助用户进行高效盯盘和广告优化。
 
@@ -2133,7 +2205,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 
 
 你可以在列表操作列点击【删除】某条推广计划（该推广计划下所有广告及创意将会同步删除）、广告（该广告下的所有创意将会同步删除）、创意（广告下仅有一条创意时不允许单独删除）。删除成功后将无法恢复，请谨慎操作。
+<<<<<<< HEAD
 ![删除.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529205304_807874.png)",https://e.qq.com/ads/helpcenter/detail?cid=509&pid=2022
+=======
+![删除.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529205304_807874.png)",https://e.qq.com/ads/helpcenter/detail?cid=509&pid=2022,2021-11-04 11:41:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,素材自助检测工具介绍,"# 功能介绍
 ## 一、	预审工具介绍
 
@@ -2420,7 +2496,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 -识别案例图：
 
 
+<<<<<<< HEAD
 ![3.11.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/76_20200525165710_584893.png)",https://e.qq.com/ads/helpcenter/detail?cid=508&pid=2023
+=======
+![3.11.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/76_20200525165710_584893.png)",https://e.qq.com/ads/helpcenter/detail?cid=508&pid=2023,2021-11-04 11:41:15
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,附加创意组件,"# 功能介绍
 为帮助您更高效率地收集线索，腾讯广告推出附加创意能力，通过附加创意，可以在原创意描述下方添加多种类型组件【如表单预约、电话拨打等】，有效缩短转化路径，实现服务直达。
 
@@ -2466,7 +2546,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 附加创意-智能电话线索：线索来源=广告创意，线索类型=智能电话，平台自动标记接通／未接通
 
  
+<<<<<<< HEAD
   ![9.png](https://qqadapt.qpic.cn/txdocpic/0/1dbed94dc413f49796c9e8eda6031daa/0?w=2580&h=1456)",https://e.qq.com/ads/helpcenter/detail?cid=511&pid=2024
+=======
+  ![9.png](https://qqadapt.qpic.cn/txdocpic/0/1dbed94dc413f49796c9e8eda6031daa/0?w=2580&h=1456)",https://e.qq.com/ads/helpcenter/detail?cid=511&pid=2024,2021-11-04 11:41:15
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,原生推广页,"# 功能介绍
 原生推广页是投放微信公众号与小程序、微信朋友圈等微信流量时，可选择使用的落地页。它可保证用户在微信客户端的良好浏览体验，对广告转化效果有着非常重要的积极影响。
 
@@ -2535,7 +2619,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 
 创建朋友圈广告视频广告时仅可以选择顶部素材为视频的自定义原生推广页
 ![1591670652446-f60a0be5ee37c9e8.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200609122227_029482.png)
+<<<<<<< HEAD
 ![1591670698655-d35efa201d412323.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200609122307_708600.png)",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2025
+=======
+![1591670698655-d35efa201d412323.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200609122307_708600.png)",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2025,2021-11-04 11:41:14
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,枫页落地页,"# 功能介绍
 ## 枫页落地页产品介绍
 
@@ -2735,7 +2823,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 获取订单数据：[https://developers.e.qq.com/docs/apilist/insights/order#a1](https://developers.e.qq.com/docs/apilist/insights/order#a1)
 
 
+<<<<<<< HEAD
 更新订单状态：[https://developers.e.qq.com/docs/apilist/insights/order#a2](https://developers.e.qq.com/docs/apilist/insights/order#a2)",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2026
+=======
+更新订单状态：[https://developers.e.qq.com/docs/apilist/insights/order#a2](https://developers.e.qq.com/docs/apilist/insights/order#a2)",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2026,2021-11-04 11:41:14
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,蹊径落地页,"# 功能介绍
 ## 蹊径落地页产品介绍
 
@@ -2926,7 +3018,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 
 
 3. 检测用户对落地页中元素和转化组件的感兴趣程度。
+<<<<<<< HEAD
  ![16.png](https://qqadapt.qpic.cn/txdocpic/0/45a2b1e8be00827c7d6fd0310a841b4f/0?w=446&h=575)",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2027
+=======
+ ![16.png](https://qqadapt.qpic.cn/txdocpic/0/45a2b1e8be00827c7d6fd0310a841b4f/0?w=446&h=575)",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2027,2021-12-16 18:32:22
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,视频成片订制,"# 功能介绍
 ## 视频成片订制概述
 
@@ -3104,7 +3200,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 ![17.png](https://qqadapt.qpic.cn/txdocpic/0/a4cc0ce17a02ba432770aa0fe5f64f3f/0?w=2299&h=1074)
 
 
+<<<<<<< HEAD
 更多详情请见：https://docs.qq.com/slide/DZmp3cXJXdkxOaXBS",https://e.qq.com/ads/helpcenter/detail?cid=1683&pid=2028
+=======
+更多详情请见：https://docs.qq.com/slide/DZmp3cXJXdkxOaXBS",https://e.qq.com/ads/helpcenter/detail?cid=1683&pid=2028,2021-11-04 11:41:15
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,创意中心概览,"# 功能介绍
 # 
 ## 一、 创意中心介绍
@@ -3319,7 +3419,11 @@ A：在使用广告数据洞察 (Ad Insights) 相关接口时，可通过time_li
 ![反馈详情页.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/209_20201210142435_430629.png)
 ➢ 用户可通过创意中心右下角反馈按钮进入反馈中心 >> 我的反馈，或者直接访问反馈中心 查看问题进度、追加问题、催单
 
+<<<<<<< HEAD
 ![反馈催单.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/209_20201210142449_371938.png)",https://e.qq.com/ads/helpcenter/detail?cid=505&pid=2031
+=======
+![反馈催单.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/209_20201210142449_371938.png)",https://e.qq.com/ads/helpcenter/detail?cid=505&pid=2031,2021-11-05 11:58:22
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,基础逻辑,"# 基础逻辑
 介绍分成政策、影响收入及广告展示的因素等信息
 ## 影响收入的因素
@@ -3355,7 +3459,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 广告的曝光会受到文章长短、用户阅读深度和广告填充率的影响。
 
+<<<<<<< HEAD
 如果文章太长、用户阅读深度太浅，那么用户根本到达不了广告插入的位置，也就不会产生曝光；并且，广告投放时往往会设置人群定向，系统会为用户匹配最适合的广告，若当前无适合该用户的广告，则不会展示。",https://e.qq.com/ads/helpcenter/detail?cid=447&pid=2033
+=======
+如果文章太长、用户阅读深度太浅，那么用户根本到达不了广告插入的位置，也就不会产生曝光；并且，广告投放时往往会设置人群定向，系统会为用户匹配最适合的广告，若当前无适合该用户的广告，则不会展示。",https://e.qq.com/ads/helpcenter/detail?cid=447&pid=2033,2020-05-25 11:09:22
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,数据查看,"# 数据查看
 介绍数据查看渠道、数据指标说明等信息
 ## 收入数据的更新机制
@@ -3370,7 +3478,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 ## 用户来源和收入的关联
 2019年6月1日起，通过所有渠道进入文章产生的收入都会被计入账户收入中。
 
+<<<<<<< HEAD
 通过所有渠道进入小程序/小游戏产生的收入都会被计入账户收入中。",https://e.qq.com/ads/helpcenter/detail?cid=447&pid=2034
+=======
+通过所有渠道进入小程序/小游戏产生的收入都会被计入账户收入中。",https://e.qq.com/ads/helpcenter/detail?cid=447&pid=2034,2020-05-25 11:09:14
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,返佣商品,"# 返佣商品
 介绍公众号返佣商品相关的数据展示、分成规则等信息
 ## 返佣商品的分成规则
@@ -3399,7 +3511,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 * “概览”页及“数据统计”页的“返佣商品”板块展现的是返佣商品的预估收入；
 * “概览”页的“账户收入”及“财务管理”页的“收入数据”板块中展现的返佣商品收入均为实际收入。
 
+<<<<<<< HEAD
 一般来说，在下单后的第二日，返佣商品的预估收入就展现，而实际收入会在交易确认后，由电商平台将实际佣金金额传输给微信广告，并体现在佣金确认当日的账户收入中。",https://e.qq.com/ads/helpcenter/detail?cid=447&pid=2035
+=======
+一般来说，在下单后的第二日，返佣商品的预估收入就展现，而实际收入会在交易确认后，由电商平台将实际佣金金额传输给微信广告，并体现在佣金确认当日的账户收入中。",https://e.qq.com/ads/helpcenter/detail?cid=447&pid=2035,2020-05-25 11:09:05
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,财务资料,"# 财务资料
 介绍财务资料填写须知
 ## 委托第三方收款的规则
@@ -3419,7 +3535,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 流量主可登录已开通流量主功能的帐号后台，查询当前的结算信息。如需提交不同的结算信息，请先申请变更已开通流量主帐号的结算信息，待完成变更后再登录新的帐号补充结算信息。
 ## 提示“提交失败，请重试”的处理方式
+<<<<<<< HEAD
 可能是网络或浏览器缓存问题，建议清除浏览器缓存或更换浏览器，或更换时间段再试。",https://e.qq.com/ads/helpcenter/detail?cid=448&pid=2036
+=======
+可能是网络或浏览器缓存问题，建议清除浏览器缓存或更换浏览器，或更换时间段再试。",https://e.qq.com/ads/helpcenter/detail?cid=448&pid=2036,2020-05-25 11:08:57
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,收入结算,"# 收入结算
 介绍收入结算规则、结算单下发规则、个人流量主扣税等信息
 ## 处于“结算中”状态的原因
@@ -3474,7 +3594,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 若此时结算状态为“已结算”、“付款中”或“已付款”，但仍不可点击；或需要补发2019年9月以前结算区间的结算单，请通过”微信广告助手（ad_helper）“公众号联系我们，在线客服会及时为您处理。
 
+<<<<<<< HEAD
 描述内容：需补发结算单月份、账号名称、APPID、结算信息、结算邮箱。",https://e.qq.com/ads/helpcenter/detail?cid=448&pid=2037
+=======
+描述内容：需补发结算单月份、账号名称、APPID、结算信息、结算邮箱。",https://e.qq.com/ads/helpcenter/detail?cid=448&pid=2037,2020-05-25 11:08:49
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,企业开票,"# 企业开票
 介绍企业类型收款主体开具发票的相关信息，个人收款主体无需开票
 ## 多月合并开票规则
@@ -3533,6 +3657,7 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 * 开户行：
 * 银行账号：
 
+<<<<<<< HEAD
 注：流量主纸质合同仅供开票使用，如税局开票不需合同，则不用签订。",https://e.qq.com/ads/helpcenter/detail?cid=448&pid=2038
 0,行业解决方案,"### 相关案例：
 
@@ -3542,6 +3667,9 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 
 [雅培母婴垂直案例](https://tencentads.com/l/txspypmy0813)",https://e.qq.com/ads/helpcenter/detail?cid=1107&pid=2759
+=======
+注：流量主纸质合同仅供开票使用，如税局开票不需合同，则不用签订。",https://e.qq.com/ads/helpcenter/detail?cid=448&pid=2038,2020-05-25 11:08:33
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,如何开通投放账户,"# 使用指引
 ## 营销中心开户流程：
 
@@ -3581,7 +3709,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 **3、开户QQ号是否可以修改？**
 
 可以修改，如果您是由代理商服务的广告主，请联系代理商进行修改；
+<<<<<<< HEAD
 如果您是自行注册的广告主或代理商，请填写修改<a href=""http://qzonestyle.gtimg.cn/open_proj/gdt_gw/cms/uploads/申请表20190612.docx"" target=""_blank"" rel=""noopener noreferrer"">申请表</a>并盖章，将申请表发送至ads_service@tencent.com进行修改，17点前发送的邮件在当天即可得到修改。",https://e.qq.com/ads/helpcenter/detail?cid=1499&pid=2064
+=======
+如果您是自行注册的广告主或代理商，请填写修改<a href=""http://qzonestyle.gtimg.cn/open_proj/gdt_gw/cms/uploads/申请表20190612.docx"" target=""_blank"" rel=""noopener noreferrer"">申请表</a>并盖章，将申请表发送至ads_service@tencent.com进行修改，17点前发送的邮件在当天即可得到修改。",https://e.qq.com/ads/helpcenter/detail?cid=1499&pid=2064,2021-11-04 11:41:07
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,多账户管理,"腾讯广告投放账户的多账户管理是通过商务管家来完成的。
 
 ## 什么是商务管家？
@@ -3748,12 +3880,20 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 3. 一个商务管家帐号可以添加多少个用户？
 
+<<<<<<< HEAD
     商务管家帐号共四种角色，主管理员仅1个，不可新增和删除。其余3种角色均可以添加多个用户，商务管家总用户数上限为100个。",https://e.qq.com/ads/helpcenter/detail?cid=1499&pid=2066
+=======
+    商务管家帐号共四种角色，主管理员仅1个，不可新增和删除。其余3种角色均可以添加多个用户，商务管家总用户数上限为100个。",https://e.qq.com/ads/helpcenter/detail?cid=1499&pid=2066,2021-03-02 16:48:25
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,申请退款标准,"## 广告主是否可以申请退款？
 （1）由代理商开发的广告主，如有退款需求请联系您的代理商进行直接沟通；
 
 （2）在腾讯广告官网或腾讯开放平台注册开户的广告主，如未出现严重违规造成账户被封停，都可以申请退款。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=534&pid=2067
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=534&pid=2067,2020-05-25 16:16:56
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,申请退款流程,"## 广告主如何申请退款？
 广告主现金账户余额可申请退款，但仅支持退款与广告主账户的主体名称一致的银行账户中，请填写《腾讯广告退款申请表》并提供相关资料:
 
@@ -3765,11 +3905,17 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
  
 **2、退款至个人账户：银行卡复印件（手写卡号并签字）的扫描件，以及收款人的身份证正反面扫描件。**
  
+<<<<<<< HEAD
 发送到官网邮箱ads_service@tencent.com，我们将在每周一集中处理广告主的退款申请。请注意，申请退款时，账户内未消耗的虚拟金将一律清除。资料核实无误后将启动退款流程：
 （1）需退回发票的广告主，款项将在约两个月后到达广告主银行账户（如遇节假日延后处理）；
 （2）无需退回发票的广告主，款项将在约一个月后到达广告主银行账户（如遇节假日延后处理）。
  
 请点击并下载退款申请表:腾讯广告退款申请表（请见下方附件）",https://e.qq.com/ads/helpcenter/detail?cid=534&pid=2068
+=======
+发送到官网邮箱ads_service@tencent.com，我们将在每周一集中处理广告主的退款申请。请注意，申请退款时，账户内未消耗的虚拟金将一律清除。资料核实无误后，款项将在约一个月后到达广告主银行账户（如遇节假日延后处理）。
+ 
+请点击并下载退款申请表:腾讯广告退款申请表（请见下方附件）",https://e.qq.com/ads/helpcenter/detail?cid=534&pid=2068,2022-01-25 20:23:30
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,如何申请发票,"## 充值后应如何获取发票？
 自助注册的广告主与代理商在充值后，请点击财务管理——发票开具，在打开的页面中完成发票申请；
  	由代理商提供服务的广告主请向所属代理商索要发票。
@@ -3780,7 +3926,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 （2）请在“发票开具”页面填写三部分内容：发票信息（包括发票类型、发票项目、充值对应月份及发票金额）、一般纳税人信息（企业客户必须填写）、快递信息。其中后两项只需要填写一次；
  
 （3）填写发票信息时请选择发票项目和对应充值月份，再填入发票金额即可完成申请。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=536&pid=2069
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=536&pid=2069,2020-05-25 16:21:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,发票常见问题,"## 腾讯广告可以给广告主开哪种发票？
 腾讯广告开具的发票为增值税发票，税点为6%。有一般纳税人资质的广告主/代理商可以申请开具增值税专用发票；小规模纳税人资质的广告主/代理商请申请开增值税普通发票。
 
@@ -3792,7 +3942,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 ## 发票周期有多久？
 广告主/代理商申请发票的次日即可得到有效处理。一般情况下，从提交发票到收到发票的时间在7个工作日内。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=536&pid=2070
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=536&pid=2070,2020-05-25 16:23:07
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,退款发票处理,"## 退款发票处理
 **1、退款时是否要寄回已开具的发票？**
 
@@ -3818,7 +3972,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 （1）如丢失的发票是未认证抵扣的专票或者是增值税普通发票，广告主需前往税局办理发票丢失并申请处罚证明，再将罚款证明加盖税务公章+公司公章，并寄回至腾讯公司。
 （2）如丢失的发票是已认证抵扣的专票，请广告主在退款申请表中写明情况即可
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=536&pid=2071
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=536&pid=2071,2021-08-13 09:13:46
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,广告推广目标,"# 功能介绍
 在创建推广计划时，可根据你的广告营销目的选取合适的推广目标进行广告投放。且为了提升您的投放效率，投放平台会记住您上次选择的推广目标并默认选中。目前，腾讯广告提供 8 个推广目标，帮助实现你的市场营销活动。目前腾讯广告支持以下推广目标：
 
@@ -3854,7 +4012,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 2. QQ门店：在QQ、腾讯新闻推广你的门店
 
 ## QQ消息推广
+<<<<<<< HEAD
 推广QQ公众号消息，提升QQ公众号内转化。",https://e.qq.com/ads/helpcenter/detail?cid=502&pid=2074
+=======
+推广QQ公众号消息，提升QQ公众号内转化。",https://e.qq.com/ads/helpcenter/detail?cid=502&pid=2074,2022-01-10 19:28:39
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,广告售卖策略,"# 功能介绍
 ## 基础介绍 
 不同版位在不同创意形式的售卖规则不同，目前腾讯广告提供按CPC、CPM、CPA、oCPC、oCPM5种售卖方式，具体如下：
@@ -3882,7 +4044,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 | 腾讯新闻与腾讯视频     | CPC、CPM、oCPC、oCPM     | 
 | 优量汇     | CPC、CPM、oCPC、oCPM     | 
 | 应用宝     | CPC、CPA     | 
+<<<<<<< HEAD
 | PCQQ/QQ空间/腾讯音乐     | CPC、CPM    |",https://e.qq.com/ads/helpcenter/detail?cid=504&pid=2075
+=======
+| PCQQ/QQ空间/腾讯音乐     | CPC、CPM    |",https://e.qq.com/ads/helpcenter/detail?cid=504&pid=2075,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告平台广告主违规处罚条例v3,"## 一、广告主违规定义
 
 　　广告主违规是指广告主通过各种手段（包括但不限于提交违规素材、落地页、资质，或擅自篡改落地页导致含有违规内容、落地页链接违规跳转等）违反广告法、行业法律法规规定及腾讯广告平台规则的行为。
@@ -3992,7 +4158,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 
 广告主违规的情况下，腾讯广告平台有权根据本条例相关规定对广告主进行相关处罚，同时若广告主违规行为同时违反与腾讯广告平台的相关合作协议（包括但不限于《腾讯广告-广告主合作协议》、《微信公众平台广告投放服务协议》），腾讯有权基于相关合作协议约定同时主张违规广告主的违约责任。
 
+<<<<<<< HEAD
 条例发布日期2021年11月15日，本条例一经发布，立即生效",https://e.qq.com/ads/helpcenter/detail?cid=579&pid=2086
+=======
+条例发布日期2021年11月15日，本条例一经发布，立即生效",https://e.qq.com/ads/helpcenter/detail?cid=579&pid=2086,2021-12-30 10:04:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,自助开户,"# 自助开通账户流程：
 1、登录腾讯广告官网，点击[注册](https://e.qq.com/reg-new/)
 
@@ -4019,7 +4189,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 **3、开户QQ号是否可以修改？**
 
 可以修改，如果您是由代理商服务的广告主，请联系代理商进行修改；
+<<<<<<< HEAD
 如果您是自行注册的广告主或代理商，请填写修改申请表并盖章，将申请表发送至ads_service@tencent.com进行修改，17点前发送的邮件在当天即可得到修改。",https://e.qq.com/ads/helpcenter/detail?cid=1499&pid=2092
+=======
+如果您是自行注册的广告主或代理商，请填写修改申请表并盖章，将申请表发送至ads_service@tencent.com进行修改，17点前发送的邮件在当天即可得到修改。",https://e.qq.com/ads/helpcenter/detail?cid=1499&pid=2092,2021-07-21 15:48:56
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,大货电商保证金管理规范,"为了提升腾讯广告平台整体健康度，腾讯根据现行法律法规及腾讯广告平台相关规则，制定保证金管理规范（以下简称“本规范”）。腾讯广告平台将针对部分广告主收取一定额度的广告保证金（以下简称“保证金”），用以担保其在合作期内，遵守相关法律法规、腾讯广告平台规则等的相关规定，为用户提供安全、合法、真实的广告。
 
 
@@ -4109,7 +4283,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 6.4 本规范的附件1：保证金系统操作手册和附件2：保证金涉及线下流程申请表作为本规范的一部分，与本规范具备同等法律效力。具体保证金系统使用规则、流程等，以附件规定为准。
 
 
+<<<<<<< HEAD
 6.5 若双方之间发生任何纠纷或争议，首先应友好协商解决；协商不成的，双方在此完全同意将纠纷或争议提交协议签订地深圳市南山区有管辖权的人民法院解决。",https://e.qq.com/ads/helpcenter/detail?cid=1576&pid=2100
+=======
+6.5 若双方之间发生任何纠纷或争议，首先应友好协商解决；协商不成的，双方在此完全同意将纠纷或争议提交协议签订地深圳市南山区有管辖权的人民法院解决。",https://e.qq.com/ads/helpcenter/detail?cid=1576&pid=2100,2022-02-15 11:02:49
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯视频平台价值,"### 腾讯视频是中国领先的在线视频媒体平台，通过移动端/PC端/TV端均可查看海量高清视频，实时接触最新娱乐资讯
 
 
@@ -4129,7 +4307,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 ![幻灯片4.JPG](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20200814195831_612329.JPG)
 
 
+<<<<<<< HEAD
 ![幻灯片3.JPG](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20200814195820_276965.JPG)",https://e.qq.com/ads/helpcenter/detail?cid=1083&pid=2819
+=======
+![幻灯片3.JPG](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20200814195820_276965.JPG)",https://e.qq.com/ads/helpcenter/detail?cid=1083&pid=2819,2020-12-09 19:22:58
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,排除已转化用户定向,"# 功能介绍
 # 排除已转化用户定向
 ## 一、功能解析
@@ -4357,7 +4539,11 @@ eCPM指广告的千次曝光收益，它是收入的核心指标。当我们衡�
 API地址：https://developers.e.qq.com/docs/api/adsmanagement/adgroups/adgroups_add?version=1.1&_preview=1
 
 
+<<<<<<< HEAD
 API功能已全量发布",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=2612
+=======
+API功能已全量发布",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=2612,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,简版原生页,"# 功能介绍
 ## **简版原生页简介&特点**
 
@@ -4513,7 +4699,11 @@ API功能已全量发布",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=261
 <br />
 <br />
 <span> </span> 
+<<<<<<< HEAD
 </p>",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2618
+=======
+</p>",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2618,2021-11-04 11:41:14
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,微信行动按钮,"# 功能介绍
 ## 微信行动按钮介绍					
 <a name=""xingdong""> </a>
@@ -4544,7 +4734,11 @@ API功能已全量发布",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=261
 
 ### **三、支持的推广目标范围**
 ### 
+<<<<<<< HEAD
 目前朋友圈广告下支持 电商推广、安卓应用推广、IOS应用推广、微信门店、微信小游戏、销售线索、品牌活动。",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2627
+=======
+目前朋友圈广告下支持 电商推广、安卓应用推广、IOS应用推广、微信门店、微信小游戏、销售线索、品牌活动。",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=2627,2021-11-04 11:41:14
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告服务商管理规范,"## 第一章 总则
 ### 1.【目的】
 为规范服务商履约行为，防止违规事件发生，维护腾讯公司与合作服务商之间的合法权益，特制定本规范。
@@ -4689,7 +4883,11 @@ API功能已全量发布",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=261
 ### 31.【规范的修改】
 腾讯公司有权根据相关法律法规更新或腾讯广告平台运营的需要，对本规范进行修改并更新。就上述修改及更新，腾讯公司将通知服务商。服务商亦应经常查看以便获得最新信息，若服务商继续使用腾讯广告平台服务，视为同意本规范的修改或更新。
 ### 32.【实施日期】
+<<<<<<< HEAD
 本规范自2022年1月1日起实施。",https://e.qq.com/ads/helpcenter/detail?cid=763&pid=2194
+=======
+本规范自2022年1月1日起实施。",https://e.qq.com/ads/helpcenter/detail?cid=763&pid=2194,2022-02-23 18:28:37
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告平台保证金管理规范,"## 一、目的
 
 为进一步规范服务商、广告主在腾讯广告平台广告营销、合作及投放的合规操作，保障全年业绩达成，根据现行法律法规及腾讯广告平台相关规则，制定《腾讯广告平台保证金管理规范》（以下简称“本规范”）。腾讯公司将对服务商、广告主收取一定额度的广告保证金（以下简称“保证金”），用以担保其在合作期内，遵守相关法律法规、《腾讯广告服务商合作协议》/《腾讯广告广告主协议》及其补充协议、腾讯广告平台规则等相关规定。
@@ -4797,7 +4995,94 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
  
 《直营电商广告商品检验管理规范》
 
+<<<<<<< HEAD
 [https://e.qq.com/ads/helpcenter/detail?cid=700&pid=2494](https://e.qq.com/ads/helpcenter/detail?cid=700&pid=2494)",https://e.qq.com/ads/helpcenter/detail?cid=764&pid=2202
+=======
+[https://e.qq.com/ads/helpcenter/detail?cid=700&pid=2494](https://e.qq.com/ads/helpcenter/detail?cid=700&pid=2494)",https://e.qq.com/ads/helpcenter/detail?cid=764&pid=2202,2021-12-30 10:20:38
+0,OTT新玩法,"# TV Max首页沉浸式广告：
+
+
+<video x-webkit-airplay=""true""
+        webkit-playsinline=""""
+        playsinline=""true""
+        controls=""""
+        autoplay loop src=""https://bbx-video.gtimg.com/0bf2iqf72aaltyaolyyuifqvcrgd7vcax7ia.f0.m4v"">
+        <source src=https://bbx-video.gtimg.com/0bf2iqf72aaltyaolyyuifqvcrgd7vcax7ia.f0.m4v type=""video/mp4"">
+        </video>
+
+### 简介：
+* 15s闪屏浮层破框动效，客厅场景有声3D震撼体验
+
+
+### 优势：
+
+
+* 惊艳视觉：15s大屏溢出体验，感受裸眼3D效果
+
+
+* 客厅场景：全员可见+家庭场景触达，影响家庭消费决策链
+
+
+|  | 合约 |  |
+| -------- | -------- | -------- |
+| 支持终端     | TV    |  |
+| 计费模式     | CPD    |  |
+| 支持素材规格     | 视频15s    |  |
+注：暂不支持竞价
+
+# OneShot 联动广告
+
+<video x-webkit-airplay=""true""
+        webkit-playsinline=""""
+        playsinline=""true""
+        controls=""""
+        loop src=""https://bbx-video.gtimg.com/0bf2neag4aaafyafeoqjkvqfu2odnzuqa3qa.f0.mp4"">
+        <source src=https://bbx-video.gtimg.com/0bf2neag4aaafyafeoqjkvqfu2odnzuqa3qa.f0.mp4 type=""video/mp4"">
+        </video>
+
+### 简介
+* OneShot 联动广告-常规款：5秒全屏闪屏后，缩放至屏幕中央，继续播放10秒
+* OneShot 联动广告-升级款：5秒全屏闪屏后，缩放至巨幕焦点图，继续播放10秒
+
+
+### 优势
+* 第一视觉 优质曝光：5秒闪屏+10秒焦点图联动，15秒大屏超强视觉冲击，覆盖高价值人群
+* 自动剪辑 简单高效：素材工具自动完成，无需额外制作，素材门槛低
+
+
+|  | 合约 |  |
+| -------- | -------- | -------- |
+| 计费模式     | CPD     | |
+| 支持终端   | OTT/移动    |  |
+| 特殊形式    | 闪屏第一刷    | |
+|素材规格   | 15s视频    | |
+注：暂不支持竞价
+
+# Oneshot Plus 联动出框广告
+
+<video x-webkit-airplay=""true""
+        webkit-playsinline=""""
+        playsinline=""true""
+        controls=""""
+       loop src=""https://bbx-video.gtimg.com/0bf2q4adwaaax4aamkijpfqfvb6dhodqaoya.f0.mp4"">
+        <source src=https://bbx-video.gtimg.com/0bf2q4adwaaax4aamkijpfqfvb6dhodqaoya.f0.mp4 type=""video/mp4"">
+        </video>
+
+### 简介
+* 在Oneshot的基础上，部分元素可突破原有广告位区域
+
+### 优势
+* 在Oneshot基础上支持丰富的出框动效，创意空间更广阔，进一步提升用户记忆度
+
+
+|  | 合约 |  |
+| -------- | -------- | -------- |
+| 计费模式     | CPD     | |
+| 支持终端   | OTT/移动    |  |
+| 特殊形式    | 闪屏第一刷    | |
+|素材规格   | 15s视频    | |
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1082&pid=2955,2021-08-20 10:52:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,常规闪屏,"# 常规闪屏
 
 
@@ -4814,7 +5099,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：    | 移动 | TV  |
 | 计费模式：    | CPD   |CPM  |
 | 特殊形式：    | 闪屏第一刷   | 性别第一刷 |
+<<<<<<< HEAD
 | 支持素材规格：    | 图片/视频-5s  | 富媒体 |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2694
+=======
+| 支持素材规格：    | 图片/视频-5s  | 富媒体 |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2694,2021-01-07 16:26:55
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏新玩法,"# OneShot联动广告
 
 
@@ -4986,7 +5275,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：|移动   |     |
 | 计费模式：|CPD   |     
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1082&pid=2700
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1082&pid=2700,2021-11-05 12:00:06
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,前贴片,"# 常规前贴片
 
 
@@ -5019,7 +5312,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：   | 移动/TV/PC     |   移动/TV/PC   |
 | 计费模式：   | CPM   |  CPM    |
+<<<<<<< HEAD
 | 支持素材规格：   | 时长不限制，用户观看广告5秒后可跳过|  时长不限制，用户观看广告5秒后可跳过    |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2701
+=======
+| 支持素材规格：   | 时长不限制，用户观看广告5秒后可跳过|  时长不限制，用户观看广告5秒后可跳过    |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2701,2021-01-07 16:36:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,焦点图,"# 焦点图
 
 ![焦点图2.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20201215194002_295269.jpg)
@@ -5034,7 +5331,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端     | 移动/TV     | 移动端    |
 | 计费模式     | CPD/CPM     | CPD/CPM     |
+<<<<<<< HEAD
 | 支持素材格式     | 图片/视频     | 图片/视频      |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2702
+=======
+| 支持素材格式     | 图片/视频     | 图片/视频      |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2702,2020-12-25 10:05:29
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,信息流,"# 信息流
 
 ![信息流2.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20201215200929_123472.jpg)
@@ -5050,7 +5351,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：    | 移动    | 移动 |
 | 计费模式：    | CPM    | CPD |
+<<<<<<< HEAD
 | 支持素材规格：    | 大图/左图右文/视频    | 大图/左图右文/视频 |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2703
+=======
+| 支持素材规格：    | 大图/左图右文/视频    | 大图/左图右文/视频 |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2703,2021-01-07 16:34:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,播放详情页,"# 播放详情页
 
 
@@ -5066,7 +5371,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 |售卖方式：    | 合约    |竞价 |
 |支持终端：    | 移动    |移动 |
 |计费模式：    | CPD   |CPD |
+<<<<<<< HEAD
 |支持素材规格：  | 图片   |图片 |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2704
+=======
+|支持素材规格：  | 图片   |图片 |",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2704,2021-01-07 16:34:53
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,框内新玩法,"# MaxView沉浸式贴片
 
 
@@ -5309,7 +5618,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端     | 移动     | 
 | 计费模式     | CPM     | 
 | 支持素材规格    | 视频-15s/30s    |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1082&pid=2705
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1082&pid=2705,2021-02-01 11:42:54
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,中贴片（中插）,"# 中插
 
 
@@ -5325,7 +5638,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：    | 移动/TV/PC     | 移动/TV/PC |
 | 计费模式：    | CPM     | CPM |
+<<<<<<< HEAD
 | 支持素材规格：    | 视频-15s/30s    |  视频-15s/30s|",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2706
+=======
+| 支持素材规格：    | 视频-15s/30s    |  视频-15s/30s|",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2706,2021-01-07 16:38:53
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,后贴片,"# 后贴片
 
 ![后贴片.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20201215204125_193798.png)
@@ -5339,7 +5656,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：   | 移动/TV/PC    |    移动/TV/PC  |
 | 计费模式：   | CPM   |    CPM  |
+<<<<<<< HEAD
 | 支持素材规格：   | 视频-15s/30s   |  视频-15s/30s    |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2708
+=======
+| 支持素材规格：   | 视频-15s/30s   |  视频-15s/30s    |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2708,2021-01-07 16:39:29
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,暂停帖,"# 暂停帖
 
 
@@ -5355,7 +5676,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：    | 移动/TV/PC    |   移动/TV/PC   |
 | 计费模式：    | CPM    |  CPM    |
+<<<<<<< HEAD
 | 支持素材规格：    | 静态大图    |   静态大图   |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2709
+=======
+| 支持素材规格：    | 静态大图    |   静态大图   |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2709,2021-01-07 16:39:56
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,口播,"# 口播
 
 
@@ -5370,7 +5695,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：    |移动/TV/PC   |  移动/TV/PC    |
 | 计费模式：    |CPM  |  CPM    |
+<<<<<<< HEAD
 | 支持素材规格：    |视频-5s   |  视频-5s    |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2710
+=======
+| 支持素材规格：    |视频-5s   |  视频-5s    |",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2710,2021-01-07 16:40:39
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,种子视频,"# 种子视频
 
 
@@ -5379,7 +5708,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：   | 移动/PC    |     |
 | 计费模式：   | CPM    |     |
 | 支持素材规格：   | 图片    |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2711
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2711,2021-01-04 17:13:26
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,品牌专区,"# 品牌专区
 
 ![品牌专区1.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20201215201228_247931.png)
@@ -5389,7 +5722,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：   | 移动     |     |
 | 计费模式：   | 包年     |     |2
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2712
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2712,2021-01-04 17:12:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,下载页,"# 下载页
 
 ![下载页1.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20201215201454_806255.png)
@@ -5411,7 +5748,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：    | 移动     |      |
 | 计费模式：    | CPM     |      |
 | 支持素材规格：    | 图片   |      |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2713
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2713,2021-01-04 17:12:59
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,待机屏保,"# 待机屏保
 
 
@@ -5427,7 +5768,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：    | TV    |      |
 | 计费模式：    | CPD   |      |
 | 支持素材规格：    | 图片    |      |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2714
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2714,2021-01-07 15:12:32
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,列表页横幅,"# 列表页横幅
 
 
@@ -5442,6 +5787,7 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：     | TV    |     |
 | 计费模式：     | CPD    |     |
 | 支持素材规格：    | 图片    |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2715
 0,OTT新玩法,"# TV Max首页沉浸式广告：
 
@@ -5526,6 +5872,9 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 特殊形式    | 闪屏第一刷    | |
 |素材规格   | 15s视频    | |
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1082&pid=2955
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2715,2021-01-07 15:14:33
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,冠名广告,"# 冠名广告
 
 ![冠名广告-参考标准.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/173_20210107151045_441396.png)
@@ -5539,7 +5888,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：     | TV    |     |
 | 计费模式：     | CPD    |     |
 | 支持素材规格：     | 图片    |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2717
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2717,2021-01-07 15:10:54
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,详情页通栏,"# 详情页通栏
 
 
@@ -5554,7 +5907,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：   | TV     |     |
 | 计费模式：   | CPD   |     |
 | 支持素材规格：  |图片|     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2718
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2718,2021-01-07 15:42:39
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,详情页大横幅,"# 详情页大横幅
 
 
@@ -5570,7 +5927,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：     | TV    |     |
 | 计费模式：     | CPD    |     |
 | 支持素材规格：     | 图片    |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2719
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2719,2021-01-07 15:43:07
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,退出应用广告,"# 退出应用广告
 
 
@@ -5587,7 +5948,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：     | TV    |     |
 | 计费模式：     | CPD    |     |
 | 支持素材规格：     | 图片    |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2720
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1086&pid=2720,2021-01-07 15:16:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,如影随行,"# 如影随形
 
 
@@ -5603,7 +5968,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | -------- | -------- | -------- |
 | 支持终端：    | 移动/TV/PC     |     |
 | 计费模式：    | CPM     |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2721
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2721,2021-01-04 17:19:59
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,快享贴,"# 快享贴
 
 
@@ -5619,7 +5988,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：     | 移动/TV/PC    |    |
 | 计费模式：     | CPM   |    |
 | 支持素材规格：     | 视频-5s/6s   |    |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2722
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2722,2021-01-04 17:18:38
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,如意贴,"# 如意贴
 
 
@@ -5632,7 +6005,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：    | 移动/TV/PC    |     |
 | 计费模式：    | CPD/CPM    |     |
 |支持素材规格：    | 视频（原始版/标准版/明星版/预告版/全程角标/跑马灯）  |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2723
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2723,2021-01-04 17:20:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,loading广告,"# loading广告
 
 ![loading广告.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/173_20210107154352_032631.jpg)
@@ -5647,7 +6024,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：   | 移动/TV/PC    |     |
 | 计费模式：   | CPD/CPM    |     |
 | 支持素材规格：   | 静态图片   |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2724
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2724,2021-01-07 15:43:55
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,进度条广告,"# 进度条广告
 
 ![进度条广告.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/173_20210107154510_296339.jpg)
@@ -5662,7 +6043,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：   | 移动/TV/PC     |   |
 | 计费模式：   | CPD/CPM     |   |
 | 支持素材规格：  | 静态图片     |   |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2725
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2725,2021-01-07 15:45:21
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,清晰度广告,"# 清晰度广告
 
 ![清晰度广告.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/173_20210107154618_568757.jpg)
@@ -5677,7 +6062,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：    | 移动/TV/PC    |    |
 | 计费模式：    | CPD/CPM    |    |
 | 支持素材规格：    | 静态图片    |    |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2726
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2726,2021-01-07 15:46:22
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,伴随性广告（边看边买）,"# 边看边买
 
 ## 简介：
@@ -5689,7 +6078,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：    | 移动/TV/PC    |     |
 | 计费模式：    | CPD/CPM   |     |
 | 支持素材规格：    |静态图片    |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2727
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2727,2021-01-04 17:22:17
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,倍速广告,"# 倍速广告
 
 
@@ -5714,7 +6107,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 支持终端：    | 移动/TV/PC    |     |
 | 计费模式：    | CPM    |     |
 | 支持素材规格：    | logo图片    |     |
+<<<<<<< HEAD
 注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2728
+=======
+注：暂不支持竞价",https://e.qq.com/ads/helpcenter/detail?cid=1085&pid=2728,2021-01-07 15:44:48
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,关于朋友圈广告投放,"# 常见问题
 **问题1：新投放端投放朋友圈广告开通账户有没有特殊限制？**
 
@@ -5766,7 +6163,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 **问题9：新投放端在投放微信广告时，是在新投放端上进行扣费，还是在微信投放端上进行扣费？**
 
 **回答：**
+<<<<<<< HEAD
 用户在新投放端上进行广告投放时将在新投放端中扣除相关费用。",https://e.qq.com/ads/helpcenter/detail?cid=1521&pid=2456
+=======
+用户在新投放端上进行广告投放时将在新投放端中扣除相关费用。",https://e.qq.com/ads/helpcenter/detail?cid=1521&pid=2456,2021-11-04 11:41:16
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,关于新投放端,"# 功能介绍
 ## 升级概述
 新投放核心从流量、能力、服务3个方面进行了全面升级，主要为：
@@ -5821,7 +6222,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 **问题6：在新投放端投微信流量，投APP激活时API要怎么对接？**
 
 **回答：**
+<<<<<<< HEAD
 之前使用了mp api在上报数据的话，可以接着上报。投放时选全网归因是会匹配归因的，也不需要改上报账号。也可以再接投放端的数据上报流程。",https://e.qq.com/ads/helpcenter/detail?cid=1521&pid=2457
+=======
+之前使用了mp api在上报数据的话，可以接着上报。投放时选全网归因是会匹配归因的，也不需要改上报账号。也可以再接投放端的数据上报流程。",https://e.qq.com/ads/helpcenter/detail?cid=1521&pid=2457,2021-11-04 11:41:16
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,整合营销方案,"### 相关案例：
 
 
@@ -5834,7 +6239,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 [![媒介.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/144_20200820103103_833906.jpg)](https://tencentads.com/l/txspmjzh0813)
 
 
+<<<<<<< HEAD
 [腾讯视频-媒介组合产品解决方案](https://tencentads.com/l/txspmjzh0813)",https://e.qq.com/ads/helpcenter/detail?cid=1108&pid=2987
+=======
+[腾讯视频-媒介组合产品解决方案](https://tencentads.com/l/txspmjzh0813)",https://e.qq.com/ads/helpcenter/detail?cid=1108&pid=2987,2020-08-24 15:51:55
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,QQ购物,"# 手机QQ-QQ购物
 
 ### 广告样式：<img src='https://bbx-pic.gtimg.com/bbx/pictures/2019/16_20190805140720_069739.png' style='width:280px;margin:auto'></img>
@@ -5858,7 +6267,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 ### 计费模式：*CMP*
 
 
+<<<<<<< HEAD
 ### 落地页跳转类型：*H5*",https://e.qq.com/ads/helpcenter/detail?cid=1134&pid=2992
+=======
+### 落地页跳转类型：*H5*",https://e.qq.com/ads/helpcenter/detail?cid=1134&pid=2992,2020-08-25 16:20:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,QQ天气,"# 手机QQ-QQ天气-首页
 
 
@@ -5892,7 +6305,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 ### 计费模式：*CPM*
 
 
+<<<<<<< HEAD
 ### 落地页跳转类型：*H5/APP*",https://e.qq.com/ads/helpcenter/detail?cid=1134&pid=2993
+=======
+### 落地页跳转类型：*H5/APP*",https://e.qq.com/ads/helpcenter/detail?cid=1134&pid=2993,2020-08-25 18:21:00
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏,"# 新闻客户端-闪屏广告
 
 
@@ -5908,7 +6325,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 | 特殊样式：    | 闪屏-5s视频、闪屏-5s视频-小logo、闪屏-富媒体   |  闪屏-5s视频、闪屏-5s视频-小logo、闪屏-富媒体  |
 | 售卖方式：    | 合约    | 合约   |
 | 支持终端：    | 移动   | 移动   |
+<<<<<<< HEAD
 | 计费模式：    | CPM/CPD    |  CPM/CPD  |",https://e.qq.com/ads/helpcenter/detail?cid=1150&pid=2996
+=======
+| 计费模式：    | CPM/CPD    |  CPM/CPD  |",https://e.qq.com/ads/helpcenter/detail?cid=1150&pid=2996,2021-01-07 16:42:20
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,信息流,"# 常规信息流
 
 ![标准广告资源信息流.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/17_20201221193456_671144.png)
@@ -5922,7 +6343,11 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 |  支持样式：  | 信息流左文右图、信息流大图、三小图、组图、视频    | 通栏大图、通栏小图、左文右图    |
 |  售卖方式：  | 合约/竞价    | 合约/竞价    |
 |  支持终端：  | 移动    | 移动    |
+<<<<<<< HEAD
 |  计费模式：  | CPM/CPC/CPD    | CPM    |",https://e.qq.com/ads/helpcenter/detail?cid=1150&pid=2998
+=======
+|  计费模式：  | CPM/CPC/CPD    | CPM    |",https://e.qq.com/ads/helpcenter/detail?cid=1150&pid=2998,2020-12-22 15:46:42
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,大货电商广告商品检验管理规范,"## 第一章 总则
 **1.1规范目的**
 
@@ -6088,4 +6513,8 @@ b)	风险保证金：因服务商/广告主签订行业的封闭特殊性和监�
 
 5.6 本规范所有条款的标题仅为阅读方便，本身并无实际涵义，不能作为本规范解释的依据。
 
+<<<<<<< HEAD
 5.7 本规范的条款无论因何种原因部分无效或不可执行，其余条款仍有效，对双方具有约束力。",https://e.qq.com/ads/helpcenter/detail?cid=700&pid=2494
+=======
+5.7 本规范的条款无论因何种原因部分无效或不可执行，其余条款仍有效，对双方具有约束力。",https://e.qq.com/ads/helpcenter/detail?cid=700&pid=2494,2021-06-28 16:30:59
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233

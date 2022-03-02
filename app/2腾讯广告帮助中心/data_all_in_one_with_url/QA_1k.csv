@@ -28,7 +28,11 @@
 ## 日曝光量：
 
 
+<<<<<<< HEAD
 2亿",https://e.qq.com/ads/helpcenter/detail?cid=597&pid=1753
+=======
+2亿",https://e.qq.com/ads/helpcenter/detail?cid=597&pid=1753,2020-05-27 19:13:58
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,优量广告原生广告,"曝光规模占联盟比重超60%；支持应用直达+动态创意；高融入性场景+优化转化链路。
 
 
@@ -58,7 +62,11 @@
 
 13亿
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=598&pid=1754
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=598&pid=1754,2020-05-27 19:15:58
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,优量广告开屏广告,"移动端尺寸最大的广告样式，支持GIF、图片、图文创意；开屏加载，全屏显示您的广告创意。
 
 
@@ -91,7 +99,11 @@
 
 5亿
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=596&pid=1755
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=596&pid=1755,2020-05-27 19:16:55
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,优量广告横幅广告,"支持应用直达+动态创意双管齐下,助力完成低获客成本。
 
 
@@ -121,7 +133,11 @@
 
 2亿
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=599&pid=1756
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=599&pid=1756,2020-05-27 19:18:02
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,总则及规范目的,"## **总则**
 
 本规范作为《腾讯广告营销服务商合作协议》《腾讯广告营销广告主合作协议》《腾讯程序化广告交易平台合作协议》等使用腾讯广告相关的各类协议（统称“服务协议”）的一部分，与服务协议有冲突的以本规范内容为准。本规范自公布之日起生效，腾讯有权根据运营需要，随时对本规范进行完善、调整。您在使用腾讯广告时，均应当遵守本规范
@@ -129,7 +145,11 @@
 
 ## **规范目的**
 
+<<<<<<< HEAD
 为了规范腾讯广告接入、审核、发布等相关流程及标准，为广告主提供一个公开、明确的平台使用规范，保护广大用户合法权益，维护腾讯广告的合法有序，特制定本规范。",https://e.qq.com/ads/helpcenter/detail?cid=551&pid=1767
+=======
+为了规范腾讯广告接入、审核、发布等相关流程及标准，为广告主提供一个公开、明确的平台使用规范，保护广大用户合法权益，维护腾讯广告的合法有序，特制定本规范。",https://e.qq.com/ads/helpcenter/detail?cid=551&pid=1767,2020-05-26 14:29:47
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,地理位置,"# 功能介绍
 # 地域（地理位置）定向
 ## 一、按区域选择
@@ -161,7 +181,11 @@
 
 
 2、从地图选择自定义打点最大数量？
+<<<<<<< HEAD
  单个文件上传的地址总数不能超过 400 个。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1771
+=======
+ 单个文件上传的地址总数不能超过 400 个。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1771,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,规范术语,"## **腾讯广告**
  
 指由腾讯或腾讯关联公司自主研发并运营的广告营销平台，可为广告主提供流量采购、营销推广、费用统计、数据查询、素材管理等服务。
@@ -174,17 +198,29 @@
  
 1.第一类广告主：指自己是商品的直接生产者、服务的直接提供者或商品、服务品牌的权利人等，并直接通过腾讯广告发布与自己直接生产、直接提供的商品或服务相关广告的广告主。
  
+<<<<<<< HEAD
 2.第二类广告主：指经第一类广告主合法授权后，以代理商、经销商、分销商等身份向消费者提供相应商品或服务，通过腾讯广告发布与自己代理、经销、分销等的商品或服务相关广告的广告主。",https://e.qq.com/ads/helpcenter/detail?cid=551&pid=1772
+=======
+2.第二类广告主：指经第一类广告主合法授权后，以代理商、经销商、分销商等身份向消费者提供相应商品或服务，通过腾讯广告发布与自己代理、经销、分销等的商品或服务相关广告的广告主。",https://e.qq.com/ads/helpcenter/detail?cid=551&pid=1772,2020-05-26 14:30:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,年龄定向说明,"# 功能介绍
 ## 年龄
 
  根据用户行为信息以及相关行为数据预测判断用户年龄，您在投放广告时可明确指定用户的年龄段、自定义年龄段进行投放
  
+<<<<<<< HEAD
  年龄维度按常用分段有6个单选段位。并支持自定义年龄选取",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1773
 0,性别定向说明,"# 功能介绍
 ## 性别
 可以选择设置用户性别为男性或女性。
 ![性别0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518163624_382128.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1775
+=======
+ 年龄维度按常用分段有6个单选段位。并支持自定义年龄选取",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1773,2021-11-04 11:41:08
+0,性别定向说明,"# 功能介绍
+## 性别
+可以选择设置用户性别为男性或女性。
+![性别0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518163624_382128.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1775,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告平台资质要求,"## **开户主体资质**
 
 * 企业开户
@@ -219,12 +255,20 @@
 ## **不同种类广告主的资质审核**
 1. 第一类广告主：需提供开户资质、行业资质、外链资质
 
+<<<<<<< HEAD
 3. 第二类广告主：需提供开户资质、行业资质、授权及证明资质（第一类广告主授权第二类广告主的授权书、代理书等资质）、第一类广告主全部资质",https://e.qq.com/ads/helpcenter/detail?cid=379&pid=1778
+=======
+3. 第二类广告主：需提供开户资质、行业资质、授权及证明资质（第一类广告主授权第二类广告主的授权书、代理书等资质）、第一类广告主全部资质",https://e.qq.com/ads/helpcenter/detail?cid=379&pid=1778,2020-10-10 11:31:14
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,学历定向说明,"# 功能介绍
 ## 学历
 根据用户行为信息以及相关行为数据预测判断用户的最高学历，您在投放广告时可明确指定用户学历进行投放
 
+<<<<<<< HEAD
 学历在维度有""博士""、""硕士""、""本科""、""专科""等7个可复选段位。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1780
+=======
+学历在维度有""博士""、""硕士""、""本科""、""专科""等7个可复选段位。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1780,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,婚恋育儿定向说明,"# 功能介绍
 ## 婚恋育儿
 根据用户行为信息以及相关行为数据预测判断用户当前婚恋、育儿情况，您在投放广告时可明确指定用户婚恋育儿状态进行投放
@@ -232,7 +276,11 @@
 投放上支持4种婚恋情况，彼此互斥；并支持育儿及其细分标签，其中育儿状态与单身、恋爱互斥。
 
 ![婚恋0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518170425_721581.png)
+<<<<<<< HEAD
 系统限制：由于婚恋交友类广告主要目标为单身用户，平台针对婚恋交友类广告限制投放单身用户。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1782
+=======
+系统限制：由于婚恋交友类广告主要目标为单身用户，平台针对婚恋交友类广告限制投放单身用户。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1782,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,消费类型定向说明,"# 功能介绍
 ## 消费类型
 可以选择设置用户的消费类型为虚拟商品或实物电商。
@@ -240,7 +288,11 @@
 虚拟商品：近一个月内有虚拟商品购买偏好的用户。虚拟商品不依赖物流快递等运输，包括非实体物品和非线下服务。例如话费、IP电话、Q币等。
 		
 实物电商：近一个月内有实物电商商品购买偏好的用户。实物商品具有物质实体或实体服务，包括实体商品和线下服务。例如门票、加油卡、机票等。
+<<<<<<< HEAD
 ![消费类型0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518170753_488333.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1783
+=======
+![消费类型0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518170753_488333.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1783,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,资质审核要点,"## **资质签章要求**
 对于广告主应提交的全部资质，包括开户主体资质、主体行业资质、主体外链资质和授权及证明资质，广告主均应提交原件或经广告主加盖公章确认的复印件，供腾讯广告存档备案。广告主提交的资质材料上明确标明用途的情况，若注明内容非可以用作腾讯广告开户申请，则将被驳回。
 
@@ -329,7 +381,11 @@
 
 ## **资质审核触发条件**
 若广告主名称、网站主域、基本资质、特殊资质等有变更的，广告主应提交变更后的资质。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=380&pid=1785
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=380&pid=1785,2020-06-05 17:51:24
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,工作状态定向说明,"# 功能介绍
 
 您在投放广告的时候可以选择是否使用用户的工作状态定向，可选择广告只对指定的用户进行投放，工作状态的维度有职业类型、职业属性、职业状态（可多选），选中的人群取并集。
@@ -339,7 +395,11 @@
 ## 职业属性可选项：
 金领、白领、蓝领等
 ## 职业状态可选项：
+<<<<<<< HEAD
 在校大学生、商旅用户",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1787
+=======
+在校大学生、商旅用户",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1787,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,资产状态定向说明,"# 功能介绍
 ## 资产状态
 可以选择设置用户的资产状态为有房人士或有车人士。
@@ -347,10 +407,17 @@
 有房人士：个人或家庭名下拥有一套或多套房产所有权或长期可自主装修使用权的人群。
 		
 有车人士：个人或家庭名下拥有一辆或多辆小型汽车所有权或长期使用权的人群。
+<<<<<<< HEAD
 ![财产状态0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518171858_054499.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1789
 0,游戏用户消费能力定向说明（新版）,"# 功能介绍
 ## 游戏用户消费能力（新版）
 您可以根据期望的用户游戏消费能力选择“普通消费用户”或“高消费”的用户。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1792
+=======
+![财产状态0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518171858_054499.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1789,2021-11-04 11:41:09
+0,游戏用户消费能力定向说明（新版）,"# 功能介绍
+## 游戏用户消费能力（新版）
+您可以根据期望的用户游戏消费能力选择“普通消费用户”或“高消费”的用户。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1792,2021-11-04 11:41:07
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,消费水平定向说明,"# 功能介绍
 ## 消费水平
 可以选择设置用户的消费水平为高消费或低消费。
@@ -358,7 +425,11 @@
 高消费：消费水平在全国用户中占最前20%的用户。
 		
 低消费：消费水平在全国用户中占后30%的用户。
+<<<<<<< HEAD
 ![消费水平0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518172513_213678.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1793
+=======
+![消费水平0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518172513_213678.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1793,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,电商平台资质要求,"## **综合电商**
 * 行业描述
 
@@ -404,7 +475,11 @@
    *例：转转*
 * 行业资质
 
+<<<<<<< HEAD
   《增值电信业务经营许可证》",https://e.qq.com/ads/helpcenter/detail?cid=386&pid=1798
+=======
+  《增值电信业务经营许可证》",https://e.qq.com/ads/helpcenter/detail?cid=386&pid=1798,2020-12-02 15:52:50
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,行为兴趣意向定向说明,"# 功能介绍
 ## 行为兴趣意向定向介绍
 ## 1. 基础介绍
@@ -457,7 +532,11 @@
 
 * 如何搭配其他定向？
 
+<<<<<<< HEAD
 行为、兴趣、意向三个定向之间人群取并集，行为兴趣意向整体与其他一级定向如年龄、性别、地域等取交集。您可以根据自身需求选择必要的其他一级定向来搭配使用，并注意最终覆盖的人群量级。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1803
+=======
+行为、兴趣、意向三个定向之间人群取并集，行为兴趣意向整体与其他一级定向如年龄、性别、地域等取交集。您可以根据自身需求选择必要的其他一级定向来搭配使用，并注意最终覆盖的人群量级。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1803,2021-11-04 11:41:07
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯游戏激励视频广告,"出现腾讯泛娱乐流量场景的激励视频，以轻度休闲游戏为主，包括出现在欢乐斗地主，欢乐麻将，文明大爆炸，腾讯桌球，天天军旗，腾讯动漫等的激励场景中。
 
 
@@ -481,7 +560,11 @@
 
 曝光排期、曝光竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=571&pid=1812
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=571&pid=1812,2020-05-27 18:47:44
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,心悦俱乐部闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -503,7 +586,11 @@
 ## 售卖方式
 
 
+<<<<<<< HEAD
 按展示时间计费、曝光排期",https://e.qq.com/ads/helpcenter/detail?cid=570&pid=1814
+=======
+按展示时间计费、曝光排期",https://e.qq.com/ads/helpcenter/detail?cid=570&pid=1814,2020-07-03 14:39:03
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,企鹅FM开屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -527,7 +614,11 @@
 
 按展示时间计费
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=568&pid=1818
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=568&pid=1818,2020-05-27 18:43:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,微云闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -551,7 +642,11 @@
 
 按展示时间计费
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=567&pid=1819
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=567&pid=1819,2020-05-27 18:43:49
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,快速保存页,"用户在保存图片时出现广告。
 
 
@@ -575,7 +670,11 @@
 
 曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=566&pid=1820
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=566&pid=1820,2020-05-27 18:38:35
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -599,7 +698,11 @@
 
 曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=566&pid=1821
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=566&pid=1821,2020-05-27 17:58:02
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,顶部焦点图,"首页顶部位置显示，具有高视觉吸引性，点击率高。
 
 
@@ -623,7 +726,11 @@
 
 曝光排期、曝光竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=565&pid=1822
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=565&pid=1822,2020-05-27 17:56:55
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -647,7 +754,11 @@
 
 按展示时间计费
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=565&pid=1823
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=565&pid=1823,2020-05-27 17:55:52
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,原生广告,"在书籍阅读页中插；书籍阅读页章节末；首页、频道页、书籍详情页等显示，具备高度原生、低打扰的特征。
 
 
@@ -671,7 +782,11 @@ QQ阅读-文章阅读页-原生广告
 
 曝光竞价、点击竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=564&pid=1824
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=564&pid=1824,2020-05-27 17:54:29
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,激励视频,"在章节付费场景、签到场景、奖励场景（阅读时长奖励、任务奖励、奖励翻倍等）中植入的广告，用户观看完广告即可获得相应激励，用户点击意愿更高。
 
 
@@ -695,7 +810,11 @@ QQ阅读-内容付费页-激励视频广告
 
 曝光竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=564&pid=1825
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=564&pid=1825,2020-05-27 17:53:28
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -719,7 +838,11 @@ QQ阅读-APP启动时展示
 
 按展示时间收费、曝光排期、曝光竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=564&pid=1826
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=564&pid=1826,2020-05-27 17:32:01
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -743,7 +866,11 @@ QQ阅读-APP启动时展示
 
 按展示时间计费、曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=563&pid=1827
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=563&pid=1827,2020-05-27 17:28:33
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,链接动画广告,"强“撩”用户资源，用户连上WiFi后出现的浮屏式广告推广，且可缩小至顶部banner，实现多次曝光效果和多互动性。
 
 
@@ -767,7 +894,11 @@ WIFI管家-WiFi连接-浮层广告
 
 曝光排期、点击竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=562&pid=1828
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=562&pid=1828,2020-05-27 17:19:28
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -791,7 +922,11 @@ WIFI管家-APP启动时展示
 
 按展示时间计费、曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=562&pid=1829
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=562&pid=1829,2020-05-27 17:17:54
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,清理结果页通栏广告,"顶部曝光位，强效曝光效果。快速触达用户，实现高品质效果。
 
 
@@ -815,7 +950,11 @@ WIFI管家-APP启动时展示
 
 按展示时间计费、曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=561&pid=1830
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=561&pid=1830,2020-05-27 17:16:38
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,首页通栏广告,"首页独占，实现强曝光。
 
 
@@ -839,7 +978,11 @@ WIFI管家-APP启动时展示
 
 按展示时间计费、曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=561&pid=1831
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=561&pid=1831,2020-05-27 20:21:45
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -863,7 +1006,11 @@ APP启动时展示
 
 按展示时间计费、曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=561&pid=1832
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=561&pid=1832,2020-05-27 17:14:26
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,搜索直达区,"SEM属性渠道，精准触达用户需求。
 
 
@@ -887,7 +1034,11 @@ APP启动时展示
 
 系统自由竞价，按刊例收费
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1833
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1833,2021-11-05 11:50:11
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,搜索结果页,"SEM属性渠道，精准触达用户需求。
 
 
@@ -911,7 +1062,11 @@ APP启动时展示
 
 系统自由竞价，按刊例收费
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1834
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1834,2021-11-05 11:50:38
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,小宝悬浮窗,"首页翻屏时，一直在右下角悬浮展示，瞬间捕获用户注意力，当用户不需要时可手动关闭。
 
 
@@ -935,7 +1090,11 @@ APP启动时展示
 
 曝光排期，按照刊例收费
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1835
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1835,2020-05-27 17:11:13
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和3~5秒的强曝光形态对用户展示。以强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -959,7 +1118,11 @@ APP启动时展示
 
 曝光排期，按照刊例收费
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1836
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1836,2020-05-27 20:21:01
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,首页卡片,"<img src='https://bbx-pic.gtimg.com/bbx/pictures/2019/16_20190808172128_704748.png' style='width:280px;margin:auto'></img>
 
 
@@ -978,20 +1141,32 @@ APP启动时展示
 ## 售卖方式
 
 
+<<<<<<< HEAD
 系统自由竞价",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1837
+=======
+系统自由竞价",https://e.qq.com/ads/helpcenter/detail?cid=560&pid=1837,2021-11-11 16:51:34
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,新设备用户定向说明,"# 功能介绍
 ## 新设备用户
 新设备是指首次激活在90天内的设备，数据每天更新。您在投放广告的时候可以选择是否使用新设备用户的定向，可不限新设备，也可选择广告只对苹果设备的新用户或安卓设备新用户进行投放。（可多选）。将与操作系统定向一起使用。
 		
 对于想要推广App的广告主来说，使用新设备用户定向有利于提升App的激活率，因为一般来说，新设备用户会更倾向于进行App的安装行为。
+<<<<<<< HEAD
 ![新设备0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518202422_471178.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1838
+=======
+![新设备0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518202422_471178.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1838,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,应用安装定向说明,"# 功能介绍
 ## 应用安装
 您在投放广告的时候可以选择是否使用应用安装的定向，可根据应用推广的当前需求，选择广告只对未安装该应用的用户或者已安装该应用的用户进行投放（单选，若选择全部请选择“不限”）。
 ![应用按装0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518202551_837385.png)
 建议：您的推广目标主要是为了获取新用户时，您可以选择定向“未安装该应用的用户”；
 
+<<<<<<< HEAD
 当您需要对已有用户促进深度进一步的转化时，可以选择定向“已安装该应用的用户”。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1839
+=======
+当您需要对已有用户促进深度进一步的转化时，可以选择定向“已安装该应用的用户”。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1839,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,自定义人群定向说明,"# 功能介绍
 您在广告创建流程的定向模块中，可以选择定向投放给「自定义人群」：
 ![自定义0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518203021_152382.png)
@@ -1015,7 +1190,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 ![自定义1.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200518203036_177632.png)
 2.「管理人群」按钮
 
+<<<<<<< HEAD
 「管理人群」按钮点击后会直接跳转至DMP，系统会自动使用您当前登录的广告投放账号来登录DMP，您可以在DMP中创建&管理您的自定义人群，在DMP中操作完毕后，回到广告创建流程中点击「刷新人群」按钮，系统会刷新展示您在DMP中操作过后的自定义人群列表。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1840
+=======
+「管理人群」按钮点击后会直接跳转至DMP，系统会自动使用您当前登录的广告投放账号来登录DMP，您可以在DMP中创建&管理您的自定义人群，在DMP中操作完毕后，回到广告创建流程中点击「刷新人群」按钮，系统会刷新展示您在DMP中操作过后的自定义人群列表。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1840,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,设备品牌型号定向说明,"# 功能介绍
 ## 设备品牌型号
 您在投放广告的时候可以选择不限设备品类，也可指定设备的品牌及型号，使得广告只在或者不在特定品牌的设备上曝光。目前支持选择定向或排除的自定义品牌有：苹果/三星/小米/vivo/华为/oppo/联想/酷派/荣耀/魅族/金立/中兴/htc/诺基亚/索尼/黑莓/海信/lg/tcl/华硕/朵唯/摩托罗拉/乐视/酷比/努比亚/语信/谷歌/波导/亿通/康佳/中国移动/smartfren/酷珀/一加/乐丰/锤子/诺亚信/广信/贝尔丰/美图/微软/维图/米蓝/酷比魔方/至尊宝/沃普丰/奇酷/奥乐迪奥/依偎/天语/青橙/小辣椒/360/赛博宇华/爱我/亿优/金豆子/长虹/天宏/先科/世纪星/8848/宇飞来/糖果/格力/黑鲨/realme/步步高/pptv。
@@ -1025,7 +1204,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 ![设备品牌1.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519094835_692686.png)
 勾选“排除所选设备的用户”，您可以在上述品牌中排除使用指定设备的人群。
 ![设备品牌2.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519094945_631589.png)
+<<<<<<< HEAD
 注意：设备品牌型号定向暂时不支持预估人群覆盖量及日曝光量",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1841
+=======
+注意：设备品牌型号定向暂时不支持预估人群覆盖量及日曝光量",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1841,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,操作系统定向说明,"# 功能介绍
 ## 操作系统
 您在投放广告的时候可以选择不限制设备的操作系统，也可指定广告只在安装了特定操作系统的设备上曝光。
@@ -1036,20 +1219,32 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 ![操作系统1.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519095458_265958.png)
 注意：
 1. 安卓应用的推广计划强制定向给Android操作系统的设备，同样，苹果应用的推广计划强制定向给ios操作系统的设备避免广告投放出现没有曝光的情况。
+<<<<<<< HEAD
 2. 操作系统定向暂时不支持在指定版本号时预估人群覆盖量及日曝光。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1843
+=======
+2. 操作系统定向暂时不支持在指定版本号时预估人群覆盖量及日曝光。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1843,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,联网方式定向说明,"# 功能介绍
 ## 联网方式
 此定向为广告即将曝光时用户设备接入互联网的实时方式，目前有WiFi、4G、3G、2G四种选项，支持多选，如下图，同时选中四种联网方式：
 ![联网方式0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519095800_772001.png)
 在不需要通过联网方式筛选人群时，选择“不限”即可，如下图所示：
 ![联网方式1.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519095822_800905.png)
+<<<<<<< HEAD
 使用建议：网络环境可能影响用户选择是否下载app、观看视频等，您可以根据投放标的、素材等酌情选择用户的实时联网方式，并注意最终覆盖的人群量级。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1844
+=======
+使用建议：网络环境可能影响用户选择是否下载app、观看视频等，您可以根据投放标的、素材等酌情选择用户的实时联网方式，并注意最终覆盖的人群量级。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1844,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,移动运营商定向说明,"# 功能介绍
 ## 移动运营商
 您在投放广告的时候可以选择不限或者指定移动运营商，使得广告仅在使用指定运营商服务的设备上曝光。可供选择的运营商有：中国移动/中国联通/中国电信（可多选）。
 
 如下图示例是选中移动运营商为中国移动和中国联通的设备的情况。
+<<<<<<< HEAD
 ![移动运营商0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100014_985826.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1845
+=======
+![移动运营商0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100014_985826.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1845,2021-11-04 11:41:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,设备价格定向说明,"# 功能介绍
 ## 设备价格
 您在投放广告的时候可以选择不限设备价格，或者根据设备的价格区间进行广告投放，使得广告仅在符合指定价格区间的设备上曝光。可供选择的价格区间有（可多选）：
@@ -1060,7 +1255,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 * 4500元以上
 
 如下图示例是选中设备价格区间在3500以上的情况：
+<<<<<<< HEAD
 ![设备价格0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100133_390821.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1846
+=======
+![设备价格0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100133_390821.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1846,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,微信再营销定向说明,"# 功能介绍
 ## 微信再营销
 您在投放广告的时候可以选择是否使用微信再营销和排除营销的定向，可同时不选或者选择再营销和排除营销功能。
@@ -1071,12 +1270,20 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 ![微信再营销0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100434_700472.png)
 注意：
 1. 再营销及排除营销是相反的操作，不可同时对一类人群选择再营销及排除营销。
+<<<<<<< HEAD
 2. 微信再营销定向只能用于投放广告版位为微信的广告，且暂时不支持预估人群覆盖量及日曝光量。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1847
+=======
+2. 微信再营销定向只能用于投放广告版位为微信的广告，且暂时不支持预估人群覆盖量及日曝光量。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1847,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,QQ小游戏使用定向说明,"# 功能介绍
 ## QQ小游戏使用定向
 您在投放QQ小游戏广告时可以选择是否使用“小游戏使用”定向，可根据小游戏推广的当前需求，选择广告只投放给未使用过该小游戏的用户，或者已使用过该小游戏的用户（只能单选）。
 ![QQ小游戏0.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100619_092087.png)
+<<<<<<< HEAD
 建议：当您的推广目标为获取新用户时，您可以选择定向给“未使用过该小游戏的用户”；当您需要促进已有用户的活跃程度时，可以选择定向给“已使用过该小游戏的用户”。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1848
+=======
+建议：当您的推广目标为获取新用户时，您可以选择定向给“未使用过该小游戏的用户”；当您需要促进已有用户的活跃程度时，可以选择定向给“已使用过该小游戏的用户”。",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1848,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,天气定向说明,"# 功能介绍
 广告主在投放广告的时候可以指定天气相关的定向投放功能，使广告只在满足天气条件的区域曝光。天气定向支持按温度、紫外线指数、穿衣指数、化妆指数、气象、空气质量指数定向。6种天气相关的指标对应的设置标准如下：
 ## 温度
@@ -1106,7 +1313,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 ![天气定向6.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100843_056347.png)
 ## 空气质量指数
 您可选择不限空气质量进行投放，或在优良/轻度污染/中度污染/重度污染/严重污染这五个空气质量情况中进行选择（可多选），广告会定向投放到符合指定空气质量的区域。
+<<<<<<< HEAD
 ![天气定向7.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100847_675551.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1849
+=======
+![天气定向7.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200519100847_675551.png)",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1849,2021-11-04 11:41:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,教育行业资质要求,"## **学历教育**
 * 行业描述
 
@@ -1208,7 +1419,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
   *例：早教中心等*
 * 行业资质
 
+<<<<<<< HEAD
   《民办学校办学许可证》或《事业单位法人证书》或《营业执照》（经营范围包含教育咨询、教育培训、教育项目投资或培训等相关业务）",https://e.qq.com/ads/helpcenter/detail?cid=387&pid=1851
+=======
+  《民办学校办学许可证》或《事业单位法人证书》或《营业执照》（经营范围包含教育咨询、教育培训、教育项目投资或培训等相关业务）",https://e.qq.com/ads/helpcenter/detail?cid=387&pid=1851,2020-09-16 11:19:16
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,服务商申请流程,"# **服务商申请流程**
 如何申请成为腾讯广告的服务商？
  
@@ -1255,6 +1470,7 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 所有服务商需缴纳2万风险保证金，缴纳后开通投放权限。（保证金缴纳流程详见[https://e.qq.com/ads/helpcenter/detail?cid=764&pid=2202](http://) 底部资源下载）
 
 
+<<<<<<< HEAD
 [**马上申请成为服务商**](https://e.qq.com/agency-reg/)",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1852
 0,返货返点,"# **返货返点**
 
@@ -1263,6 +1479,16 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 **成为服务商子客户是否要向服务商交服务费？**
  
 服务商向子客户提供咨询、优化账户等服务，有可能收取子客户一定的服务费。具体费用金额，需和服务商进行协商，腾讯广告对此没有特殊规定。",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1854
+=======
+[**马上申请成为服务商**](https://e.qq.com/agency-reg/)",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1852,2022-02-12 09:56:10
+0,返货返点,"# **返货返点**
+
+服务商帐户资质审核通过后，可联系对应的渠道经理进行了解。",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1853,2020-05-22 14:58:32
+0,服务费,"# **服务费**
+**成为服务商子客户是否要向服务商交服务费？**
+ 
+服务商向子客户提供咨询、优化账户等服务，有可能收取子客户一定的服务费。具体费用金额，需和服务商进行协商，腾讯广告对此没有特殊规定。",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1854,2020-05-22 14:58:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,问题咨询通道,"# **问题咨询通道**
 
 **1.问题反馈咨询通道**
@@ -1273,7 +1499,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 
 **2.子客户是否可以申请转换服务商？**
  
+<<<<<<< HEAD
 我们不支持转换服务商，如果广告主对现在的服务商十分不满，请收集广告主的信息（id、公司名称、现任服务商、更换原因）发到腾讯广告官方邮箱ads_service@tencent.com进行反馈，渠道经理会进行处理。",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1855
+=======
+我们不支持转换服务商，如果广告主对现在的服务商十分不满，请收集广告主的信息（id、公司名称、现任服务商、更换原因）发到腾讯广告官方邮箱ads_service@tencent.com进行反馈，渠道经理会进行处理。",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1855,2020-05-22 14:57:52
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,其他常见问题,"# **其他常见问题**
 
 **1.子客户与直客的区别？**
@@ -1308,7 +1538,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 
 **5.为什么子客无法收到通知提醒？**
  
+<<<<<<< HEAD
 子客户投放系统只有“操作者”，“观察者”两个角色，这2个角色都没有“通知提醒设置”的权限。",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1856
+=======
+子客户投放系统只有“操作者”，“观察者”两个角色，这2个角色都没有“通知提醒设置”的权限。",https://e.qq.com/ads/helpcenter/detail?cid=523&pid=1856,2020-05-26 14:33:43
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,2022年区域核心服务商名单公示,"# **2022年区域核心服务商名单公示**
 （排名不分先后顺序）
     
@@ -1569,7 +1803,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
  注意：
  
 1. 以上区域核心服务商授权范围不包含区域封闭行业，封闭行业以腾讯广告平台通知为准，包含汽车、房产、招商加盟、运营商等行业。
+<<<<<<< HEAD
 2.  授权牌照查询链接：[https://e.qq.com/ads/helpcenter/detail?cid=542&pid=1988](https://e.qq.com/ads/helpcenter/detail?cid=542&pid=1988)",https://e.qq.com/ads/helpcenter/detail?cid=524&pid=1862
+=======
+2.  授权牌照查询链接：[https://e.qq.com/ads/helpcenter/detail?cid=542&pid=1988](https://e.qq.com/ads/helpcenter/detail?cid=542&pid=1988)",https://e.qq.com/ads/helpcenter/detail?cid=524&pid=1862,2022-01-04 22:50:50
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,优量广告激励视频广告,"全屏沉浸式体验，广告入口位置灵活，支持广告创建并设置相关定向，助力全屏营销。
 
 
@@ -1599,7 +1837,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 
 1千万
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=600&pid=1863
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=600&pid=1863,2020-05-27 19:15:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,2022年附近推服务商名单公示,"# **2022年附近推服务商名单公示**
 （排名不分先后顺序）
     
@@ -1614,9 +1856,15 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 1. 北京微播易道网络科技有限公司
 1. 广州刁刁信息科技有限公司
 1. 上海微盟餐林信息科技有限公司
+<<<<<<< HEAD
 1. 准动网络科技（厦门）有限公司",https://e.qq.com/ads/helpcenter/detail?cid=524&pid=1868
 0,落地页服务商认证概述,"# **落地页服务商认证概述**
 建站平台方在完成腾讯广告投放管理平台落地页服务商认证流程后，即可成为腾讯广告落地页认证服务商，腾讯广告投放管理平台（以下简称“TSA”）希望携手TSA落地页认证服务商，共同创建积极有序的广告生态环境。",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1869
+=======
+1. 准动网络科技（厦门）有限公司",https://e.qq.com/ads/helpcenter/detail?cid=524&pid=1868,2022-01-25 15:59:46
+0,落地页服务商认证概述,"# **落地页服务商认证概述**
+建站平台方在完成腾讯广告投放管理平台落地页服务商认证流程后，即可成为腾讯广告落地页认证服务商，腾讯广告投放管理平台（以下简称“TSA”）希望携手TSA落地页认证服务商，共同创建积极有序的广告生态环境。",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1869,2020-05-22 14:53:50
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,落地页服务商认证流程,"# **落地页服务商认证流程**
 ![落地页服务商认证.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200519160335_894334.jpg)
 
@@ -1636,7 +1884,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
  
 （8）若核查未通过，则建站平台方需继续调整产品与技术方案，直至核查通过。
  
+<<<<<<< HEAD
 （9）建站平台方在完成认证后，TSA会对建站平台的产品与服务进行持续审查，一旦发现产品与服务不符合腾讯广告投放管理平台落地页认证服务商标准和腾讯广告投放管理平台落地页服务商合作要求，建站平台方需立即整改产品方案与技术方案，且TSA会根据法律合同中相应条款对建站平台方进行处罚。",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1870
+=======
+（9）建站平台方在完成认证后，TSA会对建站平台的产品与服务进行持续审查，一旦发现产品与服务不符合腾讯广告投放管理平台落地页认证服务商标准和腾讯广告投放管理平台落地页服务商合作要求，建站平台方需立即整改产品方案与技术方案，且TSA会根据法律合同中相应条款对建站平台方进行处罚。",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1870,2020-05-22 14:53:31
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,落地页服务商认证标准,"# **落地页服务商认证标准**
 ### 1、企业能力标准
  
@@ -1655,7 +1907,11 @@ DMP详细介绍参见此文档：https://dmp.qq.com/featuresportal/audience-mana
 ### 2、产品功能标准
  
 为保证建站平台方能满足TSA广告主的产品核心诉求，建站平台方必须免费提供以下产品功能：![11111111111111111111111111111.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200519173622_061867.png)
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1875
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1875,2020-05-27 10:00:06
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,落地页服务商合作要求,"# **落地页服务商合作要求**
 ### 1、落地页内容管理及技术规范
  
@@ -1713,7 +1969,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
  
 建站平台方上报的自定义行为数据类型（action_param）为：
+<<<<<<< HEAD
 ![66666666666666.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200519174134_804802.png)",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1876
+=======
+![66666666666666.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200519174134_804802.png)",https://e.qq.com/ads/helpcenter/detail?cid=525&pid=1876,2020-05-27 10:01:25
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,申请认证邮件格式及认证材料提供,"# **附录一 申请认证邮件格式及认证材料提供**
 邮件主题：【企业名称】腾讯广告落地页服务商认证申请
  
@@ -1756,14 +2016,22 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 合作对象：xxxxxx
 合作时间：xxxxxx
 解决问题：帮助客户或平台解决了xxx问题
+<<<<<<< HEAD
 达成目标：最终取得的效果",https://e.qq.com/ads/helpcenter/detail?cid=526&pid=1877
+=======
+达成目标：最终取得的效果",https://e.qq.com/ads/helpcenter/detail?cid=526&pid=1877,2021-10-25 16:13:19
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,资源域名白名单申报格式,"# **附录二 资源域名白名单申报格式**
 邮件主题：【企业名称】落地页内资源域名白名单申报
  
 邮件内容：
  
 域名申报
+<<<<<<< HEAD
 ![77777777.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200519174513_460155.png)",https://e.qq.com/ads/helpcenter/detail?cid=526&pid=1878
+=======
+![77777777.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200519174513_460155.png)",https://e.qq.com/ads/helpcenter/detail?cid=526&pid=1878,2020-05-22 14:52:07
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,金融行业资质要求,"## **基金**
 * 行业描述
 
@@ -1934,7 +2202,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
 1.	一般无
+<<<<<<< HEAD
 2.	涉及发布证券交易即时行情，须提供：证交所的书面授权许可。",https://e.qq.com/ads/helpcenter/detail?cid=388&pid=1879
+=======
+2.	涉及发布证券交易即时行情，须提供：证交所的书面授权许可。",https://e.qq.com/ads/helpcenter/detail?cid=388&pid=1879,2021-10-12 15:17:13
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,旅游行业资质要求,"## **酒店住宿**
 * 行业描述
 
@@ -2026,7 +2298,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   《水路运输许可证》
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=389&pid=1880
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=389&pid=1880,2020-05-25 18:07:42
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,护肤彩妆行业资质要求,"## **非特殊用途化妆品**
 * 行业描述
 
@@ -2069,7 +2345,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
   *例：丝芙兰线下门店*
 * 行业资质
 
+<<<<<<< HEAD
   无",https://e.qq.com/ads/helpcenter/detail?cid=390&pid=1881
+=======
+  无",https://e.qq.com/ads/helpcenter/detail?cid=390&pid=1881,2021-06-16 14:37:15
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,数码家电行业资质要求,"## **电脑**
 * 行业描述
 
@@ -2205,7 +2485,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
   *例：国美电器门店*
 * 行业资质
 
+<<<<<<< HEAD
   无",https://e.qq.com/ads/helpcenter/detail?cid=391&pid=1882
+=======
+  无",https://e.qq.com/ads/helpcenter/detail?cid=391&pid=1882,2021-04-20 15:35:50
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,食品行业资质要求,"## **休闲食品**
 * 行业描述
 
@@ -2310,7 +2594,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   《食品经营许可证》
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=392&pid=1883
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=392&pid=1883,2020-07-09 19:03:56
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,珠宝钟表行业资质要求,"## **珠宝**
 * 行业描述
 
@@ -2349,7 +2637,133 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   无
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=393&pid=1884
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=393&pid=1884,2020-05-25 18:09:49
+0,医疗健康行业资质要求,"## **保健用品**
+* 行业描述
+
+  外用的保健器材，具有保健用品许可证
+
+  *例：按摩仪器等*
+* 行业资质
+
+  部分省市需提供《保健用品许可证》，且落地页不得出现任何涉及疗效的内容
+
+## **保健食品**
+* 行业描述
+
+	内服的保健食品，在药监局网站有批文
+		
+	 *例：纽崔莱*
+* 	 行业资质
+1. 《食品生产许可证》(含保健食品)或《食品经营许可证》(含保健食品)
+2. 《保健食品广告审查表》或《广告审查准予许可决定书》
+3. 	《国产/进口保健食品批准证书》、《保健食品注册证书》、《保健食品备案凭证》任一资质
+4. 	如为经销商，须提供经销商授权
+
+
+## **药品生产研发**
+* 行业描述
+	
+	药品生产公司
+	
+	*例：辉瑞公司*
+	
+* 行业资质
+
+1. 	《药品生产许可证》
+2. 	《药品广告审查表》或《广告审查准予许可决定书》
+3. 	针对某款产品，须提供《医药产品注册证》，且资质须明确药品批准文号(未实施批准文号管理的中药材、中药饮片除外)
+4. 	涉及销售进口药品，须提供《进口药品注册证》(明确药品批准文号)及海关通关单/或口岸药检所检验报告
+
+## **药品销售**
+* 行业描述
+
+	网上或线下对终端消费者的药品销售机构
+	
+	*例：金象大药房*
+	
+* 	行业资质
+
+1. 《药品经营许可证》
+2. 《药品广告审查表》或《广告审查准予许可决定书》
+3. 涉及销售进口药品，须提供《进口药品注册证》(明确药品批准文号)及海关通关单/或口岸药检所检验报告
+4. 如为线上售药，须提供《互联网药品信息服务资格证书》
+5. 如为经销商，须提供经销商授权
+
+## **医疗器械生产**
+* 行业描述
+
+	医疗器械生产商，
+	
+	*例：生产轮椅、注射器、医用治疗仪、助听器、呼吸机、手术工具等的企业*
+	
+* 	行业资质
+
+1. 	生产
+
+	1.1、涉及一类医疗器械，须提供《第一类医疗器械备案凭证》及《第一类医疗器械生产备案凭证》
+	
+	1.2、涉及二类医疗器械，须提供《中华人民共和国医疗器械注册证》及《医疗器械生产许可证》
+	
+	1.3、《医疗器械广告审查表》或《广告审查准予许可决定书》
+	
+1. 涉及进口医疗器械
+
+	2.1、进口一类医疗器械，须提供《第一类医疗器械备案凭证》
+	
+	2.2、进口二类医疗器械，须提供《医疗器械注册证》
+
+## **医疗器械销售**
+* 行业描述
+
+	医疗器械销售商
+
+	*例：销售轮椅、注射器、医用治疗仪、助听器、呼吸机、手术工具等的企业*
+* 	行业资质
+1. 涉及一类医疗器械，无特殊资质要求；涉及二类医疗器械，须提供《第二类医疗器械经营备案凭证》或《医疗器械经营许可证》
+2. 《医疗器械广告审查表》或《广告审查准予许可决定书》
+3. 医疗器械生产商授权
+4. 通过自建网站开展医疗器械网络销售，须提供《互联网药品信息服务资格证书》
+5. 如为医疗器械第三方销售平台，须提供《互联网药品信息服务资格证书》及《医疗器械网络交易服务第三方平台备案凭证》
+6. 涉及进口医疗器械
+
+	6.1、进口一类医疗器械，须提供《第一类医疗器械备案凭证》；进口二类医疗器械，须提供《医疗器械注册证》
+
+	6.2、如为经销商，须提供经销商授权
+
+## **美容整形机构**
+* 行业描述
+
+	通过医疗手段达成美容整形目的的机构
+	
+	*例：广州妍雅医学整形医院*
+* 行业资质
+1. 《医疗机构执业许可证》、《医疗广告审查证明》、《医疗广告成品样件表》
+2. 如涉及代理推广，须提供授权协议
+
+## **体检机构**
+* 行业描述
+	
+	专注体检服务的医疗机构
+	
+	*例：爱康国宾*
+* 行业资质
+1. 《医疗机构执业许可证》、《医疗广告审查证明》、《医疗广告成品样件表》
+2. 如涉及代理推广，须提供授权协议
+
+## **口腔机构**
+* 行业描述
+	
+	口腔医院、口腔诊所等
+	
+	*例：佳美口腔*
+* 	行业资质
+1. 《医疗机构执业许可证》、《医疗广告审查证明》、《医疗广告成品样件表》
+2. 如涉及代理推广，须提供授权协",https://e.qq.com/ads/helpcenter/detail?cid=394&pid=1885,2021-06-16 17:25:53
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,零售百货行业资质要求,"## **超市**
 * 行业描述
 
@@ -2379,7 +2793,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   无
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=395&pid=1886
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=395&pid=1886,2020-05-25 18:10:47
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,商务服务行业资质要求,"## **管理咨询**
 * 行业描述
 
@@ -2502,7 +2920,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 1. 营业执照内容须包含“演艺经纪”、“文艺创作”、“演出经纪代理服务”、“艺人经纪”等相关内容
 2. 《营业性演出许可证》
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=396&pid=1887
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=396&pid=1887,2020-07-06 17:23:44
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,亲子行业资质要求,"## **童装童鞋**
 * 行业描述
 
@@ -2591,7 +3013,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 1. 经营范围内包含食品的，须提供《食品经营许可证》
 2. 经营范围内包含婴儿配方奶粉的，须提供其生产企业的《婴幼儿配方乳粉产品配方注册及生产许可证》，且《营业执照》的经营范围须包含乳制品（含婴幼儿配方乳粉）
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=397&pid=1888
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=397&pid=1888,2020-05-25 18:12:15
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,生活服务行业资质要求,"## **房屋维修**
 * 行业描述
 
@@ -2773,7 +3199,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 2. 供电，须提供《电力业务许可证》
 3. 供水，须提供《供水卫生许可证》或《城市供水企业资质证书》
 4. 供气，须提供《燃气经营许可证》
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=398&pid=1889
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=398&pid=1889,2020-05-25 18:12:46
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,法律服务行业资质要求,"## **司法鉴定**
 * 行业描述
 
@@ -2800,7 +3230,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   《公证机构执业证》
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=399&pid=1892
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=399&pid=1892,2020-05-25 18:13:13
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,房地产行业资质要求,"## **房地产开发商**
 * 行业描述
 
@@ -2831,7 +3265,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   《增值电信业务经营许可证》
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=400&pid=1893
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=400&pid=1893,2020-05-25 18:13:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,交通运输行业资质要求,"## **航空服务**
 * 行业描述
 
@@ -2873,7 +3311,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   《水路运输业务经营许可证件》或 加盖当地相关交通部门公章的许可证明
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=401&pid=1896
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=401&pid=1896,2020-05-25 18:14:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,节能环保行业资质要求,"## **污染处理**
 * 行业描述
 
@@ -2914,7 +3356,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   《建设项目环境影响评价资质证书》或《中国合格评定国家认可委员会实验室认可证书》（CNAS）或《资质认定计量认证证书》（CMA）
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=402&pid=1897
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=402&pid=1897,2020-05-25 18:14:39
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,安全安保行业资质要求,"## **防盗报警**
 * 行业描述
 
@@ -2950,7 +3396,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 1. 一般无
 2. 涉及消防设施维护保养检测机构及消防安全评估机构，营业执照经营范围须包含“消防”相关字眼，如消防安全评估技术服务、消防检测技术研究等
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=403&pid=1898
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=403&pid=1898,2020-05-25 18:15:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,家居装修建材行业资质要求,"## **家装建材**
 * 行业描述
 
@@ -3016,7 +3466,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   《增值电信业务经营许可证》
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=404&pid=1899
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=404&pid=1899,2020-05-25 18:15:41
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,通讯及IT服务行业资质要求,"## **通信运营商**
 * 行业描述
 
@@ -3062,7 +3516,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   无
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=405&pid=1900
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=405&pid=1900,2020-05-25 18:16:13
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,日用百货行业资质要求,"## **家居日用**
 * 行业描述
 
@@ -3135,7 +3593,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   无
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=406&pid=1901
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=406&pid=1901,2020-05-25 18:16:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,机构协会行业资质要求,"## **境内政府机关**
 * 行业描述
 
@@ -3161,7 +3623,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   《基金会法人登记证书》或《社会团体法人登记证书》或民政局开具的其他合法证明
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=407&pid=1902
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=407&pid=1902,2020-05-25 18:17:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,网络资讯及社区行业资质要求,"## **在线新闻及资讯**
 * 行业描述
 
@@ -3182,7 +3648,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 1. 《增值电信业务经营许可证》
 2. 《网络文化经营许可证》或《信息网络传播视听节目许可证》或《网络出版服务许可证》或《互联网新闻信息服务许可证》
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=408&pid=1903
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=408&pid=1903,2020-05-25 18:17:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,汽车行业资质要求,"## **汽车线上平台**
 * 行业描述
 
@@ -3252,7 +3722,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 1. 【买卖】无
 2. 【租赁】《道路运输经营许可证》或《汽车租赁经营许可证》或汽车租赁经营备案证明
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=409&pid=1904
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=409&pid=1904,2020-05-25 18:18:08
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,软件工具行业资质要求,"## **办公商务软件**
 * 行业描述
 
@@ -3314,7 +3788,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   无
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=410&pid=1905
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=410&pid=1905,2020-07-06 17:26:22
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,游戏行业资质要求,"## **角色扮演**
 * 行业描述
 
@@ -3478,7 +3956,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
   *例：LPL、KPL联赛*
 * 行业资质
 
+<<<<<<< HEAD
   举办电子竞技赛事：须省级体育主管部门同意举办比赛的批准文件",https://e.qq.com/ads/helpcenter/detail?cid=411&pid=1906
+=======
+  举办电子竞技赛事：须省级体育主管部门同意举办比赛的批准文件",https://e.qq.com/ads/helpcenter/detail?cid=411&pid=1906,2020-09-29 14:56:48
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,工业工程行业资质要求,"## **能源化工**
 * 行业描述
 
@@ -3521,7 +4003,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 1. 《中国国家强制性产品认证证书》（3C证书）
 2. 涉及特种设备，须提供《特种设备制造许可证》
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=412&pid=1907
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=412&pid=1907,2020-05-25 18:19:36
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,农林牧渔行业资质要求,"## **种植养殖**
 * 行业描述
 
@@ -3544,7 +4030,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   无
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=413&pid=1908
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=413&pid=1908,2020-05-25 18:20:04
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,出版传媒行业资质要求,"## **书籍杂志**
 * 行业描述
 
@@ -3584,7 +4074,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   无
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=414&pid=1909
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=414&pid=1909,2020-05-25 18:20:33
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,招商加盟服务行业资质要求,"## **餐饮服务**
 * 行业描述
 
@@ -3633,7 +4127,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
  1. 以招商主体开户，发布单独加盟项目，须提供推广品牌的《商标注册证》
+<<<<<<< HEAD
 2. 如涉及该行业的经营内容，同时还须按要求提供相应产品资质",https://e.qq.com/ads/helpcenter/detail?cid=415&pid=1910
+=======
+2. 如涉及该行业的经营内容，同时还须按要求提供相应产品资质",https://e.qq.com/ads/helpcenter/detail?cid=415&pid=1910,2020-09-03 11:52:44
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,婚恋行业资质要求,"## **婚介所**
 * 行业描述
 
@@ -3662,7 +4160,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   无
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=416&pid=1911
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=416&pid=1911,2020-05-25 18:21:28
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,服饰鞋帽箱包行业资质要求,"## **服装**
 * 行业描述
 
@@ -3757,7 +4259,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   无
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=417&pid=1912
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=417&pid=1912,2020-05-25 18:21:58
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,运动户外行业资质要求,"## **户外装备**
 * 行业描述
 
@@ -3808,7 +4314,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   无
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=418&pid=1913
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=418&pid=1913,2020-05-25 18:22:29
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,餐饮美食行业资质要求,"## **烘焙甜品**
 * 行业描述
 
@@ -3907,7 +4417,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   《食品经营许可证》或《餐饮服务许可证》或《食品生产许可证》任一资质
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=419&pid=1914
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=419&pid=1914,2020-05-25 18:22:56
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,摄影摄像机构及服务行业资质要求,"## **婚纱摄影**
 * 行业描述
 
@@ -3937,7 +4451,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 * 行业资质
 
   无
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=420&pid=1915
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=420&pid=1915,2020-05-25 18:23:26
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,在线视听与阅读行业资质要求,"## **影音视频**
 * 行业描述
 
@@ -3988,7 +4506,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
   《网络文化经营许可证》或《信息网络传播视听节目许可证》或《网络出版服务许可证》或《互联网出版许可证》或《出版物经营许可证》
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=421&pid=1917
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=421&pid=1917,2020-05-25 18:23:55
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,基于广告法的基本合规要求,"## **一、	广告不得有下列情形**
 1、使用或者变相使用中华人民共和国的国旗、国歌、国徽，军旗、军歌、军徽。
 
@@ -4157,10 +4679,17 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 6.4、其他含有“特供”、“专供”国家机关及类似内容，易造成社会不良影响的。
 
 6.5、除上述情况，如果商品是生产商专门为特定地区或者特定活动制作的（比如特殊包装、型号），如专供杭州地区则可以使用。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=423&pid=1924
 0,推广信息的一致性,"1. 广告内容，包括推广产品、品牌需保证与开户预设信息一致，不得出现开户公司在未提供授权的情况下推广其他公司产品。
 2. 广告推广内容与落地页推广内容需有关联性。
 ",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1925
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=423&pid=1924,2020-09-08 11:11:09
+0,推广信息的一致性,"1. 广告内容，包括推广产品、品牌需保证与开户预设信息一致，不得出现开户公司在未提供授权的情况下推广其他公司产品。
+2. 广告推广内容与落地页推广内容需有关联性。
+",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1925,2020-05-25 17:44:58
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,广告文字、文案及标点使用规范,"1. 文案、描述中全角/半角状态标点符号，不得混用。
 2. 广告中不得使用特殊符号，如“：）”、“*”、“#”等。
 3. 不得含有文字的错误拼写，若借用某字为谐音字，需要在该字上加引号以示区别。
@@ -4199,7 +4728,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 （2）利用知名品牌名称加产品描述作为山寨品牌LOGO的行为。如：山寨LOGO为“小米新品”、“三星视听科技”、“大力吸老板牌”
 
  
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1926
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1926,2020-05-25 17:44:40
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,广告图片规范,"## **一、	广告图片禁止内容**
 1.宣导消极、丑陋、恐怖、血腥及含有暴力倾向等元素，尽量在感官上保证舒适的感官体验。
 
@@ -4250,7 +4783,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 17、素材图片需要匹配投放规格，禁止出现未填满的情况。
 
 18、不得在图片中出现二维码图形、条形码图、股票代码、微信号、QQ号、QQ群号或其他社交软件号码等文字内容。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1927
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1927,2020-05-28 13:47:15
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,广告落地页规范,"1、落地页禁止出现强制下载、静默下载。
 
 2、落地页需可以正常打开，禁止出现纯图片、无交互设计的落地页。
@@ -4288,7 +4825,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 11.3、使用ICP备案信息主体与开户所使用的营业执照主体一致的推广链接。
 
+<<<<<<< HEAD
 11.4、如果为直营电商类广告主，请使用枫页落地页创建的链接进行推广，详情请点击此链接了解：http://e.qq.com/ads/adfaq/delivery/special/01",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1929
+=======
+11.4、如果为直营电商类广告主，请使用枫页落地页创建的链接进行推广，详情请点击此链接了解：http://e.qq.com/ads/adfaq/delivery/special/01",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1929,2021-12-06 15:19:57
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,视频广告规范,"1. 禁止宣导血腥、暴力、恐怖、色情、反党、反社会、不良诱导等可能引起用户不适或反感的视频内容。
 2. 视频广告配乐不得使用国歌，不得出现辱骂、诋毁等不良对话。
 3. 视频应完整填满广告位规格尺寸，内容显示需完整，避免使用竖版视频投放横版规格，或对竖版视频两侧强行添加内容使其变为横版规格尺寸。
@@ -4298,7 +4839,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 6. 视频广告需避免出现错别字，不得出现二维码下载APP，数据等内容。
 7. 视频广告语音与字幕需保持一致；视频全程不能使用方言配音&外语配音，如出现外语词汇及方言词汇，翻译字幕需与语义保持一致。
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1931
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1931,2020-05-25 17:33:02
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,通配符使用规范,"1. 带有通配符的文案语句要通顺完整，描述清晰，不得引起歧义或意思表达不明确，尤其需要注意{{week}}和{{day}}的用法，尽量配合具体活动。
 
    *如：{{week}}全场特价，{{day}}全场五折起*
@@ -4310,7 +4855,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 4. 素材使用通配符{{area}}与{{city}}， 素材图片及落地页不得出现指定区域讯息，造成文案与落地页不一致的情况。
 
    *如：素材中使用的{{city}}为多地区定向，落地页却只有某一地区的区域信息的情况。*
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1932
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=424&pid=1932,2020-05-25 17:32:46
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,企业名称填写的规范要求,"1、必须为公司简称或推广业务（项目）名称
 
 2、公司简称或推广业务名称需填写完整，不得使用符号代替
@@ -4321,7 +4870,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 3.2、不得出现动词、主谓宾式的句型结构
 
+<<<<<<< HEAD
 3.3、不得出现活动折扣信息",https://e.qq.com/ads/helpcenter/detail?cid=450&pid=1933
+=======
+3.3、不得出现活动折扣信息",https://e.qq.com/ads/helpcenter/detail?cid=450&pid=1933,2020-05-28 13:51:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,活动及促销活动规范,"1、详情页内容应保持时效性，节日类的活动，不得超过节日结束日3天。大型活动（比如双11，双12）时间延期1个月。
 
 2、需对活动中出现的限时、限量、限购进行具体说明，标明活动时间、活动数量、限购条件。
@@ -4359,7 +4912,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 7.6、涉及实名制物品不得参与兑换活动，如演唱会票、机票、火车票等。
 
 7.7、广告素材不得出现具体兑换比例，如“1600金币=1元”、“11234步=1.23元”。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=451&pid=1935
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=451&pid=1935,2020-05-28 13:52:50
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,电商行业审核规则,"## **一、	电商广告通用审核规则**
 1、电商广告落地页不可直接使用京东链接，需开通“京东直投”进行投放，开通地址：http://zt.jd.com。
 
@@ -4499,13 +5056,21 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 5.12、食品类商品不得使用拆包后可退货的描述，如“不好吃可退”。
 
+<<<<<<< HEAD
 5.13、护肤、特殊功能性化妆品、保健食品、保健品等对人体有改善效果的产品不得使用前后效果对比，例如：祛痘、去皱、去眼袋、美白等。",https://e.qq.com/ads/helpcenter/detail?cid=453&pid=1940
+=======
+5.13、护肤、特殊功能性化妆品、保健食品、保健品等对人体有改善效果的产品不得使用前后效果对比，例如：祛痘、去皱、去眼袋、美白等。",https://e.qq.com/ads/helpcenter/detail?cid=453&pid=1940,2020-09-14 14:47:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,公众号流量主开通流程,"公众号关注用户达到 **500** 人且符合平台运营规范，运营者可提交申请，审核通过后即可开通流量主功能。
 
 申请路径： 微信公众平台 → 流量主 → 申请开通 → 同意协议 → 选择要开通的广告位 → 提交。
 
 温馨提示：开通流量主功能后请及时补充财务资料，以免影响结算。
+<<<<<<< HEAD
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/rlklcvcz_a8e29683.png)",https://e.qq.com/ads/helpcenter/detail?cid=436&pid=1942
+=======
+![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/rlklcvcz_a8e29683.png)",https://e.qq.com/ads/helpcenter/detail?cid=436&pid=1942,2020-05-26 11:53:51
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,广告管理,"# 一、广告位管理
 
 流量主可以在“广告管理”页的“广告位管理”板块开通和关闭广告位。
@@ -4550,7 +5115,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 3. 流量主在“互选合作”页的“已投放广告”板块可查看广告投放数据和广告详情。
 4. 流量主在“互选合作”页的“互选广告设置”板块可进行价格、接单日历、商务联系方式等设置。
 
+<<<<<<< HEAD
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/uaoxuglb_81bf80bd.png)",https://e.qq.com/ads/helpcenter/detail?cid=437&pid=1943
+=======
+![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/uaoxuglb_81bf80bd.png)",https://e.qq.com/ads/helpcenter/detail?cid=437&pid=1943,2020-05-25 20:27:48
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,数据统计,"# 一、数据查看
 1. 流量主在“概览”页可查看账户收入趋势、分广告位昨日关键数据指标及昨日产生收入TOP10文章。
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/re8xr5x8_c4476fda.png)
@@ -4572,7 +5141,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 “概览”页及“数据统计”页的“返佣商品”板块展现的是返佣商品的预估收入；“概览”页的“账户收入”及“财务管理”页的“收入数据”板块中展现的返佣商品收入均为实际收入。
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/17pwqoyj_a8f9605f.png)
 
+<<<<<<< HEAD
 一般来说，在下单后的第二日，返佣商品的预估收入就会展现，而实际收入会在交易确认后，由电商平台将实际佣金金额传输给微信广告，并体现在佣金确认当日的账户收入中。",https://e.qq.com/ads/helpcenter/detail?cid=438&pid=1944
+=======
+一般来说，在下单后的第二日，返佣商品的预估收入就会展现，而实际收入会在交易确认后，由电商平台将实际佣金金额传输给微信广告，并体现在佣金确认当日的账户收入中。",https://e.qq.com/ads/helpcenter/detail?cid=438&pid=1944,2020-05-25 11:11:07
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,违规处罚,"# 一、流量主违规行为定义
 
 流量主违规行为是指流量主使用微信广告平台展示服务时违反法律法规规定、《微信公众平台广告展示服务协议》等广告展示服务相关的协议、规定、规范性文件等的相关行为。
@@ -4654,7 +5227,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 1. 本细则是微信公众平台广告展示服务规则，属于《微信公众平台广告展示服务协议》有效组成部分，腾讯有权根据自身运营管理需要更新本细则，上述更新一经正式发布，流量主即应遵守。  
 2. 在本细则中未作明确的广告展示违规行为，腾讯有权根据《微信公众平台服务协议》《微信公众平台广告展示服务协议》等规则进行处理。
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=454&pid=1945
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=454&pid=1945,2021-10-25 16:14:50
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,小程序流量主开通流程," ## 开通流量主
 
 小程序在累计独立访客（uv）>1000且未曾有严重违规记录的情况下，开发者可进入微信公众平台小程序后台，点击左侧面板“推广-流量主”，满足开通门槛的小程序开发者直接点击“开通”即可创建相应的广告位。
@@ -4662,7 +5239,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 温馨提示：开通流量主功能后请及时补充财务资料，以免影响结算。
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/8i27qect_54c78cd8.png)
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=440&pid=1947
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=440&pid=1947,2020-05-26 11:54:42
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,广告管理,"# 一、广告位管理
 1.	流量主可在“广告位管理”中选择自由开启或关闭广告位。  
 2.	若关闭广告位，24小时内将不可再次开通。
@@ -4711,7 +5292,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 ![image](https://wximg.qq.com/wxp/wxadtouch/upload/t1/qp3ogpt3_91db6def.png)
 3. 查看应用主页的链接，apkName=后的字母组合就是应用宝包名
 ![image](https://wximg.qq.com/wxp/wxadtouch/upload/t1/uer25jvh_dc62713a.png)
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=441&pid=1948
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=441&pid=1948,2020-05-25 11:10:27
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,数据统计,"1. 流量主可在“数据统计”页的”广告数据“板块，分广告位查看每日的曝光量、点击量以及收入数据。
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/b4izwntf_4a47a0db.png)
 2. 流量主可在“数据统计”页的“用户数据-趋势看板”板块，查看广告组件各关键指标的环/同比趋势幅度
@@ -4723,7 +5308,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 5. 流量主可在“财务管理”页的“收入数据”板块，查看分广告位分日收入明细数据。
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/ixzddqtw_8266e4bf.png)
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=442&pid=1949
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=442&pid=1949,2020-05-25 11:10:19
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,违规处罚,"# 一、小程序流量主违规行为定义
 
 小程序（含小游戏类目）流量主违规行为是指小程序流量主使用微信广告平台展示服务时违反法律法规规定、[《微信公众平台服务协议》](https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=1503979103&version=1&lang=zh_CN&platform=2)等广告展示服务相关的协议、规定、规范性文件等的相关行为。
@@ -4812,7 +5401,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=443&pid=1950
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=443&pid=1950,2020-05-25 11:10:11
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,财务结算,"# 一、财务资料
 ### 1. 收款规则
 **基本定义**
@@ -5000,7 +5593,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 根据《中华人民共和国税收征收管理法》及其实施细则等税收有关规定（以下简称“税收政策规定”），本公司受税务机关委托，对通过本公司获取劳务收入（包括劳务报酬、稿酬支出、特许权使用费等）发生应税项目的个人（以下简称“纳税人”），代征纳税人所获取劳务收入应缴纳的增值税、城市维护建设税、教育费附加及地方教育费附加，计税依据及税率按照相关税收政策规定执行。除此之外的税费代扣代缴以及结算事宜仍按照相关合同约定执行，纳税人需按照税收政策规定履行其纳税相关义务，以及自行承担补缴或退还的相关税款，税务机关对于纳税人税款的调整与腾讯公司无关。
 该公告自2019年11月1日起执行。
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=430&pid=1951
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=430&pid=1951,2020-05-25 11:10:03
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,效率工具,"# 一、广告数据接口
 现已向所有成为流量主的公众号运营者开放数据接口。通过数据接口，流量主可以无需进入流量主后台，向接口发起请求，即可获取与公众平台官网统计模块类似但更灵活的数据，包括但不限于广告位曝光量、点击量、收入等。获取数据后，还可根据需要进行高级处理。
 
@@ -5019,7 +5616,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 # 三、流量主服务助手小程序
 流量主可以扫码使用“流量主服务助手”小程序，在手机端查看收入数据。
 ![image](https://wxa.wxs.qq.com/wxadtouch/upload/t1/i1f6lqsg_47e0cd02.jpg)
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=431&pid=1952
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=431&pid=1952,2020-05-25 11:09:55
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,护肤彩妆行业审核规则,"## **一、	护肤彩妆广告通用审核规则**
 1、在针对未成年人的大众传播媒介上不得发布化妆品、美容广告。
 
@@ -5102,7 +5703,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 2.10、美白化妆品是指可对皮肤本身产生美白效果的化妆品。凡产品宣称可对皮肤本身产生美白增白效果的，严格按照特殊用途化妆品审核；产品通过物理遮盖方式发生效果，按照非特殊用途化妆品审核，但是功效宣称中不得含有美白、增白的表述。
 
 2.11、特殊用途化妆品中，育发、脱毛、美乳、健美、除臭不准入，其中祛斑、防晒仅允许物理遮盖，不得涉及疗效。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=457&pid=1957
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=457&pid=1957,2020-05-28 12:40:43
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,婚恋行业审核规则,"## **一、	婚恋广告审核规则**
 1、 广告文案及素材需具备明确的婚恋导向，如“寻找良缘”、“恋爱”、“寻找爱情”等。
 
@@ -5169,7 +5774,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 1.1、不得将特定年龄/性别等属性用于对他人（定向目标）的描述。
 
   *如：“25岁还没嫁？想找个老实的男朋友”，特指25岁未嫁的特定群体，非个人描述。*
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=458&pid=1960
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=458&pid=1960,2020-05-28 12:43:54
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,食品行业审核规则,"## **一、	食品广告通用审核规则**
 1、不得含有“最新科学”、“最新技术”、“最先进加工工艺”等绝对化的语言或者表示。
 
@@ -5230,7 +5839,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 12、在各类临时性广告活动中，以及含有附带赠送礼品的广告中，不得将酒类商品作为奖品或者礼品出现。
 
 13、禁止使用“专（特）供XX国家机关”、“XX（国家机关）专用”、“XXX省（市）指定专用产品”、“军队特工”、“军队特需”等国家机关名义或类似内容。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=462&pid=1961
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=462&pid=1961,2020-05-28 12:48:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,金融行业审核规则,"## **一、	金融广告通用审核规则**
 1、所有有投资回报预期的商品或者服务广告，均不得对未来效果、收益或者与其相关的情况作出保证性承诺。
 
@@ -5502,7 +6115,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 6.4、不得利用不良价值观做产品推荐。
 
+<<<<<<< HEAD
 *如“给你安全感的只有钱，快来买一份xxx保险吧”*",https://e.qq.com/ads/helpcenter/detail?cid=463&pid=1963
+=======
+*如“给你安全感的只有钱，快来买一份xxx保险吧”*",https://e.qq.com/ads/helpcenter/detail?cid=463&pid=1963,2021-10-25 16:15:09
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,微信广告小游戏优选合作计划,"<a href=""https://mp.weixin.qq.com"" target=""_blank""><img src=""http://wxa.wxs.qq.com/wxadtouch/upload/t1/uowb8mg1_88b75713.jpg"" alt=""image""></a>
 
 # 合作优势
@@ -5524,7 +6141,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 <a href=""https://mp.weixin.qq.com"" target=""_blank""><img src=""http://wxa.wxs.qq.com/wxadtouch/upload/t1/gbey6g7x_fb5c81ed.png"" alt=""image""></a>
 
 # 了解更多
+<<<<<<< HEAD
 [微信广告小游戏优选合作计划项目介绍文档](https://ad.weixin.qq.com/pdf.html?post_id=U2FsdGVkX1+9r5UrLhbpFMxXLZit+rkWYHUAHsPv/jI=)",https://e.qq.com/ads/helpcenter/detail?cid=444&pid=1964
+=======
+[微信广告小游戏优选合作计划项目介绍文档](https://ad.weixin.qq.com/pdf.html?post_id=U2FsdGVkX1+9r5UrLhbpFMxXLZit+rkWYHUAHsPv/jI=)",https://e.qq.com/ads/helpcenter/detail?cid=444&pid=1964,2020-05-25 11:09:47
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,医药健康行业审核规则,"## **一、	保健食品广告审核规则**
 1、保健食品广告资质要求
 
@@ -5925,7 +6546,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 7、不得对已经通过广告的广告内容进行剪辑、修改、拼接。已审查通过的广告内容需要改动，应当重新申请广告审查
 
+<<<<<<< HEAD
 8、如广审表内容包含医药健康行业规定中的禁止出现内容，如对功效的断言或保证、或家庭必备的等内容，则不承认广审表结果。",https://e.qq.com/ads/helpcenter/detail?cid=464&pid=1965
+=======
+8、如广审表内容包含医药健康行业规定中的禁止出现内容，如对功效的断言或保证、或家庭必备的等内容，则不承认广审表结果。",https://e.qq.com/ads/helpcenter/detail?cid=464&pid=1965,2021-06-16 17:01:23
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,教育行业审核规则,"## **教育广告通用审核规则**
 1、不得对升学、通过考试、获得学位学历或者合格证书，或者对教育、培训的效果作出明示或者暗示的保证性承诺。
 
@@ -5962,7 +6587,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 15、学历教育不支持“0基础”描述。
 
+<<<<<<< HEAD
 16、教育培训行业不得明确涉及“超前学/超纲学”",https://e.qq.com/ads/helpcenter/detail?cid=465&pid=1966
+=======
+16、教育培训行业不得明确涉及“超前学/超纲学”",https://e.qq.com/ads/helpcenter/detail?cid=465&pid=1966,2020-09-16 11:17:44
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,游戏行业审核规则,"## **一、	游戏广告资质要求**
 游戏广告需提供《中华人民共和国文化部国产网络游戏备案通知单》和《网络游戏出版物号（ISBN）核发单》（文化部备案及版署版号）
 ## **二、	游戏广告通用审核规则**
@@ -6027,7 +6656,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 2.4.3、不支持使用发光区域⾯面积大、画⾯面太糊，过于复杂的图片。
 
 2.4.4、不支持使用金色发光过曝、面积过大，影响视觉美观的图片。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=467&pid=1968
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=467&pid=1968,2020-05-28 13:28:06
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,农药兽药行业审核规则,"## **一、	农药、兽药广告资质要求**
 1、农药、兽药等投放广告需提供相应的《农药广告审查表》、《兽药广告审查表》。
 
@@ -6053,7 +6686,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 9、法律、行政法规规定禁止的其他内容。
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=468&pid=1969
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=468&pid=1969,2020-05-28 13:29:45
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,饲料、饲料添加物审核规则,"## **饲料、饲料添加剂广告应当遵循以下规则：**
 1、不得含有表示功效、安全性的断言或者保证。
 
@@ -6062,7 +6699,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 3、不得说明有效率。
 
 4、不得含有违反安全使用规程的文字、语言或者画面。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=469&pid=1970
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=469&pid=1970,2020-05-28 13:30:28
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,农作物、林木种子、草种子、种畜禽、水产苗和种养殖审核规则,"农作物种子、林木种子、草种子、种畜禽、水产苗种和种养殖广告关于品种名称、生产性能、生长量或者产量、品质、抗性、特殊使用价值、经济价值、适宜种植或者养殖的范围和条件等方面的表述应当真实、清楚、明白，并不得含有下列内容：
 
 1、作科学上无法验证的断言。
@@ -6073,7 +6714,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 4、利用科研单位、学术机构、技术推广机构、行业协会或者专业人士、用户的名义或者形象作推荐、证明。
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=470&pid=1971
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=470&pid=1971,2020-05-28 13:31:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,法律服务审核规则,"## **一、	律师业务推广是指律师、律师事务所为扩大影响、承揽业务、树立品牌，自行或授权他人向社会公众发布法律服务信息的行为。律师、律师事务所具有下列情形之一的，不得发布律师服务广告**：
 1、未参加年度考核或者未通过年度考核的。
 
@@ -6099,7 +6744,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 7、不得使用艺术夸张手法，不得自我宣传或暗示自身为某一专业领域专家、专家单位。
 
+<<<<<<< HEAD
 8、广告经营、发布者不得以收取案件介绍费、律师费收入分成等方式与律师或律所合作进行业务推广。",https://e.qq.com/ads/helpcenter/detail?cid=471&pid=1972
+=======
+8、广告经营、发布者不得以收取案件介绍费、律师费收入分成等方式与律师或律所合作进行业务推广。",https://e.qq.com/ads/helpcenter/detail?cid=471&pid=1972,2020-05-28 13:33:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,在线新闻及资讯行业审核规则,"## **在线新闻及资讯广告审核规则**
 1、不得含有负面新闻、映射社会问题、不良导向、宣传与法律法规相违背的内容。
 
@@ -6123,7 +6772,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
  *如：“升学政策”、“报名须知”等。*
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=472&pid=1973
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=472&pid=1973,2020-05-28 13:34:26
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,在线视听与阅读行业审核规则,"## **一、	视频直播广告审核规则**
 1、不得出现交友/私下交友/线上交友等，不得使用强调社交属性的文案，以及含有暗示诱导内容。
 
@@ -6189,7 +6842,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 3、不得出现过度暴力场景作为广告文案及素材引起社会动荡，如灭族、满门抄斩、斩首、酷刑等。
 
 4、不得出现引起用户不适的不良导向场景，如死人，尸体，尸检以及满身伤痕等内容。
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=473&pid=1974
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=473&pid=1974,2020-05-28 13:36:57
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,法律法规禁止推广产品,"## **一、	文物、文献作品**
 有相应合法资质的文物商店、经营文物拍卖的拍卖企业除外
 ## **二、涉毒类**
@@ -6314,7 +6971,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 3、介绍汽车解码器、万能钥匙、麻醉专用药等各种可用于犯罪技术的广告
 
 4、其他
+<<<<<<< HEAD
 腾讯将结合法律规定对以上内容进行更新，具体内容以腾讯要求为准。",https://e.qq.com/ads/helpcenter/detail?cid=475&pid=1976
+=======
+腾讯将结合法律规定对以上内容进行更新，具体内容以腾讯要求为准。",https://e.qq.com/ads/helpcenter/detail?cid=475&pid=1976,2021-10-25 16:15:25
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告平台禁止接入产品,"## **一、	综合电商平台**
 1、售假、传销业务
 
@@ -6487,7 +7148,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 2、电视棒、信号接收器等非法电视信号接收设备、无线电台(站)
 
+<<<<<<< HEAD
 3、具备跟踪功能的产品",https://e.qq.com/ads/helpcenter/detail?cid=476&pid=1977
+=======
+3、具备跟踪功能的产品",https://e.qq.com/ads/helpcenter/detail?cid=476&pid=1977,2021-01-05 17:20:21
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,分场景流量变现解决方案,"微信广告目前已面向公众号、小程序、小游戏提供分场景广告变现解决方案。具体可查看以下文档：
 
 [《公众号流量变现解决方案》](https://ad.weixin.qq.com/pdf.html?post_id=U2FsdGVkX19mGNFOs2vbIL+xLsshNeFzmYXt4a27zsE=)
@@ -6496,7 +7161,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 [《工具类小程序流量变现解决方案》](https://ad.weixin.qq.com/pdf.html?post_id=U2FsdGVkX1/F6pHIULbl1EUhlgbc46NauTQ16WoWOgQ=)
 
+<<<<<<< HEAD
 [《小游戏流量变现解决方案》](https://ad.weixin.qq.com/pdf.html?post_id=1122)",https://e.qq.com/ads/helpcenter/detail?cid=445&pid=1978
+=======
+[《小游戏流量变现解决方案》](https://ad.weixin.qq.com/pdf.html?post_id=1122)",https://e.qq.com/ads/helpcenter/detail?cid=445&pid=1978,2020-05-25 11:08:00
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,公众号广告管理,"# 公众号广告管理
 介绍公众号广告位开闭规则、广告位设置等信息
 ## 底部、文中和互选广告的优先级关系
@@ -6520,7 +7189,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 ## 返佣商品的插入方式
 在编辑文章时，可从编辑器选择商品插入。请注意查看商品的单价和佣金比例，只有插入有佣金的商品，才会获得返佣。
 
+<<<<<<< HEAD
 具体可见：[返佣商品指引文档](http://wxa.wxs.qq.com/mpweb/delivery/legacy/pdftool/get.html?id=r1beBhR2f&pa=14)。",https://e.qq.com/ads/helpcenter/detail?cid=446&pid=1980
+=======
+具体可见：[返佣商品指引文档](http://wxa.wxs.qq.com/mpweb/delivery/legacy/pdftool/get.html?id=r1beBhR2f&pa=14)。",https://e.qq.com/ads/helpcenter/detail?cid=446&pid=1980,2020-05-25 11:09:39
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,小程序广告管理,"# 小程序广告管理
 设置小程序/小游戏广告组件须知
 ## 正式版本无法显示广告的原因
@@ -6566,7 +7239,11 @@ https://developers.e.qq.com/docs/user_data/apply/conversion_web
 
 建议在数据稳定后，做多组放置方式组合测试，找到最适合小程序/小游戏的广告位置。
 ## 小程序组件应用规范
+<<<<<<< HEAD
 小程序banner及激励视频组件的应用规范请参考：[小程序组件应用规范](http://wximg.qq.com/wxp/pdftool/get.html?id=rynYA8o3f&pa=10&name=miniprogramAds_supplier_guidance)。",https://e.qq.com/ads/helpcenter/detail?cid=446&pid=1981
+=======
+小程序banner及激励视频组件的应用规范请参考：[小程序组件应用规范](http://wximg.qq.com/wxp/pdftool/get.html?id=rynYA8o3f&pa=10&name=miniprogramAds_supplier_guidance)。",https://e.qq.com/ads/helpcenter/detail?cid=446&pid=1981,2020-05-25 11:09:31
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,定向包是什么,"# 功能介绍
 ## 定向包是什么
 将多个定向集合快速打包成定向包，创建广告时可以直接复用，
@@ -6630,16 +7307,28 @@ Q：定向包可以删除吗？
 A：可以删除，删除操作将自动解除广告与此定向之间的关联
 
 Q：删除后被关联使用的广告会有什么影响？
+<<<<<<< HEAD
 A：投放端定向包删除后，定向包会复制成基础定向，不影响广告中的定向设置及播放",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1987
 0,查询AMS区域核心服务商,"<input type='hidden' id=""sign_agency"" value=""1"">",https://e.qq.com/ads/helpcenter/detail?cid=542&pid=1988
 0,查询KA核心服务商,"<input type='hidden' id=""sign_agency"" value=""2"">",https://e.qq.com/ads/helpcenter/detail?cid=543&pid=1989
 0,查询港澳台/海外服务商,"<input type='hidden' id=""sign_agency"" value=""3"">",https://e.qq.com/ads/helpcenter/detail?cid=544&pid=1990
 0,查询腾讯广告服务商,"<input type='hidden' id=""sign_agency"" value=""4"" >",https://e.qq.com/ads/helpcenter/detail?cid=545&pid=1991
+=======
+A：投放端定向包删除后，定向包会复制成基础定向，不影响广告中的定向设置及播放",https://e.qq.com/ads/helpcenter/detail?cid=503&pid=1987,2021-11-04 11:41:08
+0,查询AMS区域核心服务商,"<input type='hidden' id=""sign_agency"" value=""1"">",https://e.qq.com/ads/helpcenter/detail?cid=542&pid=1988,2021-04-13 10:06:45
+0,查询KA核心服务商,"<input type='hidden' id=""sign_agency"" value=""2"">",https://e.qq.com/ads/helpcenter/detail?cid=543&pid=1989,2021-04-15 10:22:35
+0,查询港澳台/海外服务商,"<input type='hidden' id=""sign_agency"" value=""3"">",https://e.qq.com/ads/helpcenter/detail?cid=544&pid=1990,2021-04-15 10:22:27
+0,查询腾讯广告服务商,"<input type='hidden' id=""sign_agency"" value=""4"" >",https://e.qq.com/ads/helpcenter/detail?cid=545&pid=1991,2021-04-09 14:13:02
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,诊断工具,"# 功能介绍
 ![页面提取自－智能诊断使用手再 - 0427_页面_1.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525112600_148222.jpg)
 ![页面提取自－智能诊断使用手再 - 0427_页面_2.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525112612_213259.jpg)
 ![页面提取自－智能诊断使用手再 - 0427_页面_3.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525112622_749852.jpg)
+<<<<<<< HEAD
 ![页面提取自－智能诊断使用手再 - 0427_页面_4.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525112632_591152.jpg)",https://e.qq.com/ads/helpcenter/detail?cid=518&pid=1994
+=======
+![页面提取自－智能诊断使用手再 - 0427_页面_4.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2020/46_20200525112632_591152.jpg)",https://e.qq.com/ads/helpcenter/detail?cid=518&pid=1994,2021-11-04 11:41:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,公众号流量主基础介绍,"符合一定条件的公众号运营者可申请成为公众号流量主，将公众号内的指定流量分享给广告主作广告展示，获得广告收入。
 
 公众号流量主可开通广告位包括：**底部广告位**、**文中广告位**、**返佣商品CPS广告位**、**视频后贴广告位**、**互选广告位**（仅受邀公众号开放）。
@@ -6700,7 +7389,11 @@ A：投放端定向包删除后，定向包会复制成基础定向，不影响�
 
 [互选广告流量主合作指引](https://wximg.qq.com/wxp/pdftool/get.html?post_id=1313)
 ![互选.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/87_20200522175628_189222.png)
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=435&pid=1996
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=435&pid=1996,2020-05-26 11:52:53
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,小程序流量主,"符合一定条件的小程序（包含小游戏类目，下同）运营者可自愿将小程序内指定位置分享给广告主作广告展示，即可成为小程序广告流量主，按月获得广告收入。  
 
 小程序流量主可开通广告位包括：**小程序Banner广告位**、**激励式广告位**、**插屏广告位**、**小程序格子广告**、**视频前贴广告位**（仅限非游类目小程序）、**视频广告**（仅限非游类目小程序）。
@@ -6843,7 +7536,11 @@ A：投放端定向包删除后，定向包会复制成基础定向，不影响�
 实际分成以后台“数据统计”页面展示为准。
 
 [小程序广告流量主操作指引](https://wximg.qq.com/wxp/pdftool/get.html?post_id=851)
+<<<<<<< HEAD
 ![格子广告.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/87_20200522174932_539797.png)",https://e.qq.com/ads/helpcenter/detail?cid=439&pid=1998
+=======
+![格子广告.png](https://bbx-pic.gtimg.com/bbx/pictures/2020/87_20200522174932_539797.png)",https://e.qq.com/ads/helpcenter/detail?cid=439&pid=1998,2020-05-25 18:05:43
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,扩量种子人群,"# 功能介绍
 
 
@@ -7031,7 +7728,11 @@ A：您可直接在投放端查看广告效果数据。
 
 
 【了解更多】更多关于oCPA的功能介绍和使用技巧，请见：
+<<<<<<< HEAD
 [https://e.qq.com/ads/learning/data/optimization/skill/005/](http://e.qq.com/ads/learning/data/optimization/skill/005/)",https://e.qq.com/ads/helpcenter/detail?cid=517&pid=1999
+=======
+[https://e.qq.com/ads/learning/data/optimization/skill/005/](http://e.qq.com/ads/learning/data/optimization/skill/005/)",https://e.qq.com/ads/helpcenter/detail?cid=517&pid=1999,2021-11-05 11:52:32
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,首页信息流广告,"聚焦年轻人群，内容和兴趣精准匹配；手机QQ唯一双入口推荐，广告位入口浅；依托用户关系链，放大品牌影响力，品效合一。
 
 <img src=""https://bbx-pic.gtimg.com/bbx/pictures/2019/16_20190805152033_302950.png"" style=""width:280px;margin:auto""></img>
@@ -7054,7 +7755,11 @@ A：您可直接在投放端查看广告效果数据。
 
 曝光排期、曝光竞价、点击竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1708
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1708,2021-11-05 11:45:45
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,沉浸视频广告,"聚焦年轻人群，内容和兴趣精准匹配；视频沉浸形式，流量大，转化率高。
 
 
@@ -7076,7 +7781,11 @@ A：您可直接在投放端查看广告效果数据。
 ## 售卖方式
 
 
+<<<<<<< HEAD
 曝光排期、曝光竞价",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1709
+=======
+曝光排期、曝光竞价",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1709,2021-11-05 11:46:13
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,文章页底部广告,"流量大，转化率高；多重方式售卖，匹配不同推广需求。
 
 
@@ -7098,7 +7807,11 @@ A：您可直接在投放端查看广告效果数据。
 ## 售卖方式
 
 
+<<<<<<< HEAD
 曝光排期、点击竞价",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1710
+=======
+曝光排期、点击竞价",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1710,2020-05-27 19:41:52
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,文章页底部信息流,"原生信息流，点击率高；售卖灵活，匹配不同推广需求。
 
 <img src='https://bbx-pic.gtimg.com/bbx/pictures/2019/16_20190805172244_148618.png' style='width:280px;margin:0 auto'></img>
@@ -7119,7 +7832,11 @@ A：您可直接在投放端查看广告效果数据。
 ## 售卖方式
 
 
+<<<<<<< HEAD
 曝光排期、点击竞价",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1712
+=======
+曝光排期、点击竞价",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1712,2020-05-27 19:40:56
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,非标资源-首页下拉刷新图文,"独占用户关注力，强力曝光，适用品牌宣发，大事件营销。
 
 <img src='https://bbx-pic.gtimg.com/bbx/pictures/2019/16_20190805172603_067505.png' style='width:280px;margin:auto'></img>
@@ -7140,7 +7857,11 @@ A：您可直接在投放端查看广告效果数据。
 ## 售卖方式
 
 
+<<<<<<< HEAD
 曝光排期",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1719
+=======
+曝光排期",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1719,2020-05-27 19:39:25
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,非标资源-频道焦点图,"独占用户关注力，强力曝光，聚焦垂直类用户。
 
 
@@ -7162,7 +7883,11 @@ A：您可直接在投放端查看广告效果数据。
 ## 售卖方式
 
 
+<<<<<<< HEAD
 曝光排期",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1721
+=======
+曝光排期",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1721,2020-05-27 19:38:28
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,非标资源-主feed大事件置顶,"将广告策划为的话题/事件，以内容的形式在feeds流置顶展示。
 
 
@@ -7186,7 +7911,11 @@ A：您可直接在投放端查看广告效果数据。
 
 曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1722
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=594&pid=1722,2020-11-18 14:15:38
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,常规式广告,"![微信截图_20210420110858.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/17_20210420110911_581666.png)
 
 # 常规式广告
@@ -7393,7 +8122,11 @@ A：您可直接在投放端查看广告效果数据。
 
 ### 推广我的小游戏
 
+<<<<<<< HEAD
 原生推广页、微信小游戏",https://e.qq.com/ads/helpcenter/detail?cid=1546&pid=1724
+=======
+原生推广页、微信小游戏",https://e.qq.com/ads/helpcenter/detail?cid=1546&pid=1724,2021-04-22 18:42:04
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,闪屏广告,"以全屏和长达数秒的强曝光形态对用户展示。强烈的视觉冲击力，瞬间捕获用户注意力，品牌信息充分曝光。
 
 
@@ -7417,7 +8150,11 @@ A：您可直接在投放端查看广告效果数据。
 
 按展示时间计费、曝光排期
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1726
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1726,2020-05-27 19:36:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,信息流广告,"优质的信息流原生展示环境，广告自然融入资讯情境，高效传达品牌信息。
 
 
@@ -7441,7 +8178,11 @@ A：您可直接在投放端查看广告效果数据。
 
 曝光排期、点击竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1728
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1728,2020-05-27 19:35:24
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,沉浸视频广告,"视频全屏播放，感官刺激最大化，外部干扰少，用户点击意愿强。
 
 
@@ -7463,7 +8204,11 @@ A：您可直接在投放端查看广告效果数据。
 ## 售卖方式
 
 
+<<<<<<< HEAD
 曝光排期、曝光竞价",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1729
+=======
+曝光排期、曝光竞价",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1729,2020-05-27 19:31:42
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,文章页广告,"在文章底部自然融入广告内容，带来更流畅的信息展示，符合用户阅读习惯。
 
 
@@ -7487,7 +8232,11 @@ A：您可直接在投放端查看广告效果数据。
 
 曝光排期、点击竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1730
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1730,2020-05-27 19:30:47
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,视频暂停广告,"独占用户关注力，强力曝光。
 
 
@@ -7511,7 +8260,11 @@ A：您可直接在投放端查看广告效果数据。
 
 曝光排期、点击竞价
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1731
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1731,2020-08-20 11:15:28
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,悦图末帧广告,"用户在组图浏览时，浏览完最后一张图片时出现的图文广告，惊喜出现，抓住用户最后的注意力。
 
 
@@ -7533,7 +8286,11 @@ A：您可直接在投放端查看广告效果数据。
 ## 售卖方式
 
 
+<<<<<<< HEAD
 曝光排期、点击竞价",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1732
+=======
+曝光排期、点击竞价",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1732,2020-05-27 19:28:01
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,搜索直达广告,"2亿+日搜索量，SEM属性渠道，精准触达用户需求。
 
 
@@ -7557,7 +8314,11 @@ QQ浏览器-搜索框-输入品牌名称
 
 询价，按月度后付
 
+<<<<<<< HEAD
 ",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1733
+=======
+",https://e.qq.com/ads/helpcenter/detail?cid=595&pid=1733,2021-11-05 11:47:36
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,小程序Banner广告,"![微信截图_20210420115553.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/17_20210420115929_968909.png)
 
 # 小程序Banner广告
@@ -7611,7 +8372,11 @@ banner广告展现场景由小程序流量主自定义，根据各自小程序�
 * 推广品牌活动、推广我的商品、收集销售线索适用：自定义链接、微信小程序（非游戏类目）、原生推广页
 * 推广我的应用：App Store、原生推广页、简版原生页
 * 推广我的公众号适用：公众号详情页、原生推广页
+<<<<<<< HEAD
 * 推广我的小游戏：微信小游戏",https://e.qq.com/ads/helpcenter/detail?cid=578&pid=1744
+=======
+* 推广我的小游戏：微信小游戏",https://e.qq.com/ads/helpcenter/detail?cid=578&pid=1744,2021-04-20 11:59:36
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,小程序插屏广告,"![微信截图_20210420115621.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/17_20210420115822_684134.png)
 
 # 小程序插屏广告
@@ -7653,7 +8418,11 @@ banner广告展现场景由小程序流量主自定义，根据各自小程序�
 * 推广我的商品：枫叶电商推广页、自定义链接、微信小程序（非游戏类目）、原生推广页
 * 推广我的应用：App Store、原生推广页、简版原生页
 * 推广我的公众号：公众号详情页、原生推广页
+<<<<<<< HEAD
 * 推广我的小游戏：微信小游戏",https://e.qq.com/ads/helpcenter/detail?cid=578&pid=1745
+=======
+* 推广我的小游戏：微信小游戏",https://e.qq.com/ads/helpcenter/detail?cid=578&pid=1745,2021-04-20 11:58:31
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,小程序激励式广告,"![微信截图_20210420115607.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/17_20210420115852_636153.png)
 
 # 小程序激励式广告
@@ -7729,4 +8498,8 @@ banner广告展现场景由小程序流量主自定义，根据各自小程序�
 **适用行业**
 
 * 休闲、棋牌、剧情，网赚类游戏app
+<<<<<<< HEAD
 * 小说、工具、咨询等垂直行业app",https://e.qq.com/ads/helpcenter/detail?cid=578&pid=1747
+=======
+* 小说、工具、咨询等垂直行业app",https://e.qq.com/ads/helpcenter/detail?cid=578&pid=1747,2021-04-20 11:59:02
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233

@@ -40,7 +40,11 @@
 ## 校验逻辑
 * **若Appid同时满足以上三个门槛，则自动获得投放权限，若不满足任一或多个门槛则暂时无法投放**；
 * 若您自查发现有Appid同时满足以上三个门槛但仍未获得投放权限，**可与对接销售运营或通过右下角投放助手反馈**；
+<<<<<<< HEAD
 * **系统每天更新权限判断结果**，此前获得权限的appid有可能因为近期不满足而暂时无法投放，请按照上述要求自查&修正，以重新获得投放权限。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=5500
+=======
+* **系统每天更新权限判断结果**，此前获得权限的appid有可能因为近期不满足而暂时无法投放，请按照上述要求自查&修正，以重新获得投放权限。",https://e.qq.com/ads/helpcenter/detail?cid=516&pid=5500,2022-01-10 14:38:16
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,运营侧补充事项,"# 使用指引
 ## 1. 申请方式
 填写[《腾讯优选联盟商户加盟申请表》](https://docs.qq.com/form/page/DVktCcVNNY1dvbENV?_w_tencentdocx_form=1)后，腾讯广告运营工作人员会在1~2个工作日内联系商家通知申请成功，随后即可进行返佣推广计划的设置和操作。
@@ -61,7 +65,11 @@
 ![image (22) 1.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210819145459_047730.png)
 ### 2.4 关闭返佣设置功能
 点击“关闭返佣设置”后，可关闭返佣设置功能，关闭后无法设置商品的佣金比例和推广状态。
+<<<<<<< HEAD
 ![image (23) 1.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210819145503_984243.png)",https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5508
+=======
+![image (23) 1.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210819145503_984243.png)",https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5508,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,开发侧注意事项,"# 使用指引
 ## 注意事项：
 腾讯优选联盟商家开发侧事项与标准接入流程基本一致，但需要特别注意：
@@ -86,7 +94,11 @@
 
 8）退款订单状态变更接口；
 
+<<<<<<< HEAD
 详细接口文档和对接指引见[【腾讯广告】CPS接口上报指引](https://docs.qq.com/doc/DU0lpaERFcHBaSHNz)，请参照此文档完成接口对接。",https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5509
+=======
+详细接口文档和对接指引见[【腾讯广告】CPS接口上报指引](https://docs.qq.com/doc/DU0lpaERFcHBaSHNz)，请参照此文档完成接口对接。",https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5509,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,应用直达,"# 功能介绍
 
 ## 一、什么是应用直达？
@@ -195,7 +207,11 @@
 
 **3、如何衡量直达能力？**
 
+<<<<<<< HEAD
 主要衡量指标：pv唤起率-唤起pv/点击量（点击量一般为pv） 辅助衡量指标：uv唤起率-唤起uv/点击量",https://e.qq.com/ads/helpcenter/detail?cid=1911&pid=5512
+=======
+主要衡量指标：pv唤起率-唤起pv/点击量（点击量一般为pv） 辅助衡量指标：uv唤起率-唤起uv/点击量",https://e.qq.com/ads/helpcenter/detail?cid=1911&pid=5512,2022-01-26 15:09:05
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,投放端内-创意工作台,"# 功能介绍
 2021年4月20日， ADQ投放流程中，微电影-创意工作台全新改版上线！
 客户想使用行业内爆量视频模版快速制作爆款视频？
@@ -287,7 +303,11 @@ ADQ投放端 - 新建/复制/编辑广告 - 创意内容 - 创意工作台
 
 筛选客户开户行业、所选商品行业（仅教育、电商）和素材类型下，排行TOP8创意，点击「查看更多」，可跳转至排行榜查看全量优质创意排行
 
+<<<<<<< HEAD
 ![创意工作台11.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/209_20210728220130_026462.png)",https://e.qq.com/ads/helpcenter/detail?cid=1693&pid=5262
+=======
+![创意工作台11.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/209_20210728220130_026462.png)",https://e.qq.com/ads/helpcenter/detail?cid=1693&pid=5262,2021-11-04 11:41:15
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,整体流程及前序沟通,"# 功能介绍
 ## 1、商品库对接SOP流程图 
 ![wecom-temp-68784bb7f80e360e4cdfa8a7b7591bb8.jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210803204406_622560.jpg)
@@ -297,7 +317,11 @@ ADQ投放端 - 新建/复制/编辑广告 - 创意内容 - 创意工作台
 ## 3、指引
 若您自有商品返佣推广体系，您可以在完成前序沟通的基础上，参考《运营侧指引》及《开发侧指引》完成接入；
 
+<<<<<<< HEAD
 若您暂无商品返佣推广体系，希望以腾讯优选联盟商家身份接入CPS商品库，请在《运营侧指引》及《开发侧指引》的基础上，重点关注[《腾讯优选联盟接入指引》](https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5292)中针对腾讯优选联盟的指引并完成接入。",https://e.qq.com/ads/helpcenter/detail?cid=1836&pid=5280
+=======
+若您暂无商品返佣推广体系，希望以腾讯优选联盟商家身份接入CPS商品库，请在《运营侧指引》及《开发侧指引》的基础上，重点关注[《腾讯优选联盟接入指引》](https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5292)中针对腾讯优选联盟的指引并完成接入。",https://e.qq.com/ads/helpcenter/detail?cid=1836&pid=5280,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,投放端开户及充值,"# 使用指引
 # I、投放端开户
 ## 1. 开户方式（请根据您的适用场景，选择下列四种开户方式之一）
@@ -393,7 +417,11 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 3）复制该页面的url链接，在IE浏览器中打开
 ![image (14).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210802131350_268210.png)
 4）在IE浏览器中选择支付方式，进行后续的网银充值操作
+<<<<<<< HEAD
 ![image (15).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210802131418_994649.png)",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5281
+=======
+![image (15).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210802131418_994649.png)",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5281,2022-01-05 11:48:01
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,有数开户,"# 功能介绍
 ## 1. 有数介绍
 腾讯有数提供一整套数据服务及接口解决方案，为CPS商品广告提供数据通道服务。接入方开发同学将负责有数API的接入，在测试环境上报和正式环境上报商品、订单等数据。
@@ -402,7 +430,11 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 ## 2. 有数开户
 请填写有数开户申请表[《腾讯有数服务申请(商户开发模式)》](http://docs.qq.com/form/fill/DUnRwTnlDSGNoc2Vi)， **接入目的选择“CPS商品广告”**。
 ![截屏2021-08-02 下午3.22 1.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210802152428_857374.png)
+<<<<<<< HEAD
 填写《申请表》约 1 个工作日后，请使用在《申请表》中登记的手机号，微信扫码登录[腾讯有数数据管理](http://srdata.tencent.com/)，进入<数据接入>-<接入工具>-<密钥管理>，可获得开发账号及测试 token。",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5282
+=======
+填写《申请表》约 1 个工作日后，请使用在《申请表》中登记的手机号，微信扫码登录[腾讯有数数据管理](http://srdata.tencent.com/)，进入<数据接入>-<接入工具>-<密钥管理>，可获得开发账号及测试 token。",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5282,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,接口对接及有数测试环境上报,"# 使用指引
 ## 1. 接口对接方案
 接口对接阶段，请您参考指引，完成以下接口的对接：
@@ -435,9 +467,15 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 ### 3） 继续送测
 如需继续送测，可关注“智慧零售数据服务”公众号，随时发起重测并接收测试进度消息提醒。
 ### 4） 后续流程
+<<<<<<< HEAD
 通过数据测试后，可进行下一步：邮件报备有数（邮件报备一般由您的运营侧进行，从项目启动对接时就可发送邮件，请确保在AMS数据实测验收前完成）。",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5283
 0,完成数据授权,"# 使用指引
 请与研发同学协作，参考有数[《数据授权》](https://mp.zhls.qq.com/youshu-docs/manual/youshu/ams_cps.html#_5-%E5%AE%8C%E6%88%90%E6%95%B0%E6%8D%AE%E6%8E%88%E6%9D%83)，登录腾讯有数数据管理后台，根据指引完成数据授权。",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5284
+=======
+通过数据测试后，可进行下一步：邮件报备有数（邮件报备一般由您的运营侧进行，从项目启动对接时就可发送邮件，请确保在AMS数据实测验收前完成）。",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5283,2021-11-04 11:41:18
+0,完成数据授权,"# 使用指引
+请与研发同学协作，参考有数[《数据授权》](https://mp.zhls.qq.com/youshu-docs/manual/youshu/ams_cps.html#_5-%E5%AE%8C%E6%88%90%E6%95%B0%E6%8D%AE%E6%8E%88%E6%9D%83)，登录腾讯有数数据管理后台，根据指引完成数据授权。",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5284,2022-01-05 11:47:28
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,有数正式环境上报,"# 使用指引
 ## 1. 预上线阶段
 腾讯有数<数据接入>-<接入工具>-<接入进度>所有接口显示“接入完成”，表明进入预上线阶段，可查看正式token进行正式环境上报。
@@ -451,9 +489,15 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 
 后端 API **测试环境 url**：https://test.zhls.qq.com/， 替换为后端 API **生产环境 url**：https://zhls.qq.com/
 
+<<<<<<< HEAD
 详细指引请见[《有数接入手册》](https://mp.zhls.qq.com/youshu-docs/develop/dev_account/dev_process_merchant.html)",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5285
 0,流量方对接,"# 使用指引
 在完成前序商品库对接工作后，请您通知与您对接的产品运营同学，并配合产品运营侧的商品库测试验收工作。待验收通过，请您仔细阅读[《商家对接指南【流量场景篇】》](https://docs.qq.com/doc/DU1F2dUpDTVVLSHBp)，并由运营同学引导您进行CPS带货分销体验。",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5286
+=======
+详细指引请见[《有数接入手册》](https://mp.zhls.qq.com/youshu-docs/develop/dev_account/dev_process_merchant.html)",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5285,2021-11-04 11:41:18
+0,流量方对接,"# 使用指引
+在完成前序商品库对接工作后，请您通知与您对接的产品运营同学，并配合产品运营侧的商品库测试验收工作。待验收通过，请您仔细阅读[《商家对接指南【流量场景篇】》](https://docs.qq.com/doc/DU1F2dUpDTVVLSHBp)，并由运营同学引导您进行CPS带货分销体验。",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5286,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,Q&A,"# 常见问题
 ### 1. 商品状态、审核相关
 
@@ -493,7 +537,11 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 
 **问题1：** 如果希望进行自测，请问怎么进行**下单自测**呢？
 
+<<<<<<< HEAD
 **回答：** 您可以登录CPS投放端，进入商品页，点击“验证下单”button，之后手机扫码完成下单，并记录订单号。之后，您可以在CPS投放端效果页的实时订单数据报表，若可以找到记录的订单号，则表明有订单回传，反之请排查订单未回传的原因。**详细指引**请见[《商家下单自测流程》](https://docs.qq.com/doc/DWnJOZmZyZ0d1aUVU)。",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5287
+=======
+**回答：** 您可以登录CPS投放端，进入商品页，点击“验证下单”button，之后手机扫码完成下单，并记录订单号。之后，您可以在CPS投放端效果页的实时订单数据报表，若可以找到记录的订单号，则表明有订单回传，反之请排查订单未回传的原因。**详细指引**请见[《商家下单自测流程》](https://docs.qq.com/doc/DWnJOZmZyZ0d1aUVU)。",https://e.qq.com/ads/helpcenter/detail?cid=1843&pid=5287,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,Q&A,"# 常见问题
 ### 1. 有数接口相关
 **问题1：** 申请有数开户时，勾选了**其他业务**，会有影响吗？
@@ -537,7 +585,11 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 
 **问题1：** 如果希望进行自测，请问怎么进行**下单自测**呢？
 
+<<<<<<< HEAD
 **回答：** 您可以登录CPS投放端，进入商品页，点击“验证下单”button，之后手机扫码完成下单，并记录订单号。之后，您可以在CPS投放端效果页的实时订单数据报表，若可以找到记录的订单号，则表明有订单回传，反之请排查订单未回传的原因。**详细指引请见**[《商家下单自测流程》](https://docs.qq.com/doc/DWnJOZmZyZ0d1aUVU)。",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5289
+=======
+**回答：** 您可以登录CPS投放端，进入商品页，点击“验证下单”button，之后手机扫码完成下单，并记录订单号。之后，您可以在CPS投放端效果页的实时订单数据报表，若可以找到记录的订单号，则表明有订单回传，反之请排查订单未回传的原因。**详细指引请见**[《商家下单自测流程》](https://docs.qq.com/doc/DWnJOZmZyZ0d1aUVU)。",https://e.qq.com/ads/helpcenter/detail?cid=1844&pid=5289,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,资源介绍,"## 1. 介绍
 腾讯返佣商品，指的基于腾讯生态流量体系提供的以CPS商品成交后付费的推广模式。商家在腾讯广告上传商品并设置一定的佣金，腾讯各媒体平台的创作者可以在发布内容时关联合适的商品，用户购买商品后创者者获得返佣收益，广告主获得推广及售卖价值。
 ![image 1.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210803121706_773080.png)
@@ -557,7 +609,11 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 ![image (18) 2.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210803105813_189873.png)
 ![image (19) 1.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/276_20210803105822_185265.png)
 
+<<<<<<< HEAD
 附：若您希望接入腾讯返佣商品，连接腾讯生态流量体系，请参考[腾讯返佣商品对接指南](https://e.qq.com/ads/helpcenter/detail?cid=1836&pid=5280)开始对接。",https://e.qq.com/ads/helpcenter/detail?cid=1846&pid=5291
+=======
+附：若您希望接入腾讯返佣商品，连接腾讯生态流量体系，请参考[腾讯返佣商品对接指南](https://e.qq.com/ads/helpcenter/detail?cid=1836&pid=5280)开始对接。",https://e.qq.com/ads/helpcenter/detail?cid=1846&pid=5291,2021-08-03 14:21:02
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯优选联盟介绍,"# 功能介绍
 ## 1. 腾讯优选联盟简介
 腾讯优选联盟作为CPS商品推广的高级功能，是面向尚无能力自建CPS返佣能力的商家（广告主）推出的低门槛、低代码接入解决方案，旨在帮助商家快速接入腾讯CPS返佣商品库，方便、高效地设置商品返佣推广计划。
@@ -569,6 +625,7 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 运营同学需要额外关注腾讯优选联盟的申请方式以及返佣商品推广计划的设置方法，详情请见[《运营侧补充事项》](https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5508)；
 
 ### 2.2 开发侧注意事项：
+<<<<<<< HEAD
 开发同学需要重点关注佣金、推广字段的留空，详情请见[《开发侧注意事项》](https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5509)；",https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5292
 0,房产行业极速版投放端使用指南,"# 功能介绍
 ## 什么是房产行业极速版投放端？
@@ -711,13 +768,20 @@ KA客户，有稳定的销售运营同学进行服务且客户直接开户存在
 
 ## 2.MP平台能使用极速版白名单么？
 不支持。极速版投放端仅支持ADQ平台投放。",https://e.qq.com/ads/helpcenter/detail?cid=1853&pid=5800
+=======
+开发同学需要重点关注佣金、推广字段的留空，详情请见[《开发侧注意事项》](https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5509)；",https://e.qq.com/ads/helpcenter/detail?cid=1910&pid=5292,2021-11-04 11:41:18
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告房产行业官方服务团队人员信息公示,"为更好的提升服务能力、满足客户营销需求、助力房产行业数字化营销生态建设，腾讯广告行业销售运营三部近期对区域直客团队架构进行了合理化梳理，并颁布腾讯广告官方房产行业人员架构名单。
 
 伴随着产业数字化发展的不断推进，房产行业纷纷加码触点线上化、营销闭环化以及运营精细化布局。与此同时，房产行业的数字化转型对于广告营销服务也提出了更高的要求。
 
 作为连接腾讯广告服务能力与房产客户数字化营销需求的重要纽带，腾讯广告房产行业区域直客团队需要针对行业快速变化的转型趋势做出积极响应。
 
+<<<<<<< HEAD
 ![c0a275c11590a57de6bcb05fc96bb5f.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20210831161908_226172.png)",https://e.qq.com/ads/helpcenter/detail?cid=1923&pid=5553
+=======
+![c0a275c11590a57de6bcb05fc96bb5f.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20210831161908_226172.png)",https://e.qq.com/ads/helpcenter/detail?cid=1923&pid=5553,2021-08-31 16:19:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,微信小程序,"# 功能介绍
 
 ## 一、什么是微信小程序落地页
@@ -860,9 +924,154 @@ A：iOS下整体广告竞争环境激烈，且iOS终端占比略低于安卓。�
 **Q：非微信流量下到达率的经验值有多少？**
 
 
+<<<<<<< HEAD
 A：到达率=小程序唤起PV/广告点击PV。安卓到达率约30~55%，iOS到达率约40~65%，到达率将持续优化",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=5554
 0,在线预览能力介绍,"{""content"":[{""type"":""rich_text"",""label"":""功能介绍"",""field"":""features"",""content"":""<h2><strong>一、在线预览能力简介</strong></h2><p>通过在线预览功能，在对应的广告位上看到广告的实际展示及跳转效果，感受广告创意的真实播放体验，以此确保广告创意素材符合投放预期。</p><h2><strong>二、在线预览能力生效条件</strong></h2><p>能够成功预览到拉取到广告的条件：</p><ol><li><p>投放在以下广告版位：<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301205949_244198.jpg\"" alt=\""在线预览支持的版位.jpg\""/>目前仅支持部分创意形式：<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210306001717_403809.jpg\"" alt=\""在线预览列表.jpg\""/></p></li><li><p>广告下<strong>至少有一个创意审核通过</strong></p></li></ol><h2><strong>三、在线预览示例</strong></h2><h3>例1：</h3><p>若投放微信公众号与小程序，可在微信公众号对应广告位上进行预览<img src=\""https://qqadapt.qpic.cn/txdocpic/0/a4d958d296e9e937132c1224aba930c6/0?w=876&h=1546\"" alt=\""img\""/></p><h3>例2：</h3><p>若投放微信朋友圈版位，微信朋友圈广告预览效果<img src=\""https://qqadapt.qpic.cn/txdocpic/0/84c905c69f1a2291bc001f1dfbe97bda/0?w=874&h=1570\"" alt=\""img\""/></p>""},{""type"":""rich_text"",""label"":""功能指引"",""field"":""guides"",""content"":""<p><strong>第一步、在ad.qq.com投放管理平台“推广”-“广告”模块（如下图）中，点击广告“操作”栏中“更多”旁边的下拉箭头，在弹窗中点击“在线预览”。</strong></p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301204416_486416.jpg\"" alt=\""在线预览入口示意图.jpg\""/>注：为什么有些广告不可以使用“在线预览”？请看“常见问题解答”</p><p><strong>第二步、在弹窗中使用QQ手机版扫描二维码或填写微信号</strong></p><p>对于QQ、腾讯看点、腾讯音乐和腾讯新闻、腾讯视频版位，使用QQ手机版APP 直接扫描二维码，同一个广告可以最多保存二维码并最多分享给50个同事预览<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301204422_764098.jpg\"" alt=\""在线预览界面.jpg\""/></p><p>对于微信朋友圈、微信公众号与小程序版位，暂时不支持扫码， 在“微信号”输入框内，可以批量输入微信号，按回车/空格确认，多个微信号用逗号区隔。“微信号”可以在微信APP-“我”界面上找到，同一个推广计划下只有最多50个：<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301210849_297727.jpg\"" alt=\""在线预览-微信.jpg\""/></p><p><strong>第三步、 当设置成功后，前往弹窗中提示的广告位所在的APP，使用设置在线预览功能时填写的账号登录APP，在提示的广告位下预览广告。</strong></p><hr/>""},{""type"":""rich_text_list"",""label"":""常见问题"",""field"":""questions"",""content"":[{""question"":"" 1. 为何有些广告无法进行“在线预览”？"",""answer"":""<p>若遇到以下任意一种情况，都会导致无法“在线预览”：</p><ul><li><p>该广告对应的创意形式不在“支持在线预览能力的流量”表格内（不会出现“在线预览”的入口）</p></li><li><p>该广告下的所有创意都没有通过审核（会出现“在线预览”入口，但在设置预览账户之后，告知不能进行在线预览）</p></li><li><p>动态商品广告可使用在线预览查看素材，但可能存在无法打开商品落地页的问题。改问题即将修复上线，敬请期待</p></li></ul>""},{""question"":"" 2. 在线预览体验过程中产生的点击、曝光等数据会进行计费吗？"",""answer"":""<p>不会。</p>""},{""question"":"" 3.在跨多个流量投放时，是否可以使用在线预览能力？"",""answer"":""<p>可以。参考上文“支持在线预览能力的流量”中列举的创意形式表格。如果通投的创意形式及站点集在该表格内，那么在跨流量投放时，也可使用在线预览能力。</p>""},{""question"":"" 4. 目前不支持在线预览能力的流量有哪些？"",""answer"":""<p>联盟创意形式、PC、电视类创意形式，及其他没有在“支持在线预览能力的流量”表格中列举的创意形式</p>""},{""question"":"" 5. 微信朋友圈在线预览能力是否支持？"",""answer"":""<p>已经支持。</p>""},{""question"":"" 6. Marketing API是否支持在线预览能力？"",""answer"":""<p>是，在ad.qq.com投放管理平台支持的在线预览能力范围内“支持在线预览能力的流量”，在Marketing API上也适用</p>""}],""contentKeyConfig"":{""title"":""question"",""content"":""answer""}},{""type"":""rich_text_list"",""label"":""相关课程"",""field"":""courses"",""content"":[{""name"":"""",""content"":""""}],""contentKeyConfig"":{""title"":""name"",""content"":""content""}},{""type"":""link_input"",""label"":""相关资讯"",""field"":""news"",""content"":"""",""contentKeyConfig"":{""title"":""title"",""content"":""url""}}]}",https://e.qq.com/ads/helpcenter/detail?cid=937&pid=5813
 0,广告创建流程,"{""content"":[{""type"":""rich_text"",""label"":""功能介绍"",""field"":""features"",""content"":""<p>创建一条完整的广告由创建推广计划、设置广告、设置创意组成。你可以在<a href=\""http://https://ad.qq.com/atlas/7499139/admanage/adgroup?adgroup={%22status%22:999}\"">腾讯广告投放管理平台</a>，点击顶部导航右上角或广告管理列表的新建广告开始创建广告。具体如下：</p>""},{""type"":""rich_text"",""label"":""功能指引"",""field"":""guides"",""content"":""<h2>第一步：创建推广计划</h2><h3>一、选择推广计划类型</h3><p>推广计划分为展示广告计划和搜索广告计划：</p><ul><li><p>展示广告计划：常规展示类广告</p></li><li><p>搜索广告计划：QQ浏览器关键词搜索广告</p></li></ul><h3>二、选择对应的推广目标</h3><p>根据你的营销目的选择对应的推广目标，不同推广目标适用营销场景请参考<a href=\""https://e.qq.com/ads/helpcenter/detail?cid=502&pid=2074\"">帮助中心推广目标</a>专项介绍。</p><h3>三、设置计划日预算</h3><p>设置计划日预算，控制一个推广计划下所有广告每日消耗总和的最大值。</p><h3>四、设置推广计划名称</h3><p>设置推广计划名称，为你的计划设置名称，方便管理。</p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525111813_596042.png\"" alt=\""0.png\""/></p><h2>第二步：设置广告</h2><h3>一、选择广告形式</h3><p>选择广告形式，分为常规展示广告、商品广告：</p><ul><li><p>常规展示广告：常规投放场景</p></li><li><p>商品广告：适合拥有海量商品投放需求的场景，围绕商品进行批量投放和动态创意生成<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525112038_202064.png\"" alt=\""真的222.png\""/></p></li></ul><h3>二、选择目标详情</h3><p>选择目标详情，针对商品推广、应用推广、小游戏推广、门店推广这4种推广目标需在广告层级设置目标详情。</p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525112123_714781.png\"" alt=\""真的33.png\""/></p><h3>三、选择广告展现位置</h3><p>选择广告希望展现在哪些流量上，目前提供微信朋友圈、微信公众号与小程序、QQ、腾讯信息流、腾讯音乐、腾讯新闻与腾讯视频、优量汇、PC QQ、QQ空间、腾讯音乐6个版位，你可以按自动版位或指定版位方式选择：</p><ul><li><p>自动版位：系统根据你的广告设置，选择表现更好的位置进行投放，自动版位暂不支持包括微信、应用宝、PC版位</p></li><li><p>指定版位：自行选择想要投放的流量，每个流量的广告样式可参考右侧示意图，微信和非微信流量暂不支持同时选择</p></li></ul><p><em>注：自动版位灰度中，如需使用请联系运营经理开通。</em></p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003025_209809.png\"" alt=\""14.png\""/></p><p>不同推广目标支持的广告版位对应如下</p><table><thead><tr><th>推广目标</th><th>推广目标二级分类</th><th>广告版位</th></tr></thead><tbody><tr><td>商品推广</td><td>-</td><td>微信公众号与小程序<br/>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻与腾讯视频<br/>优量汇<br/>快手<br/>电脑QQ<br/>QQ空间<br/>腾讯音乐</td></tr><tr><td>应用推广</td><td>iOS应用</td><td>微信朋友圈、微信公众号与小程序<br/>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>应用推广</td><td>Android应用</td><td>微信朋友圈、微信公众号与小程序<br/>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>应用推广</td><td>Android应用（广告包）</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>应用推广</td><td>Android应用（应用宝）</td><td>应用宝</td></tr><tr><td>应用推广</td><td>Android应用（换量应用）</td><td>应用宝</td></tr><tr><td>网页推广</td><td>-</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手<br/>电脑QQ<br/>QQ空间<br/>腾讯音乐</td></tr><tr><td>品牌活动推广</td><td>-</td><td>微信朋友圈、微信公众号与小程序</td></tr><tr><td>销售线索收集</td><td>-</td><td>微信朋友圈</td></tr><tr><td>小游戏推广</td><td>微信小游戏</td><td>微信朋友圈、微信公众号与小程序<br/>腾讯新闻与腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>小游戏推广</td><td>QQ小游戏</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>优量汇<br/>快手</td></tr><tr><td>门店推广</td><td>微信门店</td><td>微信朋友圈</td></tr><tr><td>门店推广</td><td>QQ门店</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频</td></tr><tr><td>QQ消息推广</td><td>-</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐</td></tr></tbody></table><h3>四、选择投放目标人群</h3><p>选择广告想要投放的目标人群，提供人口学属性、用户行为、自定义人群、设备定向等多种维度的人群标签，详情可点击“定向能力”专题了解。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/81_20210316095746_739967.jpg\"" alt=\""5666615859806149.jpg\""/>*注意事项：定向设置过程中可参考右侧预估最大日曝光量，避免设置定向过窄影响广告推广效果。</p><ul><li><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529202442_605317.png\"" alt=\""人数预估.png\""/></p></li></ul><h3>五、设置广告投放时间、出价和日预算</h3><ul><li><p>投放时间：广告仅在投放的日期和时间段范围内向用户展示</p></li><li><p>出价和预算：出价和预算会影响广告获得曝光的次数，系统会根据你的广告设置提供建议出价范围，你也可自行设置一个出价。不同版位和创意形式支持的出价方式不同，详情请参考“售卖策略”专项介绍。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003113_900170.png\"" alt=\""7.png\""/></p></li></ul><h3>设置广告名称</h3><p>设置广告名称，为你的广告设置名称，方便管理。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003236_488699.png\"" alt=\""15.png\""/></p><h2>第三步：设置创意</h2><h3>一、选择广告在流量上的呈现样式</h3><p>选择广告在流量上的呈现样式，填写对应样式所需的内容。不同广告版位下相同创意形式需填写的信息有所差异，具体请参考“广告形态”专项介绍。</p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525113204_832507.png\"" alt=\""真的999.png\""/></p><p>*注意事项：创意内容填写过程中，可在右侧实时预览创意效果，或填写完成后进行完整预览。</p><ul><li><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529203231_443505.png\"" alt=\""创意预览.png\""/></p></li></ul><p>*注意事项：创意填写完成后，可点击“素材自助检测”进行创意自助审核检测，提高审核通过率。</p><ul><li><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529203251_913722.png\"" alt=\""创意检测.png\""/></p></li></ul><h3>二、提交广告</h3><p>完成推广计划-广告-广告创意的设置后，点击“提交”，将会呈现你所设置的信息，确认无误后点击“提交广告”即可完成广告创建。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525113506_804602.png\"" alt=\""确认3333.png\""/></p><p>广告提交成功后，广告进入审核阶段，你可在弹窗中快捷选择复制广告或继续新建广告。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003327_259078.png\"" alt=\""13.png\""/></p>""},{""type"":""rich_text_list"",""label"":""常见问题"",""field"":""questions"",""content"":[{""question"":"""",""answer"":""""}],""contentKeyConfig"":{""title"":""question"",""content"":""answer""}},{""type"":""rich_text_list"",""label"":""相关课程"",""field"":""courses"",""content"":[{""name"":"""",""content"":""""}],""contentKeyConfig"":{""title"":""name"",""content"":""content""}},{""type"":""link_input"",""label"":""相关资讯"",""field"":""news"",""content"":"""",""contentKeyConfig"":{""title"":""title"",""content"":""url""}}]}",https://e.qq.com/ads/helpcenter/detail?cid=501&pid=5817
+=======
+A：到达率=小程序唤起PV/广告点击PV。安卓到达率约30~55%，iOS到达率约40~65%，到达率将持续优化",https://e.qq.com/ads/helpcenter/detail?cid=506&pid=5554,2021-11-04 11:41:14
+0,房产行业极速版投放端使用指南,"# 功能介绍
+## 什么是房产行业极速版投放端？
+房产行业极速版投放端是基于行业内海量的投放案例和数据模型，归纳总结出效果最优的投放设置，简化广告创编流程，实现操作步骤最小化，管理人效最大化。广告主无需理解复杂的投放逻辑，只需要简单几步操作即可投放优质广告。
+
+## 它有哪些独特优势？
+### 1.极速创建广告：
+只需明确素材和落地页，选择投放预算和周期，三步完成广告创建
+
+### 2.智能快速起量：
+基于大数据自动出价和定向，由系统进行智能优化，降人力，提效果
+
+### 3.全面支持房迅达：
+搭配腾讯房产生态产品房讯达，实现线索收集、管理、核销全闭环链路
+
+## 如何开通？
+房产行业极速版投放端基于ADQ平台投放，目前现有账户和新开账户全部都支持进行极速版投放。
+
+# 使用指引
+## 如何极速建广告？
+1. 账户添加白名单后，将在当日19点左右自动生效。
+2. 新建广告时将默认进入极速版投放端创建页面。
+
+![image (12).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101174939_195593.jpg)
+
+3. 创建创意时有单图和组图两种选择，页面右侧为创意预览，页面**左侧则提供优质创意推荐**，建议大家在创意设置时多多参考推荐创意。
+
+![image (13).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101174955_864227.jpg)
+
+4. 创建落地页：支持搭建**极速创建/原生推广页/房迅达**三种类型的落地页。
+	a. 极速创建：最便捷的创建方式，落地页相对比较简单
+	b. 原生推广页：相对极速创建来说，功能更加齐全，适合有一定优化能力的客户
+	c. 房讯达小程序：房产行业一站式小程序，链路齐全，效果容易回收
+
+![image (14).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101175014_109128.jpg)
+
+5. 广告设置
+	a. 设置预算、开始日期及推广天数，广告预算会在投放周期内尽可能快的消耗完
+	b. 设置投放地域，**推荐投放省市，如果投放区域或商圈可能导致消耗能力弱**
+
+![image (83).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101175212_260752.png)
+
+6.投后数据盘点：在【推广管理】界面可以查看极速版投放端广告数据，如果需要更多数据指标，可以打开自定义列选择更多数据。
+
+![image (15).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101175157_027230.jpg)
+
+## 有哪些优化经验？
+### 创意要原生
+如果广告点击率低于1.8%，建议一定按照该方法论搭建创意。
+
+* **创意数量**：一个项目至少要有3套创意素材（2套六图+1套卡片）
+* **创意内容**：六图建议使用实拍图，可以是风景+户型组合，点击率更高；大图则建议突出文字信息，可以是优惠信息等内容，点击率中等
+* **创意文案**：文案需重点突出优惠信息，并结合用户痛点、节日营销等来撰写，同时建议文案内容更加口语话、情景化。推荐大家多参考”创意风向标“里的行业精选内容。
+
+**优秀创意案例：**
+![微信图片_20211101175455.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101175522_771192.png)
+
+### 落地页需体现核心卖点
+如果广告转化率低于 1%，建议一定按照该方法论搭建【极速创建落地页】
+
+* **落地页标题**：一句话提炼核心卖点，如三亚湾旁5字头洋房等
+* **表单按钮文案**：找到用户对楼盘的核心诉求，可参考以下文案内容。
+
+**优秀落地页案例：**
+![微信截图_20211101175629.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101175658_643070.png)
+![微信截图_20211101175651.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101175717_511533.png)
+
+### 广告设置要合理
+如果广告消耗量级较小，建议一定按照该方法论进行广告设置，同时核查前两步。
+
+* **投放地域设置**：尽可能投放省市，若定向过窄可能导致无法起量
+* **预算设置**：单条广告总预算设置大于1万，投放时间最少3天
+
+### 其他优化技巧
+* **项目素材多样化**：每个项目至少搭建三条广告，每个广告的素材不要重复，最大程度放量
+* **衍生视频功能**：衍生视频的成本较高，但放量能力非常强，急需起量且不考虑成本的广告主可以尝试使用（需加白）
+* **配置虫洞策略**：如果有投的比较好的老账户，可以把账户模型通过虫洞传递到极速版账户中来（需提供新老账户id）
+
+# 优秀案例
+## 案例一：浙江某置业公司
+* 投放目标：表单获客
+* 投放时长：3天
+* 预算完成率：**86%**
+* 线索收集量：40+
+* 点击率：5.4%，**高于大盘166%**
+* 转化率：3.0%，**高于大盘275%**
+* 转化成本对比常规投放**降低64%**，搭建时长**大幅度缩短**
+
+![image (16).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101180130_870663.jpg)
+
+## 案例二：江苏某文旅地产公司
+* 投放目标：表单获客
+* 投放时长：3天
+* 预算完成率：**96%**
+* 线索收集量：50+
+* 点击率：7.8%，**高于大盘550%**
+* 转化率：0.6%
+* 转化成本对比常规投放**降低74%**，搭建时长**大幅度缩短**
+
+![image (17).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101180212_388561.jpg)
+
+## 案例三：江苏某地产开发公司
+** 投放目标：表单获客
+* 投放时长：3天
+* 预算完成率：**88%**
+* 线索收集量：30+
+* 点击率：5.0%，**高于大盘316%**
+* 转化率：0.4%
+* 转化成本对比常规投放**降低34%**，搭建时长**大幅度缩短**
+
+![image (18).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101180311_956207.jpg)
+
+## 案例四：重庆某地产开发商
+* 投放目标：表单获客
+* 投放时长：5天
+* 预算完成率：**86%**
+* 线索收集量：80+
+* 点击率：1.0%
+* 转化率：1.8%，**高于大盘125%**
+* 转化成本对比常规投放**降低14%**，搭建时长**大幅度缩短**
+
+![image (19).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101180354_163366.jpg)
+
+## 案例五：北京某地产开发公司
+* 投放目标：表单获客
+* 投放时长：5天
+* 预算完成率：57%
+* 线索收集量：40+
+* 点击率：3.9%，**高于大盘225%**
+* 转化率：0.8%
+* 转化成本对比常规投放**降低20%**，搭建时长**大幅度缩短**
+
+![image (20).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101180442_153433.jpg)
+
+# 常见问题
+## 1.开通极速版白名单后，还能不能进行基础版的广告投放？
+可以的。在广告创建页面的右上角点击【切换至基础版】，即可进行基础版和极速版投放的投放模式切换，操作非常方便。
+
+![image (21).jpg](https://bbx-pic.gtimg.com/bbx/pictures/2021/211_20211101180540_756422.jpg)
+
+## 2.MP平台能使用极速版白名单么？
+不支持。极速版投放端仅支持ADQ平台投放。",https://e.qq.com/ads/helpcenter/detail?cid=1853&pid=5800,2021-11-01 18:08:20
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告私域管理规范,"## 一、目的 
 
 为尽可能保障用户的合法权益不受侵害，规范广告主的私域广告引流和运营等推广活动，提升腾讯广告平台的服务质量和用户体验，制定本规则。
@@ -993,7 +1202,13 @@ A：到达率=小程序唤起PV/广告点击PV。安卓到达率约30~55%，iOS�
 本规范于2021年7月26日发布，发布即生效。
 
 ## 七、特别申明
+<<<<<<< HEAD
 本规范是为进一步提升腾讯广告平台健康的生态环境以及维护用户合法权益而进行的平台内管理措施。腾讯公司并不因制定及实施本规范而承担额外的法律义务或法律责任。广告主应严格遵守法律法规以及本规范开展私域广告引流和私域运营，不得实施侵害用户合法权益的行为。同时，广告主应当自行承担其私域引流和运营行为导致的所有后果及责任，包括但不限于对用户的侵权责任、接受腾讯广告平台的处罚等，腾讯不对广告主的相关行为提供任何保证、承诺或担保。",https://e.qq.com/ads/helpcenter/detail?cid=1850&pid=5331
+=======
+本规范是为进一步提升腾讯广告平台健康的生态环境以及维护用户合法权益而进行的平台内管理措施。腾讯公司并不因制定及实施本规范而承担额外的法律义务或法律责任。广告主应严格遵守法律法规以及本规范开展私域广告引流和私域运营，不得实施侵害用户合法权益的行为。同时，广告主应当自行承担其私域引流和运营行为导致的所有后果及责任，包括但不限于对用户的侵权责任、接受腾讯广告平台的处罚等，腾讯不对广告主的相关行为提供任何保证、承诺或担保。",https://e.qq.com/ads/helpcenter/detail?cid=1850&pid=5331,2021-12-15 11:15:18
+0,在线预览能力介绍,"{""content"":[{""type"":""rich_text"",""label"":""功能介绍"",""field"":""features"",""content"":""<h2><strong>一、在线预览能力简介</strong></h2><p>通过在线预览功能，在对应的广告位上看到广告的实际展示及跳转效果，感受广告创意的真实播放体验，以此确保广告创意素材符合投放预期。</p><h2><strong>二、在线预览能力生效条件</strong></h2><p>能够成功预览到拉取到广告的条件：</p><ol><li><p>投放在以下广告版位：<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301205949_244198.jpg\"" alt=\""在线预览支持的版位.jpg\""/>目前仅支持部分创意形式：<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210306001717_403809.jpg\"" alt=\""在线预览列表.jpg\""/></p></li><li><p>广告下<strong>至少有一个创意审核通过</strong></p></li></ol><h2><strong>三、在线预览示例</strong></h2><h3>例1：</h3><p>若投放微信公众号与小程序，可在微信公众号对应广告位上进行预览<img src=\""https://qqadapt.qpic.cn/txdocpic/0/a4d958d296e9e937132c1224aba930c6/0?w=876&h=1546\"" alt=\""img\""/></p><h3>例2：</h3><p>若投放微信朋友圈版位，微信朋友圈广告预览效果<img src=\""https://qqadapt.qpic.cn/txdocpic/0/84c905c69f1a2291bc001f1dfbe97bda/0?w=874&h=1570\"" alt=\""img\""/></p>""},{""type"":""rich_text"",""label"":""功能指引"",""field"":""guides"",""content"":""<p><strong>第一步、在ad.qq.com投放管理平台“推广”-“广告”模块（如下图）中，点击广告“操作”栏中“更多”旁边的下拉箭头，在弹窗中点击“在线预览”。</strong></p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301204416_486416.jpg\"" alt=\""在线预览入口示意图.jpg\""/>注：为什么有些广告不可以使用“在线预览”？请看“常见问题解答”</p><p><strong>第二步、在弹窗中使用QQ手机版扫描二维码或填写微信号</strong></p><p>对于QQ、腾讯看点、腾讯音乐和腾讯新闻、腾讯视频版位，使用QQ手机版APP 直接扫描二维码，同一个广告可以最多保存二维码并最多分享给50个同事预览<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301204422_764098.jpg\"" alt=\""在线预览界面.jpg\""/></p><p>对于微信朋友圈、微信公众号与小程序版位，暂时不支持扫码， 在“微信号”输入框内，可以批量输入微信号，按回车/空格确认，多个微信号用逗号区隔。“微信号”可以在微信APP-“我”界面上找到，同一个推广计划下只有最多50个：<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/132_20210301210849_297727.jpg\"" alt=\""在线预览-微信.jpg\""/></p><p><strong>第三步、 当设置成功后，前往弹窗中提示的广告位所在的APP，使用设置在线预览功能时填写的账号登录APP，在提示的广告位下预览广告。</strong></p><hr/>""},{""type"":""rich_text_list"",""label"":""常见问题"",""field"":""questions"",""content"":[{""question"":"" 1. 为何有些广告无法进行“在线预览”？"",""answer"":""<p>若遇到以下任意一种情况，都会导致无法“在线预览”：</p><ul><li><p>该广告对应的创意形式不在“支持在线预览能力的流量”表格内（不会出现“在线预览”的入口）</p></li><li><p>该广告下的所有创意都没有通过审核（会出现“在线预览”入口，但在设置预览账户之后，告知不能进行在线预览）</p></li><li><p>动态商品广告可使用在线预览查看素材，但可能存在无法打开商品落地页的问题。改问题即将修复上线，敬请期待</p></li></ul>""},{""question"":"" 2. 在线预览体验过程中产生的点击、曝光等数据会进行计费吗？"",""answer"":""<p>不会。</p>""},{""question"":"" 3.在跨多个流量投放时，是否可以使用在线预览能力？"",""answer"":""<p>可以。参考上文“支持在线预览能力的流量”中列举的创意形式表格。如果通投的创意形式及站点集在该表格内，那么在跨流量投放时，也可使用在线预览能力。</p>""},{""question"":"" 4. 目前不支持在线预览能力的流量有哪些？"",""answer"":""<p>联盟创意形式、PC、电视类创意形式，及其他没有在“支持在线预览能力的流量”表格中列举的创意形式</p>""},{""question"":"" 5. 微信朋友圈在线预览能力是否支持？"",""answer"":""<p>已经支持。</p>""},{""question"":"" 6. Marketing API是否支持在线预览能力？"",""answer"":""<p>是，在ad.qq.com投放管理平台支持的在线预览能力范围内“支持在线预览能力的流量”，在Marketing API上也适用</p>""}],""contentKeyConfig"":{""title"":""question"",""content"":""answer""}},{""type"":""rich_text_list"",""label"":""相关课程"",""field"":""courses"",""content"":[{""name"":"""",""content"":""""}],""contentKeyConfig"":{""title"":""name"",""content"":""content""}},{""type"":""link_input"",""label"":""相关资讯"",""field"":""news"",""content"":"""",""contentKeyConfig"":{""title"":""title"",""content"":""url""}}]}",https://e.qq.com/ads/helpcenter/detail?cid=937&pid=5813,2021-11-04 11:34:21
+0,广告创建流程,"{""content"":[{""type"":""rich_text"",""label"":""功能介绍"",""field"":""features"",""content"":""<p>创建一条完整的广告由创建推广计划、设置广告、设置创意组成。你可以在<a href=\""http://https://ad.qq.com/atlas/7499139/admanage/adgroup?adgroup={%22status%22:999}\"">腾讯广告投放管理平台</a>，点击顶部导航右上角或广告管理列表的新建广告开始创建广告。具体如下：</p>""},{""type"":""rich_text"",""label"":""功能指引"",""field"":""guides"",""content"":""<h2>第一步：创建推广计划</h2><h3>一、选择推广计划类型</h3><p>推广计划分为展示广告计划和搜索广告计划：</p><ul><li><p>展示广告计划：常规展示类广告</p></li><li><p>搜索广告计划：QQ浏览器关键词搜索广告</p></li></ul><h3>二、选择对应的推广目标</h3><p>根据你的营销目的选择对应的推广目标，不同推广目标适用营销场景请参考<a href=\""https://e.qq.com/ads/helpcenter/detail?cid=502&pid=2074\"">帮助中心推广目标</a>专项介绍。</p><h3>三、设置计划日预算</h3><p>设置计划日预算，控制一个推广计划下所有广告每日消耗总和的最大值。</p><h3>四、设置推广计划名称</h3><p>设置推广计划名称，为你的计划设置名称，方便管理。</p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525111813_596042.png\"" alt=\""0.png\""/></p><h2>第二步：设置广告</h2><h3>一、选择广告形式</h3><p>选择广告形式，分为常规展示广告、商品广告：</p><ul><li><p>常规展示广告：常规投放场景</p></li><li><p>商品广告：适合拥有海量商品投放需求的场景，围绕商品进行批量投放和动态创意生成<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525112038_202064.png\"" alt=\""真的222.png\""/></p></li></ul><h3>二、选择目标详情</h3><p>选择目标详情，针对商品推广、应用推广、小游戏推广、门店推广这4种推广目标需在广告层级设置目标详情。</p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525112123_714781.png\"" alt=\""真的33.png\""/></p><h3>三、选择广告展现位置</h3><p>选择广告希望展现在哪些流量上，目前提供微信朋友圈、微信公众号与小程序、QQ、腾讯信息流、腾讯音乐、腾讯新闻与腾讯视频、优量汇、PC QQ、QQ空间、腾讯音乐6个版位，你可以按自动版位或指定版位方式选择：</p><ul><li><p>自动版位：系统根据你的广告设置，选择表现更好的位置进行投放，自动版位暂不支持包括微信、应用宝、PC版位</p></li><li><p>指定版位：自行选择想要投放的流量，每个流量的广告样式可参考右侧示意图，微信和非微信流量暂不支持同时选择</p></li></ul><p><em>注：自动版位灰度中，如需使用请联系运营经理开通。</em></p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003025_209809.png\"" alt=\""14.png\""/></p><p>不同推广目标支持的广告版位对应如下</p><table><thead><tr><th>推广目标</th><th>推广目标二级分类</th><th>广告版位</th></tr></thead><tbody><tr><td>商品推广</td><td>-</td><td>微信公众号与小程序<br/>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻与腾讯视频<br/>优量汇<br/>快手<br/>电脑QQ<br/>QQ空间<br/>腾讯音乐</td></tr><tr><td>应用推广</td><td>iOS应用</td><td>微信朋友圈、微信公众号与小程序<br/>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>应用推广</td><td>Android应用</td><td>微信朋友圈、微信公众号与小程序<br/>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>应用推广</td><td>Android应用（广告包）</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>应用推广</td><td>Android应用（应用宝）</td><td>应用宝</td></tr><tr><td>应用推广</td><td>Android应用（换量应用）</td><td>应用宝</td></tr><tr><td>网页推广</td><td>-</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频<br/>优量汇<br/>快手<br/>电脑QQ<br/>QQ空间<br/>腾讯音乐</td></tr><tr><td>品牌活动推广</td><td>-</td><td>微信朋友圈、微信公众号与小程序</td></tr><tr><td>销售线索收集</td><td>-</td><td>微信朋友圈</td></tr><tr><td>小游戏推广</td><td>微信小游戏</td><td>微信朋友圈、微信公众号与小程序<br/>腾讯新闻与腾讯视频<br/>优量汇<br/>快手</td></tr><tr><td>小游戏推广</td><td>QQ小游戏</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>优量汇<br/>快手</td></tr><tr><td>门店推广</td><td>微信门店</td><td>微信朋友圈</td></tr><tr><td>门店推广</td><td>QQ门店</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐<br/>腾讯新闻<br/>腾讯视频</td></tr><tr><td>QQ消息推广</td><td>-</td><td>手机QQ<br/>腾讯信息流<br/>腾讯音乐</td></tr></tbody></table><h3>四、选择投放目标人群</h3><p>选择广告想要投放的目标人群，提供人口学属性、用户行为、自定义人群、设备定向等多种维度的人群标签，详情可点击“定向能力”专题了解。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/81_20210316095746_739967.jpg\"" alt=\""5666615859806149.jpg\""/>*注意事项：定向设置过程中可参考右侧预估最大日曝光量，避免设置定向过窄影响广告推广效果。</p><ul><li><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529202442_605317.png\"" alt=\""人数预估.png\""/></p></li></ul><h3>五、设置广告投放时间、出价和日预算</h3><ul><li><p>投放时间：广告仅在投放的日期和时间段范围内向用户展示</p></li><li><p>出价和预算：出价和预算会影响广告获得曝光的次数，系统会根据你的广告设置提供建议出价范围，你也可自行设置一个出价。不同版位和创意形式支持的出价方式不同，详情请参考“售卖策略”专项介绍。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003113_900170.png\"" alt=\""7.png\""/></p></li></ul><h3>设置广告名称</h3><p>设置广告名称，为你的广告设置名称，方便管理。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003236_488699.png\"" alt=\""15.png\""/></p><h2>第三步：设置创意</h2><h3>一、选择广告在流量上的呈现样式</h3><p>选择广告在流量上的呈现样式，填写对应样式所需的内容。不同广告版位下相同创意形式需填写的信息有所差异，具体请参考“广告形态”专项介绍。</p><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525113204_832507.png\"" alt=\""真的999.png\""/></p><p>*注意事项：创意内容填写过程中，可在右侧实时预览创意效果，或填写完成后进行完整预览。</p><ul><li><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529203231_443505.png\"" alt=\""创意预览.png\""/></p></li></ul><p>*注意事项：创意填写完成后，可点击“素材自助检测”进行创意自助审核检测，提高审核通过率。</p><ul><li><p><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/81_20200529203251_913722.png\"" alt=\""创意检测.png\""/></p></li></ul><h3>二、提交广告</h3><p>完成推广计划-广告-广告创意的设置后，点击“提交”，将会呈现你所设置的信息，确认无误后点击“提交广告”即可完成广告创建。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/56_20200525113506_804602.png\"" alt=\""确认3333.png\""/></p><p>广告提交成功后，广告进入审核阶段，你可在弹窗中快捷选择复制广告或继续新建广告。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2020/78_20200526003327_259078.png\"" alt=\""13.png\""/></p>""},{""type"":""rich_text_list"",""label"":""常见问题"",""field"":""questions"",""content"":[{""question"":"""",""answer"":""""}],""contentKeyConfig"":{""title"":""question"",""content"":""answer""}},{""type"":""rich_text_list"",""label"":""相关课程"",""field"":""courses"",""content"":[{""name"":"""",""content"":""""}],""contentKeyConfig"":{""title"":""name"",""content"":""content""}},{""type"":""link_input"",""label"":""相关资讯"",""field"":""news"",""content"":"""",""contentKeyConfig"":{""title"":""title"",""content"":""url""}}]}",https://e.qq.com/ads/helpcenter/detail?cid=501&pid=5817,2021-11-26 18:27:14
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,本地行业广告素材准备指南,"# 使用指引
 ## **广告文案建议**
 ### 1. 内容
@@ -1030,7 +1245,11 @@ A：到达率=小程序唤起PV/广告点击PV。安卓到达率约30~55%，iOS�
 
 ### 2.拍摄技巧
 拍摄角度可以选择45度顶视、顶视和平拍。
+<<<<<<< HEAD
 ![7.jpeg](https://bbx-pic.gtimg.com/bbx/pictures/2021/284_20210908194822_384741.jpeg)",https://e.qq.com/ads/helpcenter/detail?cid=1853&pid=5602
+=======
+![7.jpeg](https://bbx-pic.gtimg.com/bbx/pictures/2021/284_20210908194822_384741.jpeg)",https://e.qq.com/ads/helpcenter/detail?cid=1853&pid=5602,2021-11-04 11:41:17
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,腾讯广告创意小程序上线,"# 功能介绍
 为了方便优化师和设计师们随时随地查看创意，腾讯广告近日推出创意排行榜小程序版，扫描下方小程序码即可马上进入体验，同时建议大家点击小程序右上角，添加到我的小程序里。   
 ![5.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/178_20210812113143_882928.png)            
@@ -1078,7 +1297,11 @@ A：到达率=小程序唤起PV/广告点击PV。安卓到达率约30~55%，iOS�
 * 创意详情页中，点击右下角分享该条创意给微信好友 
 ![5.6.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/178_20210812113514_433142.png)
 快扫码体验这场神奇的创意漫游吧。
+<<<<<<< HEAD
 ![5.7.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/178_20210812113533_581736.png)",https://e.qq.com/ads/helpcenter/detail?cid=1675&pid=5370
+=======
+![5.7.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/178_20210812113533_581736.png)",https://e.qq.com/ads/helpcenter/detail?cid=1675&pid=5370,2021-11-04 11:41:12
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,【网页推广】推广目标下线计划,"# 功能介绍
 ## **腾讯广告「网页推广」推广目标下线公告**
                                                 
@@ -1124,8 +1347,13 @@ A：到达率=小程序唤起PV/广告点击PV。安卓到达率约30~55%，iOS�
 
 
 请您及时切换，避免影响您的广告营销投放。如果您在使用过程中仍有疑问，可以联系对接运营，我们会及时响应您的问题。
+<<<<<<< HEAD
 感谢您的支持与理解",https://e.qq.com/ads/helpcenter/detail?cid=502&pid=5119
 0,智能投手,"{""content"":[{""type"":""rich_text"",""label"":""功能介绍"",""field"":""features"",""content"":""<h2>产品介绍</h2><p>智能投手是为了解决客户日常面临的投放量级大、投放及管理成本高，以及广告效果变化频繁、实时盯盘优化门槛高等效率与效果问题而产生的。\n其核心目标是帮助客户提升投放的效率，释放日常运营人力；同时，结合行业特性，为客户提供半自动或者全自动的智能投放解决方案。</p><h2>核心能力</h2><ul><li><p>跨账户批量创建：客户可跨账户，根据“版位x定向x素材x落地页”的方式，自动批量创建广告，有效提升广告创建的效率。</p></li><li><p>跨账户自定义托管：客户可提前定义托管的条件等信息，系统会定时自动为客户进行服务号消息推送或执行对应的操作，保证线上账户跟广告的监控及时性。</p></li><li><p>一键托管（灰度中）：根据优质客户的操作习惯及行业投放特点，系统会自动为客户监控线上广告并及时调优，保证最终的投放效果。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/212_20210301214848_307629.JPG\"" alt=\""幻灯片4.JPG\""/></p></li></ul>""},{""type"":""rich_text"",""label"":""功能指引"",""field"":""guides"",""content"":""""},{""type"":""rich_text_list"",""label"":""常见问题"",""field"":""questions"",""content"":[{""question"":"""",""answer"":""""}],""contentKeyConfig"":{""title"":""question"",""content"":""answer""}},{""type"":""rich_text_list"",""label"":""相关课程"",""field"":""courses"",""content"":[{""name"":""智能投手-新功能操作及案例分享"",""content"":""<p><a href=\""https://edu.tencentads.com/Training/Detail/fa8e883e-aec\"" target=\""_blank\""><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/257_20211104172653_531286.png\"" style=\""width: undefined;height: undefined;\""/></a></p>""},{""name"":""智能投手-优化师提效专题"",""content"":""<p><a href=\""https://edu.tencentads.com/Training/Detail/39648004-0d5\"" target=\""_blank\""><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/257_20211104172855_170801.png\"" style=\""width: undefined;height: undefined;\""/></a></p>""},{""name"":""智能投手操作流程培训"",""content"":""<p><a href=\""https://edu.tencentads.com/Training/Detail/24d91edd-023\"" target=\""_self\""><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/257_20211104173017_205904.png\"" style=\""width: undefined;height: undefined;\""/></a></p>""}],""contentKeyConfig"":{""title"":""name"",""content"":""content""}},{""type"":""link_input"",""label"":""相关资讯"",""field"":""news"",""content"":[{""title"":""自定义托管复制类操作支持复合设置"",""url"":""https://e.qq.com/latestnews/detail/?pid=5778""},{""title"":""“批量新建”功能全量上线"",""url"":""https://e.qq.com/latestnews/detail/?pid=5310""},{""title"":""投放端支持查看自定义托管已设置的规则及执行记录"",""url"":""https://e.qq.com/latestnews/detail/?pid=5550""},{""title"":""自定义托管支持协作者查看同账户已有的托管规则"",""url"":""https://e.qq.com/latestnews/detail/?pid=5415""}],""contentKeyConfig"":{""title"":""title"",""content"":""url""}}]}",https://e.qq.com/ads/helpcenter/detail?cid=1517&pid=5919
+=======
+感谢您的支持与理解",https://e.qq.com/ads/helpcenter/detail?cid=502&pid=5119,2021-11-04 11:41:07
+0,智能投手,"{""content"":[{""type"":""rich_text"",""label"":""功能介绍"",""field"":""features"",""content"":""<h2>产品介绍</h2><p>智能投手是为了解决客户日常面临的投放量级大、投放及管理成本高，以及广告效果变化频繁、实时盯盘优化门槛高等效率与效果问题而产生的。\n其核心目标是帮助客户提升投放的效率，释放日常运营人力；同时，结合行业特性，为客户提供半自动或者全自动的智能投放解决方案。</p><h2>核心能力</h2><ul><li><p>跨账户批量创建：客户可跨账户，根据“版位x定向x素材x落地页”的方式，自动批量创建广告，有效提升广告创建的效率。</p></li><li><p>跨账户自定义托管：客户可提前定义托管的条件等信息，系统会定时自动为客户进行服务号消息推送或执行对应的操作，保证线上账户跟广告的监控及时性。</p></li><li><p>一键托管（灰度中）：根据优质客户的操作习惯及行业投放特点，系统会自动为客户监控线上广告并及时调优，保证最终的投放效果。<img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/212_20210301214848_307629.JPG\"" alt=\""幻灯片4.JPG\""/></p></li></ul>""},{""type"":""rich_text"",""label"":""功能指引"",""field"":""guides"",""content"":""""},{""type"":""rich_text_list"",""label"":""常见问题"",""field"":""questions"",""content"":[{""question"":"""",""answer"":""""}],""contentKeyConfig"":{""title"":""question"",""content"":""answer""}},{""type"":""rich_text_list"",""label"":""相关课程"",""field"":""courses"",""content"":[{""name"":""智能投手-新功能操作及案例分享"",""content"":""<p><a href=\""https://edu.tencentads.com/Training/Detail/fa8e883e-aec\"" target=\""_blank\""><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/257_20211104172653_531286.png\"" style=\""width: undefined;height: undefined;\""/></a></p>""},{""name"":""智能投手-优化师提效专题"",""content"":""<p><a href=\""https://edu.tencentads.com/Training/Detail/39648004-0d5\"" target=\""_blank\""><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/257_20211104172855_170801.png\"" style=\""width: undefined;height: undefined;\""/></a></p>""},{""name"":""智能投手操作流程培训"",""content"":""<p><a href=\""https://edu.tencentads.com/Training/Detail/24d91edd-023\"" target=\""_self\""><img src=\""https://bbx-pic.gtimg.com/bbx/pictures/2021/257_20211104173017_205904.png\"" style=\""width: undefined;height: undefined;\""/></a></p>""}],""contentKeyConfig"":{""title"":""name"",""content"":""content""}},{""type"":""link_input"",""label"":""相关资讯"",""field"":""news"",""content"":[{""title"":""自定义托管复制类操作支持复合设置"",""url"":""https://e.qq.com/latestnews/detail/?pid=5778""},{""title"":""“批量新建”功能全量上线"",""url"":""https://e.qq.com/latestnews/detail/?pid=5310""},{""title"":""投放端支持查看自定义托管已设置的规则及执行记录"",""url"":""https://e.qq.com/latestnews/detail/?pid=5550""},{""title"":""自定义托管支持协作者查看同账户已有的托管规则"",""url"":""https://e.qq.com/latestnews/detail/?pid=5415""}],""contentKeyConfig"":{""title"":""title"",""content"":""url""}}]}",https://e.qq.com/ads/helpcenter/detail?cid=1517&pid=5919,2021-11-04 17:30:45
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,跳转厂商应用商店,"# 功能介绍
 ## ** 什么是厂商应用商店直达能力？** 
 在安卓应用推广下载安装链路，开启厂商应用商店后，可实现原点击广告下载应用场景直接跳至用户手机的应用商店进入推广应用的详情页，进行下载安装。因此，并确保应用在华为、OPPO、VIVO、小米应用商店上架，未上架的厂商请在“设备品牌型号”定向中屏蔽，否则将导致跳转失败。
@@ -1238,6 +1466,7 @@ c) 如果落地页中配置了多个下载按钮或图片热区，则点击任�
 **三、 广告投放操作流程** 
 
 1、 在广告创意层不进行厂商直达配置，否则不会进入落地页；
+<<<<<<< HEAD
 2、 流量端白名单申请：需联系行业运营申请开通流量端白名单；",https://e.qq.com/ads/helpcenter/detail?cid=1909&pid=5481
 0,行业讯达产品介绍,"# 功能介绍
 ###  讯达产品为线索行业广告主提供全链路营销解决方案，目前包含车讯达，房讯达，家讯达产品
@@ -1312,6 +1541,9 @@ c) 如果落地页中配置了多个下载按钮或图片热区，则点击任�
 
 
 如有合作，请联系jiaxunda@tencent.com",https://e.qq.com/ads/helpcenter/detail?cid=1815&pid=5234
+=======
+2、 流量端白名单申请：需联系行业运营申请开通流量端白名单；",https://e.qq.com/ads/helpcenter/detail?cid=1909&pid=5481,2021-12-30 12:49:17
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,微电影视频衍生产品介绍,"# 功能介绍
 ### 1. 什么是微电影视频衍生
 
@@ -1441,7 +1673,84 @@ step3：系统将该广告下的单图/多图/视频转成视频创意，插入�
 3） 微信朋友圈安卓推广目标使用简版原生页需配置白名单，可联系danyanzhang。
 
 # 常见问题
+<<<<<<< HEAD
 ![5.16.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/178_20210817152019_209987.png)",https://e.qq.com/ads/helpcenter/detail?cid=1695&pid=5492
+=======
+![5.16.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/178_20210817152019_209987.png)",https://e.qq.com/ads/helpcenter/detail?cid=1695&pid=5492,2021-11-04 11:41:15
+0,行业讯达产品介绍,"# 功能介绍
+###  讯达产品为线索行业广告主提供全链路营销解决方案，目前包含车讯达，房讯达，家讯达产品
+
+## 车讯达
+车讯达为汽车行业广告主提供小程序部署、落地页搭建、线索管理、后链路运营的能力。
+
+![image.png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210728114247_967476.png)
+
+### 1. 快速部署小程序
+车讯达可快速部署、升级客户小程序，并搭配不同的版本和功能，满足行业客户不同需求
+
+### 2. 多留资入口
+车讯达提供了多样丰富的留资入口和组件，让用户在各种使用场景中留下线索
+![image (1).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210728114817_838277.png)
+
+### 3. 线索留存与线索匹配
+借助小程序原生功能，用户可一键授权留存线索，并将线索字段匹配给最近的经销商销售。缩短线索下发流程，提升线索转化
+
+### 4. 线索跟进
+销售可管理所有客户，实时接收客户IM沟通信息，对客户进行信息完善，标签区分和状态跟进
+![image (2).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210728114851_756738.png)
+
+### 5. 企微后链路
+使用企业微信进行办公管理的广告主，可以授权车讯达企微应用，使用车讯达企微应用工具对客户进行长效联系。
+借助企微应，销售可以实时接收车讯达分配的线索，并添加客户微信好友保持长效沟通，及时触达客户并发送相关活动、营销等消息
+销售可以对客户进行拉群、群发消息，设置欢迎语，使用便捷话术等功能
+可以使用卡券、收款等营销功能，引流客户到店，促成交易
+管理者可以查看分析销售人员运营数据，全局掌控
+![image (3).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210728114919_258154.png)
+
+如有合作，请联系chexunda@tencent.com
+
+
+## 房讯达
+房讯达是为房产行业打造的全链路获客平台，帮助房企推动营销全链路数字化升级的新利器。
+房讯达产品功能全面覆盖三端，用户端-小程序，销售端-小程序，管理端-PC管理后台，高效便捷，门槛低，可快速部署上线。
+![image (4).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210729094845_610851.png)
+
+### 1. 快速部署小程序
+房讯达采用的统一小程序主站，投放客户通过申请项目即可获取后台使用权限（资料提交少、流程快）、楼盘页面生成简单且实时性强。
+
+### 2. 多留资入口护航，全方位触发用户留资
+![image (5).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210729094950_629677.png)
+
+### 3. 双平台线索管理，提升服务效率和管控能力
+![image (6).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210729095002_196958.png)
+
+如有合作，请联系jqchen@tencent.com
+
+## 家讯达
+家讯达是专为家居行业广告主定制的广告营销产品，基于小程序生态打通前端获客和后端跟进，提供从营销管理到线索收集、从线索跟踪转化到私域运营的全链路营销解决方案。
+![image (7).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210729095112_525355.png)
+
+
+### 1. 快速部署小程序
+家讯达可快速部署、升级客户小程序，并搭配不同的版本和功能，满足行业客户不同需求。从接入到内容配置到小程序上线，最快仅需1周时间。
+
+### 2. 丰富的家居行业营销能力
+家讯达提供了丰富的营销能力，如品牌首页、家装案例库、获取装修报价、营销活动、卡券等，让用户在各种场景中留下线索。
+![image (8).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210729095152_910620.png)
+
+
+### 3. 多种线索转化链路
+家讯达提供了多样丰富的留资入口和组件，通过引导式留资、强化增加留资入口，提升用户的留资转化率。主要收集一键授权手机号、表单、智能电话拨打、在线咨询类型的线索。
+![image (9).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210729095239_961205.png)
+
+
+### 4. 一站式线索管理（PC+移动）
+家讯达提供了PC端和移动端销售小程序的线索管理能力，并且线索数据、跟进标记数据会回传并反哺腾讯广告投放效果。
+![image (10).png](https://bbx-pic.gtimg.com/bbx/pictures/2021/99_20210729095310_683828.png)
+
+
+如有合作，请联系jiaxunda@tencent.com",https://e.qq.com/ads/helpcenter/detail?cid=1815&pid=5234,2021-11-04 11:41:10
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
 0,大货电商投诉处理流程,"# 大货电商投诉处理流程
 
 ## **方案说明**
@@ -1489,4 +1798,8 @@ step3：系统将该广告下的单图/多图/视频转成视频创意，插入�
 
 当广告主售后处理率＜50%，进行广告主警告和限制提交新广告
 
+<<<<<<< HEAD
 当广告主售后处理率＜30%，进行存量广告全部下架和限制提交新广告",https://e.qq.com/ads/helpcenter/detail?cid=1982&pid=5745
+=======
+当广告主售后处理率＜30%，进行存量广告全部下架和限制提交新广告",https://e.qq.com/ads/helpcenter/detail?cid=1982&pid=5745,2021-10-21 16:42:42
+>>>>>>> e3746b0b247fcb6b33dafe3ec51dbd9b5a91b233
