@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-c_dir = 'data_all_in_one'
+c_dir = 'data_all_in_one_with_url'
 files = os.listdir(c_dir)
 
 print(files)
@@ -14,10 +14,10 @@ for csv in files:
     # df = pd.concat([df,df_temp])
     # df.append(df_temp)
     
-    df_temp.to_csv('final.csv',index=False, header=False, mode='a+')
-    df = pd.read_csv('final.csv')
+    df_temp.to_csv('final_with_url.csv',index=False, header=False, mode='a+')
+    df = pd.read_csv('final_with_url.csv')
     print(df.shape)
     
 
 # df.to_csv('final.csv')
-# print(df.describe())
+print(df.info)
